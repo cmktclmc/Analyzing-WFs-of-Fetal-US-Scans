@@ -12,7 +12,9 @@ This repository contains the code and data associated with a thesis submitted in
 - `label_conversion_csvs/`: Includes all conversions between ground truth annotated labels and their classes.
 - `sononet/`: Taken directly from https://github.com/rdroste/SonoNet_PyTorch/tree/master.
 - Other python files included are able to finetune, visualize results, detect labels, and split the dataset into the train and test used.
-Note this repository stems from: https://github.com/surgical-vision/proximity-to-sp-us-videos
+
+
+- Note this repository stems from: https://github.com/surgical-vision/proximity-to-sp-us-videos
 
 ## Getting Started
 
