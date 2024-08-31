@@ -1,0 +1,6866 @@
+Index,Collected,True Label,New Label
+0,0,,
+1,0,,
+2,0,,
+3,0,,
+4,0,,
+5,0,,
+6,0,,
+7,0,,
+8,0,,
+9,0,,
+10,0,,
+11,0,,
+12,0,,
+13,0,,
+14,0,,
+15,0,,
+16,0,,
+17,0,,
+18,0,,
+19,0,,
+20,0,,
+21,0,,
+22,0,,
+23,0,,
+24,0,,
+25,0,,
+26,0,,
+27,0,,
+28,0,,
+29,0,,
+30,0,,
+31,0,,
+32,0,,
+33,0,,
+34,0,,
+35,0,,
+36,0,,
+37,0,,
+38,0,,
+39,0,,
+40,0,,
+41,0,,
+42,0,,
+43,0,,
+44,0,,
+45,0,,
+46,0,,
+47,0,,
+48,0,,
+49,0,,
+50,0,,
+51,0,,
+52,0,,
+53,0,,
+54,0,,
+55,0,,
+56,0,,
+57,0,,
+58,0,,
+59,0,,
+60,0,,
+61,0,,
+62,0,,
+63,0,,
+64,0,,
+65,0,,
+66,0,,
+67,0,,
+68,0,,
+69,0,,
+70,0,,
+71,0,,
+72,0,,
+73,0,,
+74,0,,
+75,0,,
+76,0,,
+77,0,,
+78,0,,
+79,0,,
+80,0,,
+81,0,,
+82,0,,
+83,0,,
+84,0,,
+85,0,,
+86,0,,
+87,0,,
+88,0,,
+89,0,,
+90,0,,
+91,0,,
+92,0,,
+93,0,,
+94,0,,
+95,0,,
+96,0,,
+97,0,,
+98,0,,
+99,0,,
+100,0,,
+101,0,,
+102,0,,
+103,0,,
+104,0,,
+105,0,,
+106,0,,
+107,0,,
+108,0,,
+109,0,,
+110,0,,
+111,0,,
+112,0,,
+113,0,,
+114,0,,
+115,0,,
+116,0,,
+117,0,,
+118,0,,
+119,0,,
+120,0,,
+121,0,,
+122,0,,
+123,0,,
+124,0,,
+125,0,,
+126,0,,
+127,0,,
+128,0,,
+129,0,,
+130,0,,
+131,0,,
+132,0,,
+133,0,,
+134,0,,
+135,0,,
+136,0,,
+137,0,,
+138,0,,
+139,0,,
+140,0,,
+141,0,,
+142,0,,
+143,0,,
+144,0,,
+145,0,,
+146,0,,
+147,0,,
+148,0,,
+149,0,,
+150,0,,
+151,0,,
+152,0,,
+153,0,,
+154,0,,
+155,0,,
+156,0,,
+157,0,,
+158,0,,
+159,0,,
+160,0,,
+161,0,,
+162,0,,
+163,0,,
+164,0,,
+165,0,,
+166,0,,
+167,0,,
+168,0,,
+169,0,,
+170,0,,
+171,0,,
+172,0,,
+173,0,,
+174,0,,
+175,0,,
+176,0,,
+177,0,,
+178,0,,
+179,0,,
+180,0,,
+181,0,,
+182,0,,
+183,0,,
+184,0,,
+185,0,,
+186,0,,
+187,0,,
+188,0,,
+189,0,,
+190,0,,
+191,0,,
+192,0,,
+193,0,,
+194,0,,
+195,0,,
+196,0,,
+197,0,,
+198,0,,
+199,0,,
+200,0,,
+201,0,,
+202,0,,
+203,0,,
+204,0,,
+205,0,,
+206,0,,
+207,0,,
+208,0,,
+209,0,,
+210,0,,
+211,0,,
+212,0,,
+213,0,,
+214,0,,
+215,0,,
+216,0,,
+217,0,,
+218,0,,
+219,0,,
+220,0,,
+221,0,,
+222,0,,
+223,0,,
+224,0,,
+225,0,,
+226,0,,
+227,0,,
+228,0,,
+229,0,,
+230,0,,
+231,0,,
+232,0,,
+233,0,,
+234,0,,
+235,0,,
+236,0,,
+237,0,,
+238,0,,
+239,0,,
+240,0,,
+241,0,,
+242,0,,
+243,0,,
+244,0,,
+245,0,,
+246,0,,
+247,0,,
+248,0,,
+249,0,,
+250,0,,
+251,0,,
+252,0,,
+253,0,,
+254,0,,
+255,0,,
+256,0,,
+257,0,,
+258,0,,
+259,0,,
+260,0,,
+261,0,,
+262,0,,
+263,0,,
+264,0,,
+265,0,,
+266,0,,
+267,0,,
+268,0,,
+269,0,,
+270,0,,
+271,0,,
+272,0,,
+273,0,,
+274,0,,
+275,0,,
+276,0,,
+277,0,,
+278,0,,
+279,0,,
+280,0,,
+281,0,,
+282,0,,
+283,0,,
+284,0,,
+285,0,,
+286,0,,
+287,0,,
+288,0,,
+289,0,,
+290,0,,
+291,0,,
+292,0,,
+293,0,,
+294,0,,
+295,0,,
+296,0,,
+297,0,,
+298,0,,
+299,0,,
+300,0,,
+301,0,,
+302,0,,
+303,0,,
+304,0,,
+305,0,,
+306,0,,
+307,0,,
+308,0,,
+309,0,,
+310,0,,
+311,0,,
+312,0,,
+313,0,,
+314,0,,
+315,0,,
+316,0,,
+317,0,,
+318,0,,
+319,0,,
+320,0,,
+321,0,,
+322,0,,
+323,0,,
+324,0,,
+325,0,,
+326,0,,
+327,0,,
+328,0,,
+329,0,,
+330,0,,
+331,0,,
+332,0,,
+333,0,,
+334,0,,
+335,0,,
+336,0,,
+337,0,,
+338,0,,
+339,0,,
+340,0,,
+341,0,,
+342,0,,
+343,0,,
+344,0,,
+345,0,,
+346,0,,
+347,0,,
+348,0,,
+349,0,,
+350,0,,
+351,0,,
+352,0,,
+353,0,,
+354,0,,
+355,0,,
+356,0,,
+357,0,,
+358,0,,
+359,0,,
+360,0,,
+361,0,,
+362,0,,
+363,0,,
+364,0,,
+365,0,,
+366,0,,
+367,0,,
+368,0,,
+369,0,,
+370,0,,
+371,0,,
+372,0,,
+373,0,,
+374,0,,
+375,0,,
+376,0,,
+377,0,,
+378,0,,
+379,0,,
+380,0,,
+381,0,,
+382,0,,
+383,0,,
+384,0,,
+385,0,,
+386,0,,
+387,0,,
+388,0,,
+389,0,,
+390,0,,
+391,0,,
+392,0,,
+393,0,,
+394,0,,
+395,0,,
+396,0,,
+397,0,,
+398,0,,
+399,0,,
+400,0,,
+401,0,,
+402,0,,
+403,0,,
+404,0,,
+405,0,,
+406,0,,
+407,0,,
+408,0,,
+409,0,,
+410,0,,
+411,0,,
+412,0,,
+413,0,,
+414,0,,
+415,0,,
+416,0,,
+417,0,,
+418,0,,
+419,0,,
+420,0,,
+421,0,,
+422,0,,
+423,0,,
+424,0,,
+425,0,,
+426,0,,
+427,0,,
+428,0,,
+429,0,,
+430,0,,
+431,0,,
+432,0,,
+433,0,,
+434,0,,
+435,0,,
+436,0,,
+437,0,,
+438,0,,
+439,0,,
+440,0,,
+441,0,,
+442,0,,
+443,0,,
+444,0,,
+445,0,,
+446,0,,
+447,0,,
+448,0,,
+449,0,,
+450,0,,
+451,0,,
+452,0,,
+453,0,,
+454,0,,
+455,0,,
+456,0,,
+457,0,,
+458,0,,
+459,0,,
+460,0,,
+461,0,,
+462,0,,
+463,0,,
+464,0,,
+465,0,,
+466,0,,
+467,0,,
+468,0,,
+469,0,,
+470,0,,
+471,0,,
+472,0,,
+473,0,,
+474,0,,
+475,0,,
+476,0,,
+477,0,,
+478,0,,
+479,0,,
+480,0,,
+481,0,,
+482,0,,
+483,0,,
+484,0,,
+485,0,,
+486,0,,
+487,0,,
+488,0,,
+489,0,,
+490,0,,
+491,0,heart activity,heart activity
+492,0,heart activity,heart activity
+493,0,heart activity,heart activity
+494,0,heart activity,heart activity
+495,0,heart activity,heart activity
+496,0,heart activity,heart activity
+497,0,heart activity,heart activity
+498,0,heart activity,heart activity
+499,0,heart activity,heart activity
+500,0,heart activity,heart activity
+501,0,heart activity,heart activity
+502,0,heart activity,heart activity
+503,0,heart activity,heart activity
+504,0,heart activity,heart activity
+505,0,heart activity,heart activity
+506,0,heart activity,heart activity
+507,0,heart activity,heart activity
+508,0,heart activity,heart activity
+509,0,heart activity,heart activity
+510,0,heart activity,heart activity
+511,0,heart activity,heart activity
+512,0,heart activity,heart activity
+513,0,heart activity,heart activity
+514,0,heart activity,heart activity
+515,0,heart activity,heart activity
+516,0,heart activity,heart activity
+517,0,heart activity,heart activity
+518,0,heart activity,heart activity
+519,0,heart activity,heart activity
+520,0,heart activity,heart activity
+521,0,,heart activity
+522,0,,heart activity
+523,0,,heart activity
+524,0,,heart activity
+525,0,,heart activity
+526,0,,heart activity
+527,0,,heart activity
+528,0,,heart activity
+529,0,,heart activity
+530,0,,heart activity
+531,0,,heart activity
+532,0,,heart activity
+533,0,,heart activity
+534,0,,heart activity
+535,0,,heart activity
+536,0,,heart activity
+537,0,,heart activity
+538,0,,heart activity
+539,0,,heart activity
+540,0,,heart activity
+541,0,,heart activity
+542,0,,heart activity
+543,0,,heart activity
+544,0,,heart activity
+545,0,,heart activity
+546,0,,heart activity
+547,0,,heart activity
+548,0,,heart activity
+549,0,,heart activity
+550,0,,heart activity
+551,0,,heart activity
+552,0,,heart activity
+553,0,,heart activity
+554,0,,heart activity
+555,0,,heart activity
+556,0,,heart activity
+557,0,,heart activity
+558,0,,heart activity
+559,0,,heart activity
+560,0,,heart activity
+561,0,,heart activity
+562,0,,heart activity
+563,0,,heart activity
+564,0,,heart activity
+565,0,,heart activity
+566,0,,heart activity
+567,0,,heart activity
+568,0,,heart activity
+569,0,,heart activity
+570,0,,heart activity
+571,0,,heart activity
+572,0,,heart activity
+573,0,,heart activity
+574,0,,heart activity
+575,0,,heart activity
+576,0,,heart activity
+577,0,,heart activity
+578,0,,heart activity
+579,0,,heart activity
+580,0,,heart activity
+581,0,,heart activity
+582,0,,heart activity
+583,0,,heart activity
+584,0,,heart activity
+585,0,,heart activity
+586,0,,heart activity
+587,0,,heart activity
+588,0,,heart activity
+589,0,,heart activity
+590,0,,heart activity
+591,0,,heart activity
+592,0,,heart activity
+593,0,,heart activity
+594,0,,heart activity
+595,0,,heart activity
+596,0,,heart activity
+597,0,,heart activity
+598,0,,heart activity
+599,0,,heart activity
+600,0,,heart activity
+601,0,,heart activity
+602,0,,heart activity
+603,0,transventricular plane head circumference,transventricular plane head circumference
+604,0,transventricular plane head circumference,transventricular plane head circumference
+605,0,transventricular plane head circumference,transventricular plane head circumference
+606,0,transventricular plane head circumference,transventricular plane head circumference
+607,0,transventricular plane head circumference,transventricular plane head circumference
+608,0,transventricular plane head circumference,transventricular plane head circumference
+609,0,transventricular plane head circumference,transventricular plane head circumference
+610,0,transventricular plane head circumference,transventricular plane head circumference
+611,0,transventricular plane head circumference,transventricular plane head circumference
+612,0,transventricular plane head circumference,transventricular plane head circumference
+613,0,transventricular plane head circumference,transventricular plane head circumference
+614,0,transventricular plane head circumference,transventricular plane head circumference
+615,0,transventricular plane head circumference,transventricular plane head circumference
+616,0,transventricular plane head circumference,transventricular plane head circumference
+617,0,transventricular plane head circumference,transventricular plane head circumference
+618,0,transventricular plane head circumference,transventricular plane head circumference
+619,0,transventricular plane head circumference,transventricular plane head circumference
+620,0,transventricular plane head circumference,transventricular plane head circumference
+621,0,transventricular plane head circumference,transventricular plane head circumference
+622,0,transventricular plane head circumference,transventricular plane head circumference
+623,0,transventricular plane head circumference,transventricular plane head circumference
+624,0,transventricular plane head circumference,transventricular plane head circumference
+625,0,transventricular plane head circumference,transventricular plane head circumference
+626,0,transventricular plane head circumference,transventricular plane head circumference
+627,0,transventricular plane head circumference,transventricular plane head circumference
+628,0,transventricular plane head circumference,transventricular plane head circumference
+629,0,transventricular plane head circumference,transventricular plane head circumference
+630,0,transventricular plane head circumference,transventricular plane head circumference
+631,0,transventricular plane head circumference,transventricular plane head circumference
+632,0,transventricular plane head circumference,transventricular plane head circumference
+633,0,,transventricular plane head circumference
+634,0,,transventricular plane head circumference
+635,0,,transventricular plane head circumference
+636,0,,transventricular plane head circumference
+637,0,,transventricular plane head circumference
+638,0,,transventricular plane head circumference
+639,0,,transventricular plane head circumference
+640,0,,transventricular plane head circumference
+641,0,,transventricular plane head circumference
+642,0,,transventricular plane head circumference
+643,0,,transventricular plane head circumference
+644,0,,transventricular plane head circumference
+645,0,,transventricular plane head circumference
+646,0,,transventricular plane head circumference
+647,0,,transventricular plane head circumference
+648,0,,transventricular plane head circumference
+649,0,,transventricular plane head circumference
+650,0,,transventricular plane head circumference
+651,0,,transventricular plane head circumference
+652,0,,transventricular plane head circumference
+653,0,,transventricular plane head circumference
+654,0,,transventricular plane head circumference
+655,0,,transventricular plane head circumference
+656,0,,transventricular plane head circumference
+657,0,,transventricular plane head circumference
+658,0,,transventricular plane head circumference
+659,0,,transventricular plane head circumference
+660,0,,transventricular plane head circumference
+661,0,,transventricular plane head circumference
+662,0,,transventricular plane head circumference
+663,0,,transventricular plane head circumference
+664,0,,transventricular plane head circumference
+665,0,,transventricular plane head circumference
+666,0,,transventricular plane head circumference
+667,0,,transventricular plane head circumference
+668,0,,transventricular plane head circumference
+669,0,,transventricular plane head circumference
+670,0,,transventricular plane head circumference
+671,0,,transventricular plane head circumference
+672,0,,transventricular plane head circumference
+673,0,,transventricular plane head circumference
+674,0,,transventricular plane head circumference
+675,0,,transventricular plane head circumference
+676,0,,transventricular plane head circumference
+677,0,,transventricular plane head circumference
+678,0,,transventricular plane head circumference
+679,0,,transventricular plane head circumference
+680,0,,transventricular plane head circumference
+681,0,,transventricular plane head circumference
+682,0,,transventricular plane head circumference
+683,0,,transventricular plane head circumference
+684,0,,transventricular plane head circumference
+685,0,,transventricular plane head circumference
+686,0,,transventricular plane head circumference
+687,0,,transventricular plane head circumference
+688,0,,transventricular plane head circumference
+689,0,,transventricular plane head circumference
+690,0,,transventricular plane head circumference
+691,0,,transventricular plane head circumference
+692,0,,transventricular plane head circumference
+693,0,,transventricular plane head circumference
+694,0,,transventricular plane head circumference
+695,0,,transventricular plane head circumference
+696,0,,transventricular plane head circumference
+697,0,,transventricular plane head circumference
+698,0,,transventricular plane head circumference
+699,0,,transventricular plane head circumference
+700,0,,transventricular plane head circumference
+701,0,,transventricular plane head circumference
+702,0,,transventricular plane head circumference
+703,0,,transventricular plane head circumference
+704,0,,transventricular plane head circumference
+705,0,,transventricular plane head circumference
+706,0,,transventricular plane head circumference
+707,0,,transventricular plane head circumference
+708,0,,transventricular plane head circumference
+709,0,,transventricular plane head circumference
+710,0,,transventricular plane head circumference
+711,0,,transventricular plane head circumference
+712,0,,transventricular plane head circumference
+713,0,,transventricular plane head circumference
+714,0,,transventricular plane head circumference
+715,0,,transventricular plane head circumference
+716,0,,transventricular plane head circumference
+717,0,,transventricular plane head circumference
+718,0,,transventricular plane head circumference
+719,0,,transventricular plane head circumference
+720,0,,transventricular plane head circumference
+721,1,,transventricular plane head circumference
+722,0,,transventricular plane head circumference
+723,0,,transventricular plane head circumference
+724,0,,transventricular plane head circumference
+725,0,,transventricular plane head circumference
+726,0,,transventricular plane head circumference
+727,0,,transventricular plane head circumference
+728,0,,transventricular plane head circumference
+729,0,,transventricular plane head circumference
+730,0,,transventricular plane head circumference
+731,0,,transventricular plane head circumference
+732,0,,transventricular plane head circumference
+733,0,,transventricular plane head circumference
+734,0,,transventricular plane head circumference
+735,0,,transventricular plane head circumference
+736,0,,transventricular plane head circumference
+737,0,,transventricular plane head circumference
+738,0,,transventricular plane head circumference
+739,0,,transventricular plane head circumference
+740,0,,transventricular plane head circumference
+741,0,,transventricular plane head circumference
+742,0,,transventricular plane head circumference
+743,0,,transventricular plane head circumference
+744,0,,transventricular plane head circumference
+745,0,,transventricular plane head circumference
+746,0,,transventricular plane head circumference
+747,0,,transventricular plane head circumference
+748,0,,transventricular plane head circumference
+749,0,,transventricular plane head circumference
+750,0,,transventricular plane head circumference
+751,0,,transventricular plane head circumference
+752,0,,transventricular plane head circumference
+753,0,,transventricular plane head circumference
+754,0,,transventricular plane head circumference
+755,0,,transventricular plane head circumference
+756,0,,transventricular plane head circumference
+757,0,,transventricular plane head circumference
+758,0,,transventricular plane head circumference
+759,0,,transventricular plane head circumference
+760,0,,transventricular plane head circumference
+761,0,,transventricular plane head circumference
+762,0,,transventricular plane head circumference
+763,0,,transventricular plane head circumference
+764,0,,transventricular plane head circumference
+765,0,,transventricular plane head circumference
+766,0,,transventricular plane head circumference
+767,0,,transventricular plane head circumference
+768,0,,transventricular plane head circumference
+769,0,,transventricular plane head circumference
+770,0,,transventricular plane head circumference
+771,1,,
+772,0,,
+773,0,,
+774,0,,
+775,0,,
+776,0,,
+777,0,,
+778,0,,
+779,0,,
+780,0,,
+781,0,,
+782,0,,
+783,0,,
+784,0,,
+785,0,,
+786,0,,
+787,0,,
+788,0,,
+789,0,,
+790,0,,
+791,0,,
+792,0,,
+793,0,,
+794,0,,
+795,0,,
+796,0,,
+797,0,,
+798,0,,
+799,0,,
+800,0,,
+801,0,,
+802,0,,
+803,0,,
+804,0,,
+805,0,,
+806,0,,
+807,0,,
+808,0,,
+809,0,,
+810,0,,
+811,0,,
+812,0,,
+813,0,cerebellum,cerebellum
+814,0,cerebellum,cerebellum
+815,0,cerebellum,cerebellum
+816,0,cerebellum,cerebellum
+817,0,cerebellum,cerebellum
+818,0,cerebellum,cerebellum
+819,0,cerebellum,cerebellum
+820,0,cerebellum,cerebellum
+821,0,cerebellum,cerebellum
+822,0,cerebellum,cerebellum
+823,0,cerebellum,cerebellum
+824,0,cerebellum,cerebellum
+825,0,cerebellum,cerebellum
+826,0,cerebellum,cerebellum
+827,0,cerebellum,cerebellum
+828,0,cerebellum,cerebellum
+829,0,cerebellum,cerebellum
+830,0,cerebellum,cerebellum
+831,0,cerebellum,cerebellum
+832,0,cerebellum,cerebellum
+833,0,cerebellum,cerebellum
+834,0,cerebellum,cerebellum
+835,0,cerebellum,cerebellum
+836,0,cerebellum,cerebellum
+837,0,cerebellum,cerebellum
+838,0,cerebellum,cerebellum
+839,0,cerebellum,cerebellum
+840,0,cerebellum,cerebellum
+841,0,cerebellum,cerebellum
+842,0,cerebellum,cerebellum
+843,0,,cerebellum
+844,0,,cerebellum
+845,0,,cerebellum
+846,0,,cerebellum
+847,0,,cerebellum
+848,0,,cerebellum
+849,0,,cerebellum
+850,0,,cerebellum
+851,0,,cerebellum
+852,0,,cerebellum
+853,0,,cerebellum
+854,0,,cerebellum
+855,0,,cerebellum
+856,0,,cerebellum
+857,0,,cerebellum
+858,0,,cerebellum
+859,0,,cerebellum
+860,0,,cerebellum
+861,0,,cerebellum
+862,0,,cerebellum
+863,0,,cerebellum
+864,0,,cerebellum
+865,0,,cerebellum
+866,0,,cerebellum
+867,0,,cerebellum
+868,0,,cerebellum
+869,0,,cerebellum
+870,0,,cerebellum
+871,0,,cerebellum
+872,0,,cerebellum
+873,0,,cerebellum
+874,0,,cerebellum
+875,0,,cerebellum
+876,0,,cerebellum
+877,0,,cerebellum
+878,0,,cerebellum
+879,0,,cerebellum
+880,0,,cerebellum
+881,0,,cerebellum
+882,0,,cerebellum
+883,0,,cerebellum
+884,0,,cerebellum
+885,0,,cerebellum
+886,0,,cerebellum
+887,0,,cerebellum
+888,0,,cerebellum
+889,0,,cerebellum
+890,0,,cerebellum
+891,0,,cerebellum
+892,0,,cerebellum
+893,0,,cerebellum
+894,0,,cerebellum
+895,0,,cerebellum
+896,0,,cerebellum
+897,0,,cerebellum
+898,0,,cerebellum
+899,0,,cerebellum
+900,0,,cerebellum
+901,0,,cerebellum
+902,0,,cerebellum
+903,0,,cerebellum
+904,0,,cerebellum
+905,0,,cerebellum
+906,0,,cerebellum
+907,0,,cerebellum
+908,0,,cerebellum
+909,0,,cerebellum
+910,0,,cerebellum
+911,0,,cerebellum
+912,0,,cerebellum
+913,0,,cerebellum
+914,0,,cerebellum
+915,0,,cerebellum
+916,0,,cerebellum
+917,0,,cerebellum
+918,0,,cerebellum
+919,0,,cerebellum
+920,0,,cerebellum
+921,0,,cerebellum
+922,0,,cerebellum
+923,0,,cerebellum
+924,0,,cerebellum
+925,0,,cerebellum
+926,0,,cerebellum
+927,1,,cerebellum
+928,0,,cerebellum
+929,0,,cerebellum
+930,0,,cerebellum
+931,0,,cerebellum
+932,0,,cerebellum
+933,0,,cerebellum
+934,0,,cerebellum
+935,0,,cerebellum
+936,0,,cerebellum
+937,0,,cerebellum
+938,0,,cerebellum
+939,0,,cerebellum
+940,0,,cerebellum
+941,0,,cerebellum
+942,0,,cerebellum
+943,0,,cerebellum
+944,0,,cerebellum
+945,0,,cerebellum
+946,0,,cerebellum
+947,0,,cerebellum
+948,0,,cerebellum
+949,0,,cerebellum
+950,0,,cerebellum
+951,0,,cerebellum
+952,0,,cerebellum
+953,0,,cerebellum
+954,0,,cerebellum
+955,0,,cerebellum
+956,0,,cerebellum
+957,0,,cerebellum
+958,0,,cerebellum
+959,0,,cerebellum
+960,0,,cerebellum
+961,0,,cerebellum
+962,0,,cerebellum
+963,0,,cerebellum
+964,0,,cerebellum
+965,0,,cerebellum
+966,0,,cerebellum
+967,0,,cerebellum
+968,0,,cerebellum
+969,0,,cerebellum
+970,0,,cerebellum
+971,0,,cerebellum
+972,0,,cerebellum
+973,0,,cerebellum
+974,0,,cerebellum
+975,0,,cerebellum
+976,0,,cerebellum
+977,1,,cerebellum
+978,0,,cerebellum
+979,0,cerebellum,cerebellum
+980,0,cerebellum,cerebellum
+981,0,cerebellum,cerebellum
+982,0,cerebellum,cerebellum
+983,0,cerebellum,cerebellum
+984,0,cerebellum,cerebellum
+985,0,cerebellum,cerebellum
+986,0,cerebellum,cerebellum
+987,0,cerebellum,cerebellum
+988,0,cerebellum,cerebellum
+989,0,cerebellum,cerebellum
+990,0,cerebellum,cerebellum
+991,0,cerebellum,cerebellum
+992,0,cerebellum,cerebellum
+993,0,cerebellum,cerebellum
+994,0,cerebellum,cerebellum
+995,0,cerebellum,cerebellum
+996,0,cerebellum,cerebellum
+997,0,cerebellum,cerebellum
+998,0,cerebellum,cerebellum
+999,0,cerebellum,cerebellum
+1000,0,cerebellum,cerebellum
+1001,0,cerebellum,cerebellum
+1002,0,cerebellum,cerebellum
+1003,0,cerebellum,cerebellum
+1004,0,cerebellum,cerebellum
+1005,0,cerebellum,cerebellum
+1006,0,cerebellum,cerebellum
+1007,0,cerebellum,cerebellum
+1008,0,cerebellum,cerebellum
+1009,0,,cerebellum
+1010,0,,cerebellum
+1011,1,,cerebellum
+1012,0,,cerebellum
+1013,0,,cerebellum
+1014,0,,cerebellum
+1015,0,,cerebellum
+1016,0,,cerebellum
+1017,0,,cerebellum
+1018,0,,cerebellum
+1019,0,,cerebellum
+1020,0,,cerebellum
+1021,0,,cerebellum
+1022,0,,cerebellum
+1023,0,,cerebellum
+1024,0,,cerebellum
+1025,0,,cerebellum
+1026,0,,cerebellum
+1027,0,,cerebellum
+1028,0,,cerebellum
+1029,0,,cerebellum
+1030,0,,cerebellum
+1031,0,,cerebellum
+1032,0,,cerebellum
+1033,0,,cerebellum
+1034,0,,cerebellum
+1035,0,,cerebellum
+1036,0,,cerebellum
+1037,0,,cerebellum
+1038,0,,cerebellum
+1039,0,,cerebellum
+1040,0,,cerebellum
+1041,0,,cerebellum
+1042,0,,cerebellum
+1043,0,,cerebellum
+1044,0,,cerebellum
+1045,0,,cerebellum
+1046,0,,cerebellum
+1047,0,,cerebellum
+1048,0,,cerebellum
+1049,0,,cerebellum
+1050,0,,cerebellum
+1051,0,,cerebellum
+1052,0,,cerebellum
+1053,0,,cerebellum
+1054,0,,cerebellum
+1055,0,,cerebellum
+1056,0,,cerebellum
+1057,0,,cerebellum
+1058,0,,cerebellum
+1059,0,,cerebellum
+1060,0,,cerebellum
+1061,0,,cerebellum
+1062,0,,cerebellum
+1063,0,,cerebellum
+1064,0,,cerebellum
+1065,0,,cerebellum
+1066,0,,cerebellum
+1067,0,,cerebellum
+1068,0,,cerebellum
+1069,0,,cerebellum
+1070,0,,cerebellum
+1071,0,,cerebellum
+1072,0,,cerebellum
+1073,0,,cerebellum
+1074,0,,cerebellum
+1075,0,,cerebellum
+1076,0,,cerebellum
+1077,0,,cerebellum
+1078,0,,cerebellum
+1079,0,,cerebellum
+1080,0,,cerebellum
+1081,0,,cerebellum
+1082,0,,cerebellum
+1083,0,,cerebellum
+1084,0,,cerebellum
+1085,0,,cerebellum
+1086,0,,cerebellum
+1087,0,,cerebellum
+1088,0,,cerebellum
+1089,0,,cerebellum
+1090,0,,cerebellum
+1091,0,,cerebellum
+1092,0,,cerebellum
+1093,0,,cerebellum
+1094,0,,cerebellum
+1095,0,,cerebellum
+1096,0,,cerebellum
+1097,0,,cerebellum
+1098,0,,cerebellum
+1099,0,,cerebellum
+1100,0,,cerebellum
+1101,0,,cerebellum
+1102,0,,cerebellum
+1103,0,,cerebellum
+1104,0,,cerebellum
+1105,0,,cerebellum
+1106,0,,cerebellum
+1107,0,,cerebellum
+1108,0,,cerebellum
+1109,0,,cerebellum
+1110,0,,cerebellum
+1111,0,,cerebellum
+1112,0,,cerebellum
+1113,0,,cerebellum
+1114,0,,cerebellum
+1115,0,,cerebellum
+1116,0,,cerebellum
+1117,0,,cerebellum
+1118,0,,cerebellum
+1119,0,,cerebellum
+1120,0,,cerebellum
+1121,1,,cerebellum
+1122,0,,cerebellum
+1123,0,,cerebellum
+1124,0,,cerebellum
+1125,0,,cerebellum
+1126,0,,cerebellum
+1127,0,,cerebellum
+1128,0,,cerebellum
+1129,0,,cerebellum
+1130,0,,cerebellum
+1131,0,,cerebellum
+1132,0,,cerebellum
+1133,0,,cerebellum
+1134,0,,cerebellum
+1135,0,,cerebellum
+1136,0,,cerebellum
+1137,0,,cerebellum
+1138,0,,cerebellum
+1139,0,,cerebellum
+1140,0,,cerebellum
+1141,0,,cerebellum
+1142,0,,cerebellum
+1143,0,,cerebellum
+1144,0,,cerebellum
+1145,0,,cerebellum
+1146,0,,cerebellum
+1147,0,,cerebellum
+1148,0,,cerebellum
+1149,1,,
+1150,0,,
+1151,0,,
+1152,0,,
+1153,0,,
+1154,0,,
+1155,0,,
+1156,0,three vessels view,three vessels view
+1157,0,three vessels view,three vessels view
+1158,0,three vessels view,three vessels view
+1159,0,three vessels view,three vessels view
+1160,0,three vessels view,three vessels view
+1161,0,three vessels view,three vessels view
+1162,0,three vessels view,three vessels view
+1163,0,three vessels view,three vessels view
+1164,0,three vessels view,three vessels view
+1165,0,three vessels view,three vessels view
+1166,0,three vessels view,three vessels view
+1167,0,three vessels view,three vessels view
+1168,0,three vessels view,three vessels view
+1169,0,three vessels view,three vessels view
+1170,0,three vessels view,three vessels view
+1171,0,three vessels view,three vessels view
+1172,0,three vessels view,three vessels view
+1173,0,three vessels view,three vessels view
+1174,0,three vessels view,three vessels view
+1175,0,three vessels view,three vessels view
+1176,0,three vessels view,three vessels view
+1177,0,three vessels view,three vessels view
+1178,0,three vessels view,three vessels view
+1179,0,three vessels view,three vessels view
+1180,0,three vessels view,three vessels view
+1181,0,three vessels view,three vessels view
+1182,0,three vessels view,three vessels view
+1183,0,three vessels view,three vessels view
+1184,0,three vessels view,three vessels view
+1185,0,three vessels view,three vessels view
+1186,0,,three vessels view
+1187,1,,
+1188,0,left outflow tract,left outflow tract
+1189,0,left outflow tract,left outflow tract
+1190,0,left outflow tract,left outflow tract
+1191,0,left outflow tract,left outflow tract
+1192,0,left outflow tract,left outflow tract
+1193,0,left outflow tract,left outflow tract
+1194,0,left outflow tract,left outflow tract
+1195,0,left outflow tract,left outflow tract
+1196,0,left outflow tract,left outflow tract
+1197,0,left outflow tract,left outflow tract
+1198,0,left outflow tract,left outflow tract
+1199,0,left outflow tract,left outflow tract
+1200,0,left outflow tract,left outflow tract
+1201,0,left outflow tract,left outflow tract
+1202,0,left outflow tract,left outflow tract
+1203,0,left outflow tract,left outflow tract
+1204,0,left outflow tract,left outflow tract
+1205,0,left outflow tract,left outflow tract
+1206,0,left outflow tract,left outflow tract
+1207,0,left outflow tract,left outflow tract
+1208,0,left outflow tract,left outflow tract
+1209,0,left outflow tract,left outflow tract
+1210,0,left outflow tract,left outflow tract
+1211,0,left outflow tract,left outflow tract
+1212,0,left outflow tract,left outflow tract
+1213,0,left outflow tract,left outflow tract
+1214,0,left outflow tract,left outflow tract
+1215,1,left outflow tract,left outflow tract
+1216,0,left outflow tract,left outflow tract
+1217,0,left outflow tract,left outflow tract
+1218,0,,left outflow tract
+1219,0,,left outflow tract
+1220,0,,left outflow tract
+1221,0,,left outflow tract
+1222,0,,left outflow tract
+1223,0,,left outflow tract
+1224,0,,left outflow tract
+1225,0,,left outflow tract
+1226,0,,left outflow tract
+1227,0,,left outflow tract
+1228,0,,left outflow tract
+1229,0,,left outflow tract
+1230,0,,left outflow tract
+1231,1,,left outflow tract
+1232,1,,left outflow tract
+1233,1,,left outflow tract
+1234,1,,left outflow tract
+1235,0,,left outflow tract
+1236,0,,left outflow tract
+1237,0,,left outflow tract
+1238,0,,left outflow tract
+1239,0,,left outflow tract
+1240,0,,left outflow tract
+1241,0,,left outflow tract
+1242,0,,left outflow tract
+1243,0,,left outflow tract
+1244,0,,left outflow tract
+1245,1,,left outflow tract
+1246,1,,left outflow tract
+1247,0,,left outflow tract
+1248,0,,left outflow tract
+1249,0,,left outflow tract
+1250,0,,left outflow tract
+1251,0,,left outflow tract
+1252,0,,left outflow tract
+1253,0,,left outflow tract
+1254,0,,left outflow tract
+1255,0,,left outflow tract
+1256,0,,left outflow tract
+1257,0,,left outflow tract
+1258,0,,left outflow tract
+1259,0,,left outflow tract
+1260,0,,left outflow tract
+1261,0,,left outflow tract
+1262,0,,left outflow tract
+1263,0,,left outflow tract
+1264,0,,left outflow tract
+1265,0,,left outflow tract
+1266,0,,left outflow tract
+1267,0,,left outflow tract
+1268,0,,left outflow tract
+1269,0,,left outflow tract
+1270,0,,left outflow tract
+1271,1,,left outflow tract
+1272,0,,left outflow tract
+1273,0,left outflow tract,left outflow tract
+1274,0,left outflow tract,left outflow tract
+1275,0,left outflow tract,left outflow tract
+1276,0,left outflow tract,left outflow tract
+1277,0,left outflow tract,left outflow tract
+1278,0,left outflow tract,left outflow tract
+1279,0,left outflow tract,left outflow tract
+1280,0,left outflow tract,left outflow tract
+1281,0,left outflow tract,left outflow tract
+1282,0,left outflow tract,left outflow tract
+1283,0,left outflow tract,left outflow tract
+1284,0,left outflow tract,left outflow tract
+1285,0,left outflow tract,left outflow tract
+1286,0,left outflow tract,left outflow tract
+1287,0,left outflow tract,left outflow tract
+1288,0,left outflow tract,left outflow tract
+1289,1,left outflow tract,left outflow tract
+1290,1,left outflow tract,left outflow tract
+1291,0,left outflow tract,left outflow tract
+1292,0,left outflow tract,left outflow tract
+1293,0,left outflow tract,left outflow tract
+1294,0,left outflow tract,left outflow tract
+1295,1,left outflow tract,left outflow tract
+1296,1,left outflow tract,left outflow tract
+1297,0,left outflow tract,left outflow tract
+1298,0,left outflow tract,left outflow tract
+1299,0,left outflow tract,left outflow tract
+1300,0,left outflow tract,left outflow tract
+1301,0,left outflow tract,left outflow tract
+1302,0,left outflow tract,left outflow tract
+1303,1,,left outflow tract
+1304,1,,left outflow tract
+1305,1,,left outflow tract
+1306,1,,left outflow tract
+1307,0,,left outflow tract
+1308,0,,left outflow tract
+1309,0,,left outflow tract
+1310,0,,left outflow tract
+1311,0,,left outflow tract
+1312,0,,left outflow tract
+1313,0,,left outflow tract
+1314,0,,left outflow tract
+1315,1,,left outflow tract
+1316,1,,left outflow tract
+1317,1,,left outflow tract
+1318,1,,left outflow tract
+1319,1,,left outflow tract
+1320,1,,left outflow tract
+1321,1,,
+1322,1,pulmonary artery doppler,pulmonary artery doppler
+1323,1,pulmonary artery doppler,pulmonary artery doppler
+1324,1,pulmonary artery doppler,pulmonary artery doppler
+1325,0,pulmonary artery doppler,pulmonary artery doppler
+1326,0,pulmonary artery doppler,pulmonary artery doppler
+1327,0,pulmonary artery doppler,pulmonary artery doppler
+1328,0,pulmonary artery doppler,pulmonary artery doppler
+1329,0,pulmonary artery doppler,pulmonary artery doppler
+1330,0,pulmonary artery doppler,pulmonary artery doppler
+1331,0,pulmonary artery doppler,pulmonary artery doppler
+1332,0,pulmonary artery doppler,pulmonary artery doppler
+1333,0,pulmonary artery doppler,pulmonary artery doppler
+1334,0,pulmonary artery doppler,pulmonary artery doppler
+1335,0,pulmonary artery doppler,pulmonary artery doppler
+1336,0,pulmonary artery doppler,pulmonary artery doppler
+1337,0,pulmonary artery doppler,pulmonary artery doppler
+1338,0,pulmonary artery doppler,pulmonary artery doppler
+1339,0,pulmonary artery doppler,pulmonary artery doppler
+1340,0,pulmonary artery doppler,pulmonary artery doppler
+1341,1,pulmonary artery doppler,pulmonary artery doppler
+1342,1,pulmonary artery doppler,
+1343,0,pulmonary artery doppler,pulmonary artery doppler
+1344,0,pulmonary artery doppler,pulmonary artery doppler
+1345,0,pulmonary artery doppler,pulmonary artery doppler
+1346,0,pulmonary artery doppler,pulmonary artery doppler
+1347,0,pulmonary artery doppler,pulmonary artery doppler
+1348,0,pulmonary artery doppler,pulmonary artery doppler
+1349,0,pulmonary artery doppler,pulmonary artery doppler
+1350,0,pulmonary artery doppler,pulmonary artery doppler
+1351,0,pulmonary artery doppler,pulmonary artery doppler
+1352,0,,pulmonary artery doppler
+1353,0,,pulmonary artery doppler
+1354,0,,pulmonary artery doppler
+1355,0,three vessels view,three vessels view
+1356,0,three vessels view,three vessels view
+1357,0,three vessels view,three vessels view
+1358,0,three vessels view,three vessels view
+1359,0,three vessels view,three vessels view
+1360,0,three vessels view,three vessels view
+1361,1,three vessels view,
+1362,0,three vessels view,three vessels view
+1363,0,three vessels view,three vessels view
+1364,0,three vessels view,three vessels view
+1365,0,three vessels view,three vessels view
+1366,0,three vessels view,three vessels view
+1367,0,three vessels view,three vessels view
+1368,0,three vessels view,three vessels view
+1369,0,three vessels view,three vessels view
+1370,0,three vessels view,three vessels view
+1371,0,three vessels view,three vessels view
+1372,0,three vessels view,three vessels view
+1373,0,three vessels view,three vessels view
+1374,0,three vessels view,three vessels view
+1375,0,three vessels view,three vessels view
+1376,0,three vessels view,three vessels view
+1377,0,three vessels view,three vessels view
+1378,0,three vessels view,three vessels view
+1379,0,three vessels view,three vessels view
+1380,0,three vessels view,three vessels view
+1381,0,three vessels view,three vessels view
+1382,0,three vessels view,three vessels view
+1383,0,three vessels view,three vessels view
+1384,0,three vessels view,three vessels view
+1385,0,4 chambers view doppler,4 chambers view doppler
+1386,0,4 chambers view doppler,4 chambers view doppler
+1387,1,4 chambers view doppler,4 chambers view doppler
+1388,0,4 chambers view doppler,4 chambers view doppler
+1389,0,4 chambers view doppler,4 chambers view doppler
+1390,0,4 chambers view doppler,4 chambers view doppler
+1391,0,4 chambers view doppler,4 chambers view doppler
+1392,0,4 chambers view doppler,4 chambers view doppler
+1393,1,4 chambers view doppler,4 chambers view doppler
+1394,1,4 chambers view doppler,4 chambers view doppler
+1395,0,4 chambers view doppler,4 chambers view doppler
+1396,0,4 chambers view doppler,4 chambers view doppler
+1397,0,4 chambers view doppler,4 chambers view doppler
+1398,0,4 chambers view doppler,4 chambers view doppler
+1399,1,4 chambers view doppler,4 chambers view doppler
+1400,1,4 chambers view doppler,4 chambers view doppler
+1401,0,4 chambers view doppler,4 chambers view doppler
+1402,0,4 chambers view doppler,4 chambers view doppler
+1403,0,4 chambers view doppler,4 chambers view doppler
+1404,0,4 chambers view doppler,4 chambers view doppler
+1405,0,4 chambers view doppler,4 chambers view doppler
+1406,0,4 chambers view doppler,4 chambers view doppler
+1407,1,4 chambers view doppler,4 chambers view doppler
+1408,1,4 chambers view doppler,4 chambers view doppler
+1409,1,4 chambers view doppler,4 chambers view doppler
+1410,1,4 chambers view doppler,4 chambers view doppler
+1411,0,4 chambers view doppler,4 chambers view doppler
+1412,0,4 chambers view doppler,4 chambers view doppler
+1413,0,4 chambers view doppler,4 chambers view doppler
+1414,0,4 chambers view doppler,4 chambers view doppler
+1415,0,,4 chambers view doppler
+1416,0,,4 chambers view doppler
+1417,1,,4 chambers view doppler
+1418,0,,4 chambers view doppler
+1419,0,,4 chambers view doppler
+1420,0,,4 chambers view doppler
+1421,0,,4 chambers view doppler
+1422,0,,4 chambers view doppler
+1423,0,,4 chambers view doppler
+1424,0,,4 chambers view doppler
+1425,0,,4 chambers view doppler
+1426,0,,4 chambers view doppler
+1427,0,,4 chambers view doppler
+1428,0,,4 chambers view doppler
+1429,0,,4 chambers view doppler
+1430,0,,4 chambers view doppler
+1431,1,,4 chambers view doppler
+1432,1,,4 chambers view doppler
+1433,0,,4 chambers view doppler
+1434,0,,4 chambers view doppler
+1435,0,,4 chambers view doppler
+1436,0,,4 chambers view doppler
+1437,0,,4 chambers view doppler
+1438,0,,4 chambers view doppler
+1439,0,,4 chambers view doppler
+1440,0,,4 chambers view doppler
+1441,0,,4 chambers view doppler
+1442,0,,4 chambers view doppler
+1443,1,,4 chambers view doppler
+1444,1,,4 chambers view doppler
+1445,0,,4 chambers view doppler
+1446,0,,4 chambers view doppler
+1447,0,,4 chambers view doppler
+1448,0,,4 chambers view doppler
+1449,0,,4 chambers view doppler
+1450,0,,4 chambers view doppler
+1451,1,,4 chambers view doppler
+1452,1,,4 chambers view doppler
+1453,1,,
+1454,1,left outflow tract,left outflow tract
+1455,1,left outflow tract,left outflow tract
+1456,1,left outflow tract,left outflow tract
+1457,1,left outflow tract,left outflow tract
+1458,1,left outflow tract,left outflow tract
+1459,0,left outflow tract,left outflow tract
+1460,0,left outflow tract,left outflow tract
+1461,0,left outflow tract,left outflow tract
+1462,0,left outflow tract,left outflow tract
+1463,0,left outflow tract,left outflow tract
+1464,0,left outflow tract,left outflow tract
+1465,1,left outflow tract,left outflow tract
+1466,1,left outflow tract,left outflow tract
+1467,1,left outflow tract,left outflow tract
+1468,1,left outflow tract,left outflow tract
+1469,1,left outflow tract,left outflow tract
+1470,1,left outflow tract,left outflow tract
+1471,1,left outflow tract,left outflow tract
+1472,1,left outflow tract,left outflow tract
+1473,0,left outflow tract,left outflow tract
+1474,0,left outflow tract,left outflow tract
+1475,1,left outflow tract,left outflow tract
+1476,1,left outflow tract,left outflow tract
+1477,0,left outflow tract,left outflow tract
+1478,0,left outflow tract,left outflow tract
+1479,1,left outflow tract,left outflow tract
+1480,1,left outflow tract,left outflow tract
+1481,1,left outflow tract,
+1482,1,leipar,leipar
+1483,0,leipar,leipar
+1484,0,,leipar
+1485,1,,leipar
+1486,1,,leipar
+1487,0,,leipar
+1488,0,,leipar
+1489,0,,leipar
+1490,0,,leipar
+1491,0,,leipar
+1492,0,,leipar
+1493,0,,leipar
+1494,0,,leipar
+1495,0,,leipar
+1496,0,,leipar
+1497,0,,leipar
+1498,0,,leipar
+1499,1,,
+1500,0,,
+1501,0,,
+1502,0,,
+1503,0,,
+1504,0,,
+1505,0,,
+1506,0,,
+1507,0,,
+1508,0,,
+1509,0,,
+1510,0,,
+1511,0,,
+1512,0,three vessels view,three vessels view
+1513,0,three vessels view,three vessels view
+1514,0,three vessels view,three vessels view
+1515,0,three vessels view,three vessels view
+1516,0,three vessels view,three vessels view
+1517,0,three vessels view,three vessels view
+1518,0,three vessels view,three vessels view
+1519,0,three vessels view,three vessels view
+1520,0,three vessels view,three vessels view
+1521,0,three vessels view,three vessels view
+1522,0,three vessels view,three vessels view
+1523,0,three vessels view,three vessels view
+1524,0,three vessels view,three vessels view
+1525,0,three vessels view,three vessels view
+1526,0,three vessels view,three vessels view
+1527,0,three vessels view,three vessels view
+1528,0,three vessels view,three vessels view
+1529,1,three vessels view,three vessels view
+1530,0,three vessels view,three vessels view
+1531,0,three vessels view,three vessels view
+1532,0,three vessels view,three vessels view
+1533,0,three vessels view,three vessels view
+1534,0,three vessels view,three vessels view
+1535,0,three vessels view,three vessels view
+1536,0,three vessels view,three vessels view
+1537,0,three vessels view,three vessels view
+1538,0,three vessels view,three vessels view
+1539,0,three vessels view,three vessels view
+1540,0,three vessels view,three vessels view
+1541,0,three vessels view,three vessels view
+1542,0,three vessels view,three vessels view
+1543,0,three vessels view,three vessels view
+1544,0,three vessels view,three vessels view
+1545,0,three vessels view,three vessels view
+1546,0,three vessels view,three vessels view
+1547,0,three vessels view,three vessels view
+1548,0,three vessels view,three vessels view
+1549,1,three vessels view,three vessels view
+1550,0,three vessels view,three vessels view
+1551,0,three vessels view,three vessels view
+1552,0,three vessels view,three vessels view
+1553,0,three vessels view,three vessels view
+1554,0,three vessels view,three vessels view
+1555,0,three vessels view,three vessels view
+1556,0,three vessels view,three vessels view
+1557,0,,three vessels view
+1558,0,,three vessels view
+1559,0,,three vessels view
+1560,0,,three vessels view
+1561,0,,three vessels view
+1562,0,,three vessels view
+1563,0,,three vessels view
+1564,0,,three vessels view
+1565,0,,three vessels view
+1566,0,,three vessels view
+1567,0,,three vessels view
+1568,0,,three vessels view
+1569,0,,three vessels view
+1570,0,,three vessels view
+1571,0,,three vessels view
+1572,0,,three vessels view
+1573,0,,three vessels view
+1574,0,,three vessels view
+1575,0,,three vessels view
+1576,0,,three vessels view
+1577,0,,three vessels view
+1578,0,,three vessels view
+1579,0,,three vessels view
+1580,0,,three vessels view
+1581,0,,three vessels view
+1582,0,,three vessels view
+1583,0,,three vessels view
+1584,0,,three vessels view
+1585,0,,three vessels view
+1586,0,,three vessels view
+1587,0,,three vessels view
+1588,0,,three vessels view
+1589,0,,three vessels view
+1590,0,,three vessels view
+1591,0,,three vessels view
+1592,0,,three vessels view
+1593,0,,three vessels view
+1594,0,,three vessels view
+1595,0,,three vessels view
+1596,0,,three vessels view
+1597,0,,three vessels view
+1598,0,,three vessels view
+1599,0,,three vessels view
+1600,0,,three vessels view
+1601,0,,three vessels view
+1602,0,,three vessels view
+1603,0,,three vessels view
+1604,0,,three vessels view
+1605,0,,three vessels view
+1606,0,,three vessels view
+1607,0,,three vessels view
+1608,0,,three vessels view
+1609,0,,three vessels view
+1610,0,,three vessels view
+1611,0,,three vessels view
+1612,0,,three vessels view
+1613,0,,three vessels view
+1614,0,,three vessels view
+1615,0,,three vessels view
+1616,0,,three vessels view
+1617,0,,three vessels view
+1618,0,,three vessels view
+1619,0,,three vessels view
+1620,0,,three vessels view
+1621,0,,three vessels view
+1622,0,,three vessels view
+1623,0,,three vessels view
+1624,0,,three vessels view
+1625,0,,three vessels view
+1626,0,,three vessels view
+1627,0,,three vessels view
+1628,0,,three vessels view
+1629,1,,
+1630,0,,
+1631,0,,
+1632,0,,
+1633,0,,
+1634,0,,
+1635,0,,
+1636,0,4 chambers view,4 chambers view
+1637,0,4 chambers heart,4 chambers heart
+1638,0,4 chambers heart,4 chambers heart
+1639,0,4 chambers heart,4 chambers heart
+1640,0,4 chambers heart,4 chambers heart
+1641,0,4 chambers view,4 chambers view
+1642,0,4 chambers heart,4 chambers heart
+1643,0,4 chambers heart,4 chambers heart
+1644,0,4 chambers heart,4 chambers heart
+1645,1,4 chambers heart,
+1646,0,4 chambers heart,4 chambers heart
+1647,0,4 chambers heart,4 chambers heart
+1648,0,4 chambers heart,4 chambers heart
+1649,0,4 chambers heart,4 chambers heart
+1650,0,4 chambers view,4 chambers view
+1651,0,4 chambers view,4 chambers view
+1652,0,4 chambers view,4 chambers view
+1653,0,4 chambers view,4 chambers view
+1654,0,4 chambers view,4 chambers view
+1655,0,4 chambers view,4 chambers view
+1656,0,4 chambers view,4 chambers view
+1657,0,4 chambers view,4 chambers view
+1658,0,4 chambers view,4 chambers view
+1659,0,4 chambers view,4 chambers view
+1660,0,4 chambers view,4 chambers view
+1661,0,4 chambers view,4 chambers view
+1662,0,4 chambers view,4 chambers view
+1663,0,4 chambers view,4 chambers view
+1664,0,4 chambers view,4 chambers view
+1665,0,4 chambers view,4 chambers view
+1666,0,,4 chambers view
+1667,0,,4 chambers view
+1668,0,,4 chambers view
+1669,0,,4 chambers view
+1670,0,,4 chambers view
+1671,0,,4 chambers view
+1672,0,,4 chambers view
+1673,0,,4 chambers view
+1674,0,,4 chambers view
+1675,0,,4 chambers view
+1676,0,,4 chambers view
+1677,0,,4 chambers view
+1678,0,,4 chambers view
+1679,0,,4 chambers view
+1680,0,,4 chambers view
+1681,0,,4 chambers view
+1682,0,,4 chambers view
+1683,0,,4 chambers view
+1684,0,,4 chambers view
+1685,0,,4 chambers view
+1686,0,,4 chambers view
+1687,0,,4 chambers view
+1688,0,,4 chambers view
+1689,0,,4 chambers view
+1690,0,,4 chambers view
+1691,0,,4 chambers view
+1692,0,,4 chambers view
+1693,0,,4 chambers view
+1694,0,,4 chambers view
+1695,0,,4 chambers view
+1696,0,,4 chambers view
+1697,0,,4 chambers view
+1698,0,,4 chambers view
+1699,0,,4 chambers view
+1700,0,,4 chambers view
+1701,0,,4 chambers view
+1702,0,,4 chambers view
+1703,0,,4 chambers view
+1704,0,,4 chambers view
+1705,0,,4 chambers view
+1706,0,,4 chambers view
+1707,0,,4 chambers view
+1708,0,,4 chambers view
+1709,0,,4 chambers view
+1710,0,,4 chambers view
+1711,0,,4 chambers view
+1712,0,,4 chambers view
+1713,0,,4 chambers view
+1714,0,,4 chambers view
+1715,0,,4 chambers view
+1716,0,,4 chambers view
+1717,0,,4 chambers view
+1718,0,4 chambers view,4 chambers view
+1719,1,4 chambers view,4 chambers view
+1720,0,4 chambers view,4 chambers view
+1721,0,4 chambers view,4 chambers view
+1722,0,4 chambers view,4 chambers view
+1723,0,4 chambers view,4 chambers view
+1724,0,4 chambers view,4 chambers view
+1725,0,4 chambers view,4 chambers view
+1726,0,4 chambers view,4 chambers view
+1727,0,4 chambers view,4 chambers view
+1728,0,4 chambers view,4 chambers view
+1729,0,4 chambers view,4 chambers view
+1730,0,4 chambers view,4 chambers view
+1731,0,4 chambers view,4 chambers view
+1732,0,4 chambers view,4 chambers view
+1733,1,4 chambers view,
+1734,0,4 chambers view,4 chambers view
+1735,0,4 chambers view,4 chambers view
+1736,0,4 chambers view,4 chambers view
+1737,0,4 chambers view,4 chambers view
+1738,0,4 chambers view,4 chambers view
+1739,0,4 chambers view,4 chambers view
+1740,0,4 chambers view,4 chambers view
+1741,0,4 chambers heart,4 chambers heart
+1742,0,4 chambers heart,4 chambers heart
+1743,0,4 chambers heart,4 chambers heart
+1744,0,4 chambers heart,4 chambers heart
+1745,0,4 chambers heart,4 chambers heart
+1746,0,4 chambers heart,4 chambers heart
+1747,0,4 chambers heart,4 chambers heart
+1748,0,4 chambers heart,4 chambers heart
+1749,0,4 chambers heart,4 chambers heart
+1750,0,4 chambers heart,4 chambers heart
+1751,0,4 chambers view,4 chambers view
+1752,0,4 chambers view,4 chambers view
+1753,0,4 chambers view,4 chambers view
+1754,0,4 chambers view,4 chambers view
+1755,0,4 chambers view,4 chambers view
+1756,0,4 chambers view,4 chambers view
+1757,0,4 chambers view,4 chambers view
+1758,0,4 chambers view,4 chambers view
+1759,0,4 chambers view,4 chambers view
+1760,0,4 chambers view,4 chambers view
+1761,0,4 chambers view,4 chambers view
+1762,0,4 chambers heart,4 chambers heart
+1763,0,,4 chambers heart
+1764,0,,4 chambers heart
+1765,0,,4 chambers heart
+1766,0,,4 chambers heart
+1767,0,,4 chambers heart
+1768,0,,4 chambers heart
+1769,0,,4 chambers heart
+1770,0,,4 chambers heart
+1771,0,,4 chambers heart
+1772,0,,4 chambers heart
+1773,0,,4 chambers heart
+1774,0,,4 chambers heart
+1775,0,,4 chambers heart
+1776,0,,4 chambers heart
+1777,0,,4 chambers heart
+1778,0,,4 chambers heart
+1779,0,,4 chambers heart
+1780,0,,4 chambers heart
+1781,0,,4 chambers heart
+1782,0,,4 chambers heart
+1783,0,,4 chambers heart
+1784,0,,4 chambers heart
+1785,0,,4 chambers heart
+1786,0,,4 chambers heart
+1787,0,,4 chambers heart
+1788,0,,4 chambers heart
+1789,0,,4 chambers heart
+1790,0,,4 chambers heart
+1791,0,,4 chambers heart
+1792,0,,4 chambers heart
+1793,0,,4 chambers heart
+1794,0,,4 chambers heart
+1795,0,,4 chambers heart
+1796,0,,4 chambers heart
+1797,0,,4 chambers heart
+1798,0,,4 chambers heart
+1799,0,,4 chambers heart
+1800,0,,4 chambers heart
+1801,0,,4 chambers heart
+1802,0,,4 chambers heart
+1803,1,4 chambers view,4 chambers view
+1804,0,4 chambers view,4 chambers view
+1805,0,4 chambers view,4 chambers view
+1806,0,4 chambers view,4 chambers view
+1807,0,4 chambers view,4 chambers view
+1808,0,4 chambers view,4 chambers view
+1809,0,4 chambers view,4 chambers view
+1810,0,4 chambers view,4 chambers view
+1811,0,4 chambers view,4 chambers view
+1812,0,4 chambers view,4 chambers view
+1813,1,4 chambers view,
+1814,0,4 chambers view,4 chambers view
+1815,0,4 chambers view,4 chambers view
+1816,0,4 chambers view,4 chambers view
+1817,0,4 chambers view,4 chambers view
+1818,0,4 chambers view,4 chambers view
+1819,0,4 chambers view,4 chambers view
+1820,0,4 chambers view,4 chambers view
+1821,0,4 chambers view,4 chambers view
+1822,0,4 chambers view,4 chambers view
+1823,0,4 chambers view,4 chambers view
+1824,0,4 chambers view,4 chambers view
+1825,0,4 chambers view,4 chambers view
+1826,0,4 chambers view,4 chambers view
+1827,0,4 chambers view,4 chambers view
+1828,0,4 chambers view,4 chambers view
+1829,0,4 chambers view,4 chambers view
+1830,0,4 chambers view,4 chambers view
+1831,0,4 chambers heart,4 chambers heart
+1832,0,4 chambers heart,4 chambers heart
+1833,0,,4 chambers heart
+1834,0,,4 chambers heart
+1835,0,,4 chambers heart
+1836,0,,4 chambers heart
+1837,0,,4 chambers heart
+1838,0,,4 chambers heart
+1839,0,,4 chambers heart
+1840,0,,4 chambers heart
+1841,0,,4 chambers heart
+1842,0,,4 chambers heart
+1843,0,,4 chambers heart
+1844,0,,4 chambers heart
+1845,0,,4 chambers heart
+1846,0,,4 chambers heart
+1847,0,,4 chambers heart
+1848,0,,4 chambers heart
+1849,0,,4 chambers heart
+1850,0,,4 chambers heart
+1851,0,,4 chambers heart
+1852,0,,4 chambers heart
+1853,0,,4 chambers heart
+1854,0,,4 chambers heart
+1855,0,,4 chambers heart
+1856,0,,4 chambers heart
+1857,0,,4 chambers heart
+1858,0,,4 chambers heart
+1859,0,,4 chambers heart
+1860,0,,4 chambers heart
+1861,0,,4 chambers heart
+1862,0,,4 chambers heart
+1863,0,,4 chambers heart
+1864,0,,4 chambers heart
+1865,0,,4 chambers heart
+1866,0,,4 chambers heart
+1867,0,,4 chambers heart
+1868,0,,4 chambers heart
+1869,0,,4 chambers heart
+1870,0,,4 chambers heart
+1871,0,,4 chambers heart
+1872,0,,4 chambers heart
+1873,0,,4 chambers heart
+1874,0,,4 chambers heart
+1875,0,,4 chambers heart
+1876,0,,4 chambers heart
+1877,0,,4 chambers heart
+1878,0,,4 chambers heart
+1879,0,,4 chambers heart
+1880,0,,4 chambers heart
+1881,0,,4 chambers heart
+1882,0,,4 chambers heart
+1883,0,,4 chambers heart
+1884,0,,4 chambers heart
+1885,0,,4 chambers heart
+1886,0,,4 chambers heart
+1887,0,,4 chambers heart
+1888,0,,4 chambers heart
+1889,0,,4 chambers heart
+1890,0,,4 chambers heart
+1891,1,,4 chambers heart
+1892,0,,4 chambers heart
+1893,0,,4 chambers heart
+1894,0,,4 chambers heart
+1895,0,,4 chambers heart
+1896,0,,4 chambers heart
+1897,0,,4 chambers heart
+1898,0,,4 chambers heart
+1899,0,,4 chambers heart
+1900,0,,4 chambers heart
+1901,0,,4 chambers heart
+1902,0,,4 chambers heart
+1903,0,,4 chambers heart
+1904,0,,4 chambers heart
+1905,0,,4 chambers heart
+1906,0,,4 chambers heart
+1907,0,,4 chambers heart
+1908,0,,4 chambers heart
+1909,0,,4 chambers heart
+1910,0,,4 chambers heart
+1911,0,,4 chambers heart
+1912,0,,4 chambers heart
+1913,0,,4 chambers heart
+1914,0,,4 chambers heart
+1915,0,,4 chambers heart
+1916,0,,4 chambers heart
+1917,0,,4 chambers heart
+1918,0,,4 chambers heart
+1919,0,,4 chambers heart
+1920,0,,4 chambers heart
+1921,0,,4 chambers heart
+1922,0,,4 chambers heart
+1923,0,,4 chambers heart
+1924,0,,4 chambers heart
+1925,0,,4 chambers heart
+1926,0,,4 chambers heart
+1927,0,,4 chambers heart
+1928,0,,4 chambers heart
+1929,0,,4 chambers heart
+1930,0,,4 chambers heart
+1931,0,,4 chambers heart
+1932,0,,4 chambers heart
+1933,0,,4 chambers heart
+1934,0,,4 chambers heart
+1935,0,,4 chambers heart
+1936,0,,4 chambers heart
+1937,0,,4 chambers heart
+1938,0,,4 chambers heart
+1939,0,,4 chambers heart
+1940,0,,4 chambers heart
+1941,0,,4 chambers heart
+1942,0,,4 chambers heart
+1943,0,,4 chambers heart
+1944,0,,4 chambers heart
+1945,0,,4 chambers heart
+1946,0,,4 chambers heart
+1947,0,,4 chambers heart
+1948,0,,4 chambers heart
+1949,0,,4 chambers heart
+1950,0,,4 chambers heart
+1951,0,,4 chambers heart
+1952,0,,4 chambers heart
+1953,0,,4 chambers heart
+1954,0,,4 chambers heart
+1955,0,,4 chambers heart
+1956,0,,4 chambers heart
+1957,0,,4 chambers heart
+1958,0,,4 chambers heart
+1959,0,,4 chambers heart
+1960,0,,4 chambers heart
+1961,0,,4 chambers heart
+1962,0,,4 chambers heart
+1963,0,,4 chambers heart
+1964,0,,4 chambers heart
+1965,0,,4 chambers heart
+1966,0,,4 chambers heart
+1967,0,,4 chambers heart
+1968,0,,4 chambers heart
+1969,0,,4 chambers heart
+1970,0,,4 chambers heart
+1971,0,,4 chambers heart
+1972,0,,4 chambers heart
+1973,0,,4 chambers heart
+1974,0,,4 chambers heart
+1975,0,,4 chambers heart
+1976,0,,4 chambers heart
+1977,0,,4 chambers heart
+1978,0,,4 chambers heart
+1979,0,,4 chambers heart
+1980,0,,4 chambers heart
+1981,0,,4 chambers heart
+1982,0,,4 chambers heart
+1983,0,,4 chambers heart
+1984,0,,4 chambers heart
+1985,0,,4 chambers heart
+1986,0,,4 chambers heart
+1987,0,,4 chambers heart
+1988,0,,4 chambers heart
+1989,0,,4 chambers heart
+1990,0,,4 chambers heart
+1991,0,,4 chambers heart
+1992,0,,4 chambers heart
+1993,0,,4 chambers heart
+1994,0,,4 chambers heart
+1995,0,,4 chambers heart
+1996,0,,4 chambers heart
+1997,1,,4 chambers heart
+1998,0,,4 chambers heart
+1999,0,,4 chambers heart
+2000,0,,4 chambers heart
+2001,0,,4 chambers heart
+2002,0,,4 chambers heart
+2003,0,,4 chambers heart
+2004,0,,4 chambers heart
+2005,0,,4 chambers heart
+2006,0,,4 chambers heart
+2007,0,,4 chambers heart
+2008,0,,4 chambers heart
+2009,0,,4 chambers heart
+2010,0,,4 chambers heart
+2011,0,,4 chambers heart
+2012,0,,4 chambers heart
+2013,0,,4 chambers heart
+2014,0,,4 chambers heart
+2015,0,,4 chambers heart
+2016,0,,4 chambers heart
+2017,0,,4 chambers heart
+2018,0,,4 chambers heart
+2019,0,,4 chambers heart
+2020,0,,4 chambers heart
+2021,0,,4 chambers heart
+2022,0,,4 chambers heart
+2023,0,,4 chambers heart
+2024,0,,4 chambers heart
+2025,0,,4 chambers heart
+2026,0,,4 chambers heart
+2027,1,,4 chambers heart
+2028,1,,4 chambers heart
+2029,1,,4 chambers heart
+2030,1,,4 chambers heart
+2031,1,,4 chambers heart
+2032,1,,4 chambers heart
+2033,1,,4 chambers heart
+2034,1,,4 chambers heart
+2035,1,,4 chambers heart
+2036,1,,4 chambers heart
+2037,1,,4 chambers heart
+2038,1,,4 chambers heart
+2039,1,,4 chambers heart
+2040,1,,4 chambers heart
+2041,1,,4 chambers heart
+2042,1,,
+2043,1,4 chambers view,4 chambers view
+2044,1,4 chambers view,4 chambers view
+2045,1,4 chambers view,4 chambers view
+2046,1,4 chambers view,4 chambers view
+2047,1,4 chambers view,4 chambers view
+2048,1,4 chambers view,4 chambers view
+2049,1,4 chambers view,4 chambers view
+2050,1,4 chambers view,4 chambers view
+2051,1,4 chambers view,4 chambers view
+2052,1,4 chambers view,4 chambers view
+2053,1,4 chambers view,4 chambers view
+2054,1,4 chambers view,4 chambers view
+2055,1,4 chambers view,4 chambers view
+2056,1,4 chambers view,4 chambers view
+2057,1,4 chambers view,4 chambers view
+2058,1,4 chambers view,4 chambers view
+2059,0,4 chambers view,4 chambers view
+2060,0,4 chambers view,4 chambers view
+2061,0,4 chambers view,4 chambers view
+2062,0,4 chambers view,4 chambers view
+2063,0,4 chambers view,4 chambers view
+2064,0,4 chambers view,4 chambers view
+2065,1,4 chambers view,4 chambers view
+2066,1,4 chambers view,4 chambers view
+2067,1,4 chambers view,4 chambers view
+2068,1,4 chambers view,4 chambers view
+2069,1,4 chambers view,4 chambers view
+2070,1,4 chambers view,4 chambers view
+2071,1,4 chambers view,4 chambers view
+2072,1,4 chambers view,4 chambers view
+2073,0,,4 chambers view
+2074,0,,4 chambers view
+2075,1,,4 chambers view
+2076,1,,4 chambers view
+2077,1,,4 chambers view
+2078,1,,4 chambers view
+2079,1,,4 chambers view
+2080,1,,4 chambers view
+2081,0,,4 chambers view
+2082,0,,4 chambers view
+2083,1,,4 chambers view
+2084,1,,4 chambers view
+2085,1,,4 chambers view
+2086,1,,4 chambers view
+2087,1,,4 chambers view
+2088,1,,4 chambers view
+2089,1,,4 chambers view
+2090,1,,4 chambers view
+2091,1,,4 chambers view
+2092,1,,4 chambers view
+2093,1,,4 chambers view
+2094,1,,4 chambers view
+2095,1,,4 chambers view
+2096,1,,4 chambers view
+2097,1,,4 chambers view
+2098,1,,
+2099,1,pulmonary vein,pulmonary vein
+2100,1,pulmonary vein,pulmonary vein
+2101,1,pulmonary vein,pulmonary vein
+2102,1,pulmonary vein,pulmonary vein
+2103,1,pulmonary vein,pulmonary vein
+2104,1,pulmonary vein,pulmonary vein
+2105,0,pulmonary vein,pulmonary vein
+2106,0,pulmonary vein,pulmonary vein
+2107,0,pulmonary vein,pulmonary vein
+2108,0,pulmonary vein,pulmonary vein
+2109,0,pulmonary vein,pulmonary vein
+2110,0,pulmonary vein,pulmonary vein
+2111,0,pulmonary vein,pulmonary vein
+2112,0,pulmonary vein,pulmonary vein
+2113,0,pulmonary vein,pulmonary vein
+2114,0,pulmonary vein,pulmonary vein
+2115,0,pulmonary vein,pulmonary vein
+2116,0,pulmonary vein,pulmonary vein
+2117,0,pulmonary vein,pulmonary vein
+2118,0,pulmonary vein,pulmonary vein
+2119,1,pulmonary vein,pulmonary vein
+2120,1,pulmonary vein,pulmonary vein
+2121,0,pulmonary vein,pulmonary vein
+2122,0,pulmonary vein,pulmonary vein
+2123,0,pulmonary vein,pulmonary vein
+2124,0,pulmonary vein,pulmonary vein
+2125,0,pulmonary vein,pulmonary vein
+2126,0,pulmonary vein,pulmonary vein
+2127,0,pulmonary vein,pulmonary vein
+2128,0,pulmonary vein,pulmonary vein
+2129,0,,pulmonary vein
+2130,0,,pulmonary vein
+2131,0,,pulmonary vein
+2132,0,,pulmonary vein
+2133,0,pulmonary vein,pulmonary vein
+2134,0,pulmonary vein,pulmonary vein
+2135,1,pulmonary vein,pulmonary vein
+2136,0,pulmonary vein,pulmonary vein
+2137,0,pulmonary vein,pulmonary vein
+2138,0,pulmonary vein,pulmonary vein
+2139,0,pulmonary vein,pulmonary vein
+2140,0,pulmonary vein,pulmonary vein
+2141,1,pulmonary vein,pulmonary vein
+2142,1,pulmonary vein,pulmonary vein
+2143,1,pulmonary vein,pulmonary vein
+2144,1,pulmonary vein,pulmonary vein
+2145,1,pulmonary vein,pulmonary vein
+2146,1,pulmonary vein,pulmonary vein
+2147,0,pulmonary vein,pulmonary vein
+2148,0,pulmonary vein,pulmonary vein
+2149,0,pulmonary vein,pulmonary vein
+2150,0,pulmonary vein,pulmonary vein
+2151,1,pulmonary vein,pulmonary vein
+2152,1,pulmonary vein,pulmonary vein
+2153,1,pulmonary vein,pulmonary vein
+2154,1,pulmonary vein,pulmonary vein
+2155,1,pulmonary vein,pulmonary vein
+2156,1,pulmonary vein,pulmonary vein
+2157,0,pulmonary vein,pulmonary vein
+2158,0,pulmonary vein,pulmonary vein
+2159,0,pulmonary vein,pulmonary vein
+2160,0,pulmonary vein,pulmonary vein
+2161,0,pulmonary vein,pulmonary vein
+2162,0,pulmonary vein,pulmonary vein
+2163,0,,pulmonary vein
+2164,0,,pulmonary vein
+2165,1,,pulmonary vein
+2166,1,,pulmonary vein
+2167,0,,pulmonary vein
+2168,0,,pulmonary vein
+2169,0,,pulmonary vein
+2170,0,,pulmonary vein
+2171,1,,pulmonary vein
+2172,1,,pulmonary vein
+2173,1,,pulmonary vein
+2174,1,,pulmonary vein
+2175,1,,pulmonary vein
+2176,1,,pulmonary vein
+2177,1,,pulmonary vein
+2178,1,,pulmonary vein
+2179,1,,pulmonary vein
+2180,1,,pulmonary vein
+2181,0,,pulmonary vein
+2182,0,,pulmonary vein
+2183,0,,pulmonary vein
+2184,0,,pulmonary vein
+2185,0,,pulmonary vein
+2186,0,,pulmonary vein
+2187,1,,pulmonary vein
+2188,1,,pulmonary vein
+2189,1,,pulmonary vein
+2190,1,,pulmonary vein
+2191,1,,pulmonary vein
+2192,1,,pulmonary vein
+2193,1,,pulmonary vein
+2194,1,,pulmonary vein
+2195,1,,pulmonary vein
+2196,1,,pulmonary vein
+2197,1,,pulmonary vein
+2198,1,,pulmonary vein
+2199,1,,pulmonary vein
+2200,1,,pulmonary vein
+2201,1,,pulmonary vein
+2202,1,,pulmonary vein
+2203,1,,pulmonary vein
+2204,1,,pulmonary vein
+2205,1,,pulmonary vein
+2206,1,,pulmonary vein
+2207,1,,pulmonary vein
+2208,1,,pulmonary vein
+2209,1,pulmonary vein,pulmonary vein
+2210,1,pulmonary vein,pulmonary vein
+2211,1,pulmonary vein,pulmonary vein
+2212,1,pulmonary vein,pulmonary vein
+2213,1,pulmonary vein,pulmonary vein
+2214,1,pulmonary vein,pulmonary vein
+2215,1,pulmonary vein,pulmonary vein
+2216,1,pulmonary vein,pulmonary vein
+2217,1,pulmonary vein,pulmonary vein
+2218,1,pulmonary vein,pulmonary vein
+2219,1,pulmonary vein,pulmonary vein
+2220,1,pulmonary vein,pulmonary vein
+2221,1,pulmonary vein,pulmonary vein
+2222,1,pulmonary vein,pulmonary vein
+2223,1,pulmonary vein,pulmonary vein
+2224,1,pulmonary vein,pulmonary vein
+2225,1,pulmonary vein,pulmonary vein
+2226,1,pulmonary vein,
+2227,0,pulmonary vein,pulmonary vein
+2228,0,pulmonary vein,pulmonary vein
+2229,0,pulmonary vein,pulmonary vein
+2230,0,pulmonary vein,pulmonary vein
+2231,0,pulmonary vein,pulmonary vein
+2232,0,pulmonary vein,pulmonary vein
+2233,0,pulmonary vein,pulmonary vein
+2234,0,pulmonary vein,pulmonary vein
+2235,0,pulmonary vein,pulmonary vein
+2236,0,pulmonary vein,pulmonary vein
+2237,0,pulmonary vein,pulmonary vein
+2238,0,pulmonary vein,pulmonary vein
+2239,0,,pulmonary vein
+2240,0,,pulmonary vein
+2241,0,,pulmonary vein
+2242,0,,pulmonary vein
+2243,0,,pulmonary vein
+2244,0,,pulmonary vein
+2245,0,,pulmonary vein
+2246,0,,pulmonary vein
+2247,0,,pulmonary vein
+2248,0,,pulmonary vein
+2249,0,,pulmonary vein
+2250,0,,pulmonary vein
+2251,0,,pulmonary vein
+2252,0,,pulmonary vein
+2253,0,,pulmonary vein
+2254,0,,pulmonary vein
+2255,0,,pulmonary vein
+2256,0,,pulmonary vein
+2257,0,,pulmonary vein
+2258,0,,pulmonary vein
+2259,0,,pulmonary vein
+2260,0,,pulmonary vein
+2261,0,,pulmonary vein
+2262,0,,pulmonary vein
+2263,0,,pulmonary vein
+2264,0,,pulmonary vein
+2265,0,,pulmonary vein
+2266,0,,pulmonary vein
+2267,0,,pulmonary vein
+2268,0,,pulmonary vein
+2269,0,,pulmonary vein
+2270,0,,pulmonary vein
+2271,0,,pulmonary vein
+2272,0,,pulmonary vein
+2273,0,,pulmonary vein
+2274,0,,pulmonary vein
+2275,0,,pulmonary vein
+2276,0,,pulmonary vein
+2277,0,,pulmonary vein
+2278,0,,pulmonary vein
+2279,0,,pulmonary vein
+2280,0,,pulmonary vein
+2281,0,,pulmonary vein
+2282,0,,pulmonary vein
+2283,0,,pulmonary vein
+2284,0,,pulmonary vein
+2285,0,,pulmonary vein
+2286,0,,pulmonary vein
+2287,0,,pulmonary vein
+2288,0,,pulmonary vein
+2289,0,,pulmonary vein
+2290,0,,pulmonary vein
+2291,0,,pulmonary vein
+2292,0,,pulmonary vein
+2293,0,,pulmonary vein
+2294,0,,pulmonary vein
+2295,0,,pulmonary vein
+2296,0,,pulmonary vein
+2297,0,,pulmonary vein
+2298,0,,pulmonary vein
+2299,0,,pulmonary vein
+2300,0,,pulmonary vein
+2301,0,,pulmonary vein
+2302,0,,pulmonary vein
+2303,0,,pulmonary vein
+2304,0,,pulmonary vein
+2305,0,,pulmonary vein
+2306,0,,pulmonary vein
+2307,0,,pulmonary vein
+2308,0,,pulmonary vein
+2309,0,,pulmonary vein
+2310,0,,pulmonary vein
+2311,0,,pulmonary vein
+2312,0,,pulmonary vein
+2313,0,,pulmonary vein
+2314,0,,pulmonary vein
+2315,0,,pulmonary vein
+2316,0,,pulmonary vein
+2317,0,,pulmonary vein
+2318,0,,pulmonary vein
+2319,0,,pulmonary vein
+2320,0,,pulmonary vein
+2321,0,,pulmonary vein
+2322,0,,pulmonary vein
+2323,0,,pulmonary vein
+2324,0,,pulmonary vein
+2325,0,,pulmonary vein
+2326,0,,pulmonary vein
+2327,0,,pulmonary vein
+2328,0,,pulmonary vein
+2329,0,,pulmonary vein
+2330,0,,pulmonary vein
+2331,0,,pulmonary vein
+2332,0,,pulmonary vein
+2333,0,,pulmonary vein
+2334,0,,pulmonary vein
+2335,0,,pulmonary vein
+2336,0,,pulmonary vein
+2337,0,,pulmonary vein
+2338,0,,pulmonary vein
+2339,0,,pulmonary vein
+2340,0,,pulmonary vein
+2341,0,,pulmonary vein
+2342,0,,pulmonary vein
+2343,0,,pulmonary vein
+2344,0,,pulmonary vein
+2345,0,,pulmonary vein
+2346,0,,pulmonary vein
+2347,0,,pulmonary vein
+2348,0,,pulmonary vein
+2349,0,,pulmonary vein
+2350,0,,pulmonary vein
+2351,0,,pulmonary vein
+2352,0,,pulmonary vein
+2353,0,,pulmonary vein
+2354,0,,pulmonary vein
+2355,0,,pulmonary vein
+2356,0,,pulmonary vein
+2357,0,,pulmonary vein
+2358,0,,pulmonary vein
+2359,0,,pulmonary vein
+2360,0,,pulmonary vein
+2361,0,,pulmonary vein
+2362,0,,pulmonary vein
+2363,0,,pulmonary vein
+2364,0,,pulmonary vein
+2365,0,,pulmonary vein
+2366,0,,pulmonary vein
+2367,0,abdominal circumference,abdominal circumference
+2368,0,abdominal circumference,abdominal circumference
+2369,0,abdominal circumference,abdominal circumference
+2370,0,abdominal circumference,abdominal circumference
+2371,0,abdominal circumference,abdominal circumference
+2372,0,abdominal circumference,abdominal circumference
+2373,0,abdominal circumference,abdominal circumference
+2374,0,abdominal circumference,abdominal circumference
+2375,0,abdominal circumference,abdominal circumference
+2376,0,abdominal circumference,abdominal circumference
+2377,0,abdominal circumference,abdominal circumference
+2378,0,abdominal circumference,abdominal circumference
+2379,0,abdominal circumference,abdominal circumference
+2380,0,abdominal circumference,abdominal circumference
+2381,0,abdominal circumference,abdominal circumference
+2382,0,abdominal circumference,abdominal circumference
+2383,0,abdominal circumference,abdominal circumference
+2384,0,abdominal circumference,abdominal circumference
+2385,0,abdominal circumference,abdominal circumference
+2386,0,abdominal circumference,abdominal circumference
+2387,0,abdominal circumference,abdominal circumference
+2388,0,abdominal circumference,abdominal circumference
+2389,0,abdominal circumference,abdominal circumference
+2390,0,abdominal circumference,abdominal circumference
+2391,0,abdominal circumference,abdominal circumference
+2392,0,abdominal circumference,abdominal circumference
+2393,0,abdominal circumference,abdominal circumference
+2394,0,abdominal circumference,abdominal circumference
+2395,0,abdominal circumference,abdominal circumference
+2396,0,abdominal circumference,abdominal circumference
+2397,0,,abdominal circumference
+2398,0,,abdominal circumference
+2399,1,,abdominal circumference
+2400,0,,abdominal circumference
+2401,0,,abdominal circumference
+2402,0,,abdominal circumference
+2403,1,,abdominal circumference
+2404,0,,abdominal circumference
+2405,0,,abdominal circumference
+2406,0,,abdominal circumference
+2407,0,,abdominal circumference
+2408,0,,abdominal circumference
+2409,0,,abdominal circumference
+2410,0,,abdominal circumference
+2411,0,,abdominal circumference
+2412,0,,abdominal circumference
+2413,0,,abdominal circumference
+2414,0,,abdominal circumference
+2415,0,,abdominal circumference
+2416,0,,abdominal circumference
+2417,0,,abdominal circumference
+2418,0,,abdominal circumference
+2419,0,,abdominal circumference
+2420,0,,abdominal circumference
+2421,0,,abdominal circumference
+2422,0,,abdominal circumference
+2423,0,,abdominal circumference
+2424,0,,abdominal circumference
+2425,1,,
+2426,0,,
+2427,0,cord,cord
+2428,0,cord,cord
+2429,0,,cord
+2430,0,,cord
+2431,0,,cord
+2432,0,,cord
+2433,0,,cord
+2434,0,,cord
+2435,0,,cord
+2436,0,,cord
+2437,0,,cord
+2438,0,,cord
+2439,0,,cord
+2440,0,,cord
+2441,0,,cord
+2442,0,,cord
+2443,0,,cord
+2444,0,,cord
+2445,0,,cord
+2446,0,,cord
+2447,0,cord,cord
+2448,0,cord,cord
+2449,0,cord,cord
+2450,0,cord,cord
+2451,0,,cord
+2452,0,,cord
+2453,0,,cord
+2454,0,,cord
+2455,0,,cord
+2456,0,,cord
+2457,0,,cord
+2458,0,,cord
+2459,0,,cord
+2460,0,,cord
+2461,1,,cord
+2462,0,,cord
+2463,0,,cord
+2464,0,,cord
+2465,0,,cord
+2466,0,,cord
+2467,0,,cord
+2468,0,,cord
+2469,0,,cord
+2470,0,,cord
+2471,0,,cord
+2472,0,,cord
+2473,1,,cord
+2474,1,,
+2475,0,,
+2476,0,,
+2477,0,,
+2478,0,,
+2479,0,,
+2480,0,,
+2481,0,,
+2482,0,,
+2483,0,,
+2484,0,,
+2485,0,,
+2486,0,,
+2487,0,,
+2488,0,,
+2489,0,,
+2490,0,bladder,bladder
+2491,0,bladder,bladder
+2492,0,bladder,bladder
+2493,1,bladder,
+2494,0,bladder,bladder
+2495,0,bladder,bladder
+2496,0,bladder,bladder
+2497,0,bladder,bladder
+2498,0,bladder,bladder
+2499,0,bladder,bladder
+2500,0,bladder,bladder
+2501,0,bladder,bladder
+2502,0,bladder,bladder
+2503,0,bladder,bladder
+2504,0,bladder,bladder
+2505,0,bladder,bladder
+2506,0,bladder,bladder
+2507,0,bladder,bladder
+2508,0,bladder,bladder
+2509,0,bladder,bladder
+2510,0,bladder,bladder
+2511,0,bladder,bladder
+2512,0,bladder,bladder
+2513,0,bladder,bladder
+2514,0,bladder,bladder
+2515,0,bladder,bladder
+2516,0,bladder,bladder
+2517,0,bladder,bladder
+2518,0,bladder,bladder
+2519,0,bladder,bladder
+2520,0,,bladder
+2521,0,,bladder
+2522,0,,bladder
+2523,0,,bladder
+2524,0,,bladder
+2525,0,,bladder
+2526,0,,bladder
+2527,0,,bladder
+2528,0,,bladder
+2529,0,,bladder
+2530,0,,bladder
+2531,0,,bladder
+2532,0,,bladder
+2533,0,,bladder
+2534,0,,bladder
+2535,0,,bladder
+2536,0,,bladder
+2537,0,femur length,femur length
+2538,0,femur length,femur length
+2539,0,femur length,femur length
+2540,0,femur length,femur length
+2541,0,femur length,femur length
+2542,0,femur length,femur length
+2543,0,femur length,femur length
+2544,0,femur length,femur length
+2545,0,femur length,femur length
+2546,0,femur length,femur length
+2547,0,femur length,femur length
+2548,0,femur length,femur length
+2549,0,femur length,femur length
+2550,0,femur length,femur length
+2551,0,femur length,femur length
+2552,0,femur length,femur length
+2553,0,femur length,femur length
+2554,0,femur length,femur length
+2555,0,femur length,femur length
+2556,0,femur length,femur length
+2557,0,femur length,femur length
+2558,0,femur length,femur length
+2559,0,femur length,femur length
+2560,0,femur length,femur length
+2561,0,femur length,femur length
+2562,0,femur length,femur length
+2563,0,femur length,femur length
+2564,0,femur length,femur length
+2565,0,femur length,femur length
+2566,0,femur length,femur length
+2567,0,,femur length
+2568,0,,femur length
+2569,0,,femur length
+2570,0,,femur length
+2571,0,,femur length
+2572,0,,femur length
+2573,0,,femur length
+2574,0,,femur length
+2575,0,,femur length
+2576,0,,femur length
+2577,0,,femur length
+2578,0,,femur length
+2579,1,,
+2580,0,,
+2581,0,,
+2582,0,,
+2583,0,,
+2584,0,,
+2585,0,,
+2586,0,,
+2587,0,,
+2588,0,,
+2589,0,,
+2590,0,,
+2591,0,,
+2592,0,,
+2593,0,,
+2594,0,,
+2595,0,,
+2596,0,,
+2597,0,,
+2598,0,,
+2599,0,,
+2600,0,,
+2601,0,,
+2602,0,,
+2603,0,,
+2604,0,,
+2605,0,,
+2606,0,,
+2607,0,,
+2608,0,,
+2609,0,,
+2610,0,,
+2611,0,,
+2612,0,,
+2613,0,,
+2614,0,,
+2615,0,,
+2616,0,,
+2617,0,,
+2618,0,,
+2619,0,,
+2620,0,,
+2621,0,,
+2622,0,,
+2623,0,,
+2624,0,,
+2625,0,,
+2626,0,,
+2627,0,,
+2628,0,,
+2629,0,,
+2630,0,,
+2631,0,,
+2632,0,,
+2633,0,,
+2634,0,,
+2635,0,,
+2636,0,,
+2637,0,,
+2638,0,,
+2639,0,,
+2640,0,,
+2641,1,genitals,genitals
+2642,0,genitals,genitals
+2643,0,genitals,genitals
+2644,0,genitals,genitals
+2645,0,genitals,genitals
+2646,0,genitals,genitals
+2647,0,genitals,genitals
+2648,0,genitals,genitals
+2649,0,genitals,genitals
+2650,0,genitals,genitals
+2651,0,genitals,genitals
+2652,0,genitals,genitals
+2653,0,genitals,genitals
+2654,0,genitals,genitals
+2655,0,genitals,genitals
+2656,0,genitals,genitals
+2657,0,genitals,genitals
+2658,0,genitals,genitals
+2659,0,genitals,genitals
+2660,0,genitals,genitals
+2661,0,genitals,genitals
+2662,0,genitals,genitals
+2663,0,genitals,genitals
+2664,0,genitals,genitals
+2665,0,genitals,genitals
+2666,0,genitals,genitals
+2667,0,genitals,genitals
+2668,0,genitals,genitals
+2669,0,genitals,genitals
+2670,0,genitals,genitals
+2671,0,,genitals
+2672,0,,genitals
+2673,0,,genitals
+2674,0,,genitals
+2675,0,,genitals
+2676,0,,genitals
+2677,0,,genitals
+2678,0,,genitals
+2679,0,,genitals
+2680,0,,genitals
+2681,0,,genitals
+2682,0,,genitals
+2683,0,,genitals
+2684,0,,genitals
+2685,0,,genitals
+2686,0,,genitals
+2687,0,,genitals
+2688,0,,genitals
+2689,0,,genitals
+2690,0,,genitals
+2691,0,,genitals
+2692,0,,genitals
+2693,0,,genitals
+2694,0,,genitals
+2695,0,,genitals
+2696,0,,genitals
+2697,0,,genitals
+2698,0,,genitals
+2699,0,,genitals
+2700,0,,genitals
+2701,0,,genitals
+2702,0,,genitals
+2703,0,,genitals
+2704,0,,genitals
+2705,0,,genitals
+2706,0,,genitals
+2707,0,,genitals
+2708,0,,genitals
+2709,1,genitals,
+2710,0,genitals,genitals
+2711,0,genitals,genitals
+2712,0,genitals,genitals
+2713,0,genitals,genitals
+2714,0,genitals,genitals
+2715,0,genitals,genitals
+2716,0,genitals,genitals
+2717,0,genitals,genitals
+2718,0,genitals,genitals
+2719,0,genitals,genitals
+2720,0,genitals,genitals
+2721,0,genitals,genitals
+2722,0,genitals,genitals
+2723,0,genitals,genitals
+2724,0,genitals,genitals
+2725,0,genitals,genitals
+2726,0,genitals,genitals
+2727,0,genitals,genitals
+2728,0,genitals,genitals
+2729,0,genitals,genitals
+2730,0,genitals,genitals
+2731,0,genitals,genitals
+2732,0,genitals,genitals
+2733,0,genitals,genitals
+2734,0,genitals,genitals
+2735,0,genitals,genitals
+2736,0,genitals,genitals
+2737,0,genitals,genitals
+2738,0,genitals,genitals
+2739,0,,genitals
+2740,0,,genitals
+2741,0,,genitals
+2742,0,,genitals
+2743,0,,genitals
+2744,0,,genitals
+2745,0,,genitals
+2746,0,,genitals
+2747,0,,genitals
+2748,0,,genitals
+2749,0,,genitals
+2750,0,,genitals
+2751,0,,genitals
+2752,0,,genitals
+2753,0,,genitals
+2754,0,,genitals
+2755,0,,genitals
+2756,0,,genitals
+2757,0,,genitals
+2758,0,,genitals
+2759,0,,genitals
+2760,0,,genitals
+2761,0,,genitals
+2762,0,,genitals
+2763,0,,genitals
+2764,0,,genitals
+2765,0,,genitals
+2766,0,,genitals
+2767,0,,genitals
+2768,0,,genitals
+2769,0,,genitals
+2770,0,,genitals
+2771,0,,genitals
+2772,0,,genitals
+2773,0,spine,spine
+2774,0,spine,spine
+2775,1,spine,spine
+2776,0,spine,spine
+2777,0,spine,spine
+2778,0,spine,spine
+2779,0,spine,spine
+2780,0,spine,spine
+2781,0,spine,spine
+2782,0,spine,spine
+2783,0,spine,spine
+2784,0,spine,spine
+2785,0,spine,spine
+2786,0,spine,spine
+2787,0,spine,spine
+2788,0,spine,spine
+2789,0,spine,spine
+2790,0,spine,spine
+2791,0,spine,spine
+2792,0,spine,spine
+2793,1,spine,spine
+2794,0,spine,spine
+2795,0,spine,spine
+2796,0,spine,spine
+2797,0,spine,spine
+2798,0,spine,spine
+2799,0,spine,spine
+2800,0,spine,spine
+2801,0,spine,spine
+2802,0,spine,spine
+2803,0,spine,spine
+2804,0,spine,spine
+2805,0,spine,spine
+2806,0,spine,spine
+2807,0,spine,spine
+2808,0,spine,spine
+2809,0,,spine
+2810,0,,spine
+2811,0,spine,spine
+2812,0,spine,spine
+2813,0,spine,spine
+2814,0,spine,spine
+2815,0,spine,spine
+2816,0,spine,spine
+2817,0,spine,spine
+2818,0,spine,spine
+2819,0,spine,spine
+2820,0,spine,spine
+2821,0,spine,spine
+2822,0,,spine
+2823,0,,spine
+2824,0,,spine
+2825,0,,spine
+2826,0,,spine
+2827,0,,spine
+2828,0,,spine
+2829,0,,spine
+2830,0,,spine
+2831,0,,spine
+2832,0,,spine
+2833,0,,spine
+2834,0,,spine
+2835,0,,spine
+2836,0,,spine
+2837,0,,spine
+2838,0,,spine
+2839,0,,spine
+2840,0,,spine
+2841,0,,spine
+2842,0,,spine
+2843,1,,spine
+2844,0,,spine
+2845,0,spine,spine
+2846,0,spine,spine
+2847,0,spine,spine
+2848,0,spine,spine
+2849,0,spine,spine
+2850,0,spine,spine
+2851,0,spine,spine
+2852,0,spine,spine
+2853,0,spine,spine
+2854,0,spine,spine
+2855,0,spine,spine
+2856,0,spine,spine
+2857,0,spine,spine
+2858,0,spine,spine
+2859,0,spine,spine
+2860,0,spine,spine
+2861,0,spine,spine
+2862,0,spine,spine
+2863,0,spine,spine
+2864,0,spine,spine
+2865,0,spine,spine
+2866,0,spine,spine
+2867,0,spine,spine
+2868,0,spine,spine
+2869,0,spine,spine
+2870,0,spine,spine
+2871,0,spine,spine
+2872,0,spine,spine
+2873,0,spine,spine
+2874,0,spine,spine
+2875,0,spine,spine
+2876,0,spine,spine
+2877,1,spine,spine
+2878,0,spine,spine
+2879,0,spine,spine
+2880,0,spine,spine
+2881,0,spine,spine
+2882,0,spine,spine
+2883,0,spine,spine
+2884,0,spine,spine
+2885,0,spine,spine
+2886,0,spine,spine
+2887,0,spine,spine
+2888,0,spine,spine
+2889,0,spine,spine
+2890,0,spine,spine
+2891,0,spine,spine
+2892,0,spine,spine
+2893,0,spine,spine
+2894,0,spine,spine
+2895,0,spine,spine
+2896,0,,spine
+2897,0,,spine
+2898,0,,spine
+2899,0,,spine
+2900,0,,spine
+2901,0,,spine
+2902,0,,spine
+2903,0,,spine
+2904,0,,spine
+2905,1,spine,spine
+2906,0,spine,spine
+2907,0,spine,spine
+2908,0,spine,spine
+2909,0,spine,spine
+2910,0,spine,spine
+2911,0,spine,spine
+2912,0,spine,spine
+2913,0,spine,spine
+2914,0,spine,spine
+2915,0,spine,spine
+2916,0,spine,spine
+2917,0,spine,spine
+2918,0,spine,spine
+2919,0,spine,spine
+2920,0,spine,spine
+2921,0,spine,spine
+2922,0,spine,spine
+2923,0,spine,spine
+2924,0,spine,spine
+2925,0,spine,spine
+2926,0,spine,spine
+2927,0,spine,spine
+2928,0,spine,spine
+2929,0,spine,spine
+2930,0,spine,spine
+2931,0,spine,spine
+2932,0,spine,spine
+2933,0,spine,spine
+2934,0,spine,spine
+2935,0,,spine
+2936,0,,spine
+2937,0,,spine
+2938,0,,spine
+2939,0,,spine
+2940,0,,spine
+2941,0,spine,spine
+2942,0,spine,spine
+2943,0,spine,spine
+2944,0,spine,spine
+2945,0,spine,spine
+2946,0,spine,spine
+2947,1,spine,spine
+2948,0,spine,spine
+2949,0,spine,spine
+2950,0,spine,spine
+2951,0,spine,spine
+2952,0,spine,spine
+2953,0,spine,spine
+2954,0,spine,spine
+2955,0,spine,spine
+2956,0,spine,spine
+2957,0,spine,spine
+2958,0,spine,spine
+2959,0,spine,spine
+2960,0,spine,spine
+2961,0,spine,spine
+2962,0,spine,spine
+2963,0,spine,spine
+2964,0,spine,spine
+2965,0,spine,spine
+2966,0,spine,spine
+2967,1,spine,
+2968,0,spine,spine
+2969,0,spine,spine
+2970,0,spine,spine
+2971,0,,spine
+2972,0,,spine
+2973,0,,spine
+2974,0,,spine
+2975,0,,spine
+2976,0,,spine
+2977,0,,spine
+2978,0,,spine
+2979,0,,spine
+2980,0,,spine
+2981,0,,spine
+2982,0,,spine
+2983,0,,spine
+2984,0,,spine
+2985,0,,spine
+2986,0,,spine
+2987,0,,spine
+2988,0,,spine
+2989,0,,spine
+2990,0,,spine
+2991,0,,spine
+2992,0,,spine
+2993,0,,spine
+2994,0,,spine
+2995,0,,spine
+2996,0,,spine
+2997,0,,spine
+2998,0,,spine
+2999,0,,spine
+3000,0,,spine
+3001,0,,spine
+3002,0,,spine
+3003,0,,spine
+3004,0,,spine
+3005,0,,spine
+3006,0,,spine
+3007,0,,spine
+3008,0,,spine
+3009,0,,spine
+3010,0,,spine
+3011,0,,spine
+3012,0,,spine
+3013,0,,spine
+3014,0,,spine
+3015,0,,spine
+3016,0,,spine
+3017,0,,spine
+3018,0,,spine
+3019,0,,spine
+3020,0,,spine
+3021,0,,spine
+3022,0,,spine
+3023,0,,spine
+3024,0,,spine
+3025,0,,spine
+3026,0,,spine
+3027,0,,spine
+3028,0,,spine
+3029,0,,spine
+3030,0,,spine
+3031,0,,spine
+3032,0,,spine
+3033,0,,spine
+3034,0,,spine
+3035,0,,spine
+3036,0,,spine
+3037,0,,spine
+3038,0,,spine
+3039,0,,spine
+3040,0,,spine
+3041,0,,spine
+3042,0,,spine
+3043,0,,spine
+3044,0,,spine
+3045,0,,spine
+3046,0,,spine
+3047,0,,spine
+3048,0,,spine
+3049,0,,spine
+3050,0,,spine
+3051,0,,spine
+3052,0,,spine
+3053,0,,spine
+3054,0,,spine
+3055,0,,spine
+3056,0,,spine
+3057,0,,spine
+3058,0,,spine
+3059,0,,spine
+3060,0,,spine
+3061,0,,spine
+3062,0,,spine
+3063,0,,spine
+3064,0,,spine
+3065,0,,spine
+3066,0,,spine
+3067,0,,spine
+3068,0,,spine
+3069,0,,spine
+3070,0,,spine
+3071,0,,spine
+3072,0,,spine
+3073,0,,spine
+3074,0,,spine
+3075,0,,spine
+3076,0,,spine
+3077,0,,spine
+3078,0,,spine
+3079,0,,spine
+3080,0,,spine
+3081,0,,spine
+3082,0,,spine
+3083,0,,spine
+3084,0,,spine
+3085,0,,spine
+3086,0,,spine
+3087,0,,spine
+3088,0,kidney coronal view,kidney coronal view
+3089,0,kidney coronal view,kidney coronal view
+3090,0,kidney coronal view,kidney coronal view
+3091,0,kidney coronal view,kidney coronal view
+3092,0,kidney coronal view,kidney coronal view
+3093,0,kidney coronal view,kidney coronal view
+3094,0,kidney coronal view,kidney coronal view
+3095,0,kidney coronal view,kidney coronal view
+3096,0,kidney coronal view,kidney coronal view
+3097,0,kidney coronal view,kidney coronal view
+3098,0,kidney coronal view,kidney coronal view
+3099,0,kidney coronal view,kidney coronal view
+3100,0,kidney coronal view,kidney coronal view
+3101,0,kidney coronal view,kidney coronal view
+3102,0,kidney coronal view,kidney coronal view
+3103,1,kidney coronal view,kidney coronal view
+3104,0,kidney coronal view,kidney coronal view
+3105,0,kidney coronal view,kidney coronal view
+3106,0,kidney coronal view,kidney coronal view
+3107,0,kidney coronal view,kidney coronal view
+3108,0,kidney coronal view,kidney coronal view
+3109,0,kidney coronal view,kidney coronal view
+3110,0,kidney coronal view,kidney coronal view
+3111,0,kidney coronal view,kidney coronal view
+3112,0,kidney coronal view,kidney coronal view
+3113,0,kidney coronal view,kidney coronal view
+3114,0,kidney coronal view,kidney coronal view
+3115,0,kidney coronal view,kidney coronal view
+3116,0,kidney coronal view,kidney coronal view
+3117,0,kidney coronal view,kidney coronal view
+3118,0,,kidney coronal view
+3119,0,,kidney coronal view
+3120,0,,kidney coronal view
+3121,0,,kidney coronal view
+3122,0,,kidney coronal view
+3123,0,,kidney coronal view
+3124,0,,kidney coronal view
+3125,0,,kidney coronal view
+3126,0,,kidney coronal view
+3127,0,,kidney coronal view
+3128,0,,kidney coronal view
+3129,0,,kidney coronal view
+3130,0,,kidney coronal view
+3131,0,,kidney coronal view
+3132,0,,kidney coronal view
+3133,0,,kidney coronal view
+3134,0,,kidney coronal view
+3135,0,,kidney coronal view
+3136,0,,kidney coronal view
+3137,0,,kidney coronal view
+3138,0,,kidney coronal view
+3139,0,,kidney coronal view
+3140,0,,kidney coronal view
+3141,0,,kidney coronal view
+3142,0,,kidney coronal view
+3143,0,,kidney coronal view
+3144,0,,kidney coronal view
+3145,0,,kidney coronal view
+3146,0,,kidney coronal view
+3147,0,,kidney coronal view
+3148,0,,kidney coronal view
+3149,0,,kidney coronal view
+3150,0,,kidney coronal view
+3151,0,,kidney coronal view
+3152,0,,kidney coronal view
+3153,0,,kidney coronal view
+3154,0,,kidney coronal view
+3155,0,,kidney coronal view
+3156,0,,kidney coronal view
+3157,0,,kidney coronal view
+3158,0,,kidney coronal view
+3159,0,,kidney coronal view
+3160,0,,kidney coronal view
+3161,0,,kidney coronal view
+3162,0,,kidney coronal view
+3163,0,,kidney coronal view
+3164,0,,kidney coronal view
+3165,0,,kidney coronal view
+3166,0,,kidney coronal view
+3167,0,,kidney coronal view
+3168,0,,kidney coronal view
+3169,0,,kidney coronal view
+3170,0,,kidney coronal view
+3171,0,,kidney coronal view
+3172,0,,kidney coronal view
+3173,0,,kidney coronal view
+3174,0,,kidney coronal view
+3175,1,,kidney coronal view
+3176,1,,
+3177,0,,
+3178,0,,
+3179,0,,
+3180,0,,
+3181,0,,
+3182,0,,
+3183,0,,
+3184,0,,
+3185,0,,
+3186,0,,
+3187,0,,
+3188,0,,
+3189,0,kidneys vessels,kidneys vessels
+3190,0,kidneys vessels,kidneys vessels
+3191,0,kidneys vessels,kidneys vessels
+3192,0,kidneys vessels,kidneys vessels
+3193,0,kidneys vessels,kidneys vessels
+3194,0,kidneys vessels,kidneys vessels
+3195,0,kidneys vessels,kidneys vessels
+3196,0,kidneys vessels,kidneys vessels
+3197,0,kidneys vessels,kidneys vessels
+3198,0,kidneys vessels,kidneys vessels
+3199,0,kidneys vessels,kidneys vessels
+3200,0,kidneys vessels,kidneys vessels
+3201,0,kidneys vessels,kidneys vessels
+3202,0,kidneys vessels,kidneys vessels
+3203,1,kidneys vessels,
+3204,0,kidneys vessels,kidneys vessels
+3205,0,kidneys vessels,kidneys vessels
+3206,0,kidneys vessels,kidneys vessels
+3207,0,kidneys vessels,kidneys vessels
+3208,0,kidneys vessels,kidneys vessels
+3209,0,kidneys vessels,kidneys vessels
+3210,0,kidneys vessels,kidneys vessels
+3211,0,kidneys vessels,kidneys vessels
+3212,0,kidneys vessels,kidneys vessels
+3213,0,kidneys vessels,kidneys vessels
+3214,0,kidneys vessels,kidneys vessels
+3215,0,kidneys vessels,kidneys vessels
+3216,0,kidneys vessels,kidneys vessels
+3217,0,kidneys vessels,kidneys vessels
+3218,0,kidneys vessels,kidneys vessels
+3219,0,,kidneys vessels
+3220,0,,kidneys vessels
+3221,0,,kidneys vessels
+3222,0,,kidneys vessels
+3223,0,,kidneys vessels
+3224,0,,kidneys vessels
+3225,0,,kidneys vessels
+3226,0,,kidneys vessels
+3227,0,,kidneys vessels
+3228,0,,kidneys vessels
+3229,0,,kidneys vessels
+3230,0,,kidneys vessels
+3231,0,,kidneys vessels
+3232,0,,kidneys vessels
+3233,0,,kidneys vessels
+3234,0,,kidneys vessels
+3235,0,,kidneys vessels
+3236,0,,kidneys vessels
+3237,0,,kidneys vessels
+3238,0,,kidneys vessels
+3239,0,,kidneys vessels
+3240,0,,kidneys vessels
+3241,0,,kidneys vessels
+3242,0,,kidneys vessels
+3243,0,,kidneys vessels
+3244,0,,kidneys vessels
+3245,0,,kidneys vessels
+3246,0,,kidneys vessels
+3247,0,,kidneys vessels
+3248,0,,kidneys vessels
+3249,0,,kidneys vessels
+3250,0,,kidneys vessels
+3251,0,,kidneys vessels
+3252,0,,kidneys vessels
+3253,0,,kidneys vessels
+3254,0,,kidneys vessels
+3255,0,,kidneys vessels
+3256,0,,kidneys vessels
+3257,0,,kidneys vessels
+3258,0,,kidneys vessels
+3259,0,,kidneys vessels
+3260,0,,kidneys vessels
+3261,0,,kidneys vessels
+3262,0,,kidneys vessels
+3263,0,,kidneys vessels
+3264,0,,kidneys vessels
+3265,0,,kidneys vessels
+3266,0,,kidneys vessels
+3267,0,,kidneys vessels
+3268,0,,kidneys vessels
+3269,0,,kidneys vessels
+3270,0,,kidneys vessels
+3271,0,,kidneys vessels
+3272,0,,kidneys vessels
+3273,0,,kidneys vessels
+3274,0,,kidneys vessels
+3275,0,,kidneys vessels
+3276,0,,kidneys vessels
+3277,0,,kidneys vessels
+3278,0,,kidneys vessels
+3279,0,,kidneys vessels
+3280,0,,kidneys vessels
+3281,0,,kidneys vessels
+3282,0,,kidneys vessels
+3283,0,,kidneys vessels
+3284,0,,kidneys vessels
+3285,0,,kidneys vessels
+3286,0,,kidneys vessels
+3287,0,,kidneys vessels
+3288,0,,kidneys vessels
+3289,0,,kidneys vessels
+3290,0,,kidneys vessels
+3291,0,,kidneys vessels
+3292,0,,kidneys vessels
+3293,0,,kidneys vessels
+3294,0,,kidneys vessels
+3295,0,,kidneys vessels
+3296,0,,kidneys vessels
+3297,0,,kidneys vessels
+3298,0,,kidneys vessels
+3299,0,,kidneys vessels
+3300,0,,kidneys vessels
+3301,0,,kidneys vessels
+3302,0,,kidneys vessels
+3303,0,genitals,genitals
+3304,0,genitals,genitals
+3305,0,genitals,genitals
+3306,0,genitals,genitals
+3307,0,genitals,genitals
+3308,0,genitals,genitals
+3309,0,genitals,genitals
+3310,0,genitals,genitals
+3311,0,genitals,genitals
+3312,0,genitals,genitals
+3313,0,genitals,genitals
+3314,0,genitals,genitals
+3315,0,genitals,genitals
+3316,0,genitals,genitals
+3317,0,genitals,genitals
+3318,0,genitals,genitals
+3319,0,genitals,genitals
+3320,0,genitals,genitals
+3321,0,genitals,genitals
+3322,0,genitals,genitals
+3323,0,genitals,genitals
+3324,0,genitals,genitals
+3325,0,genitals,genitals
+3326,0,genitals,genitals
+3327,0,genitals,genitals
+3328,0,genitals,genitals
+3329,0,genitals,genitals
+3330,0,genitals,genitals
+3331,0,genitals,genitals
+3332,0,genitals,genitals
+3333,0,,genitals
+3334,0,,genitals
+3335,0,,genitals
+3336,0,,genitals
+3337,0,,genitals
+3338,0,,genitals
+3339,0,,genitals
+3340,0,,genitals
+3341,0,,genitals
+3342,0,,genitals
+3343,0,,genitals
+3344,0,,genitals
+3345,0,,genitals
+3346,0,,genitals
+3347,0,,genitals
+3348,0,,genitals
+3349,0,,genitals
+3350,0,,genitals
+3351,0,,genitals
+3352,0,,genitals
+3353,0,,genitals
+3354,0,,genitals
+3355,0,,genitals
+3356,0,,genitals
+3357,0,,genitals
+3358,0,,genitals
+3359,1,,genitals
+3360,0,,genitals
+3361,0,,genitals
+3362,0,,genitals
+3363,0,,genitals
+3364,0,,genitals
+3365,0,,genitals
+3366,0,,genitals
+3367,0,,genitals
+3368,0,,genitals
+3369,0,,genitals
+3370,0,,genitals
+3371,0,,genitals
+3372,0,,genitals
+3373,1,,
+3374,0,,
+3375,0,,
+3376,0,,
+3377,0,,
+3378,0,,
+3379,0,,
+3380,0,,
+3381,0,,
+3382,0,,
+3383,0,,
+3384,0,,
+3385,0,,
+3386,0,,
+3387,0,,
+3388,0,,
+3389,0,,
+3390,0,,
+3391,0,,
+3392,0,,
+3393,0,,
+3394,0,,
+3395,0,,
+3396,0,,
+3397,0,,
+3398,0,,
+3399,0,,
+3400,0,,
+3401,0,,
+3402,0,,
+3403,0,,
+3404,0,,
+3405,0,,
+3406,0,,
+3407,0,,
+3408,0,,
+3409,0,,
+3410,0,,
+3411,0,,
+3412,0,,
+3413,0,,
+3414,0,,
+3415,0,,
+3416,0,,
+3417,0,,
+3418,0,,
+3419,0,,
+3420,0,,
+3421,0,,
+3422,0,,
+3423,0,,
+3424,0,,
+3425,0,,
+3426,0,,
+3427,0,,
+3428,0,,
+3429,0,,
+3430,0,,
+3431,0,bladder,bladder
+3432,0,bladder,bladder
+3433,1,bladder,
+3434,0,bladder,bladder
+3435,0,bladder,bladder
+3436,0,bladder,bladder
+3437,0,bladder,bladder
+3438,0,bladder,bladder
+3439,0,bladder,bladder
+3440,0,bladder,bladder
+3441,0,bladder,bladder
+3442,0,bladder,bladder
+3443,0,bladder,bladder
+3444,0,bladder,bladder
+3445,0,bladder,bladder
+3446,0,bladder,bladder
+3447,0,bladder,bladder
+3448,0,bladder,bladder
+3449,0,bladder,bladder
+3450,0,bladder,bladder
+3451,0,bladder,bladder
+3452,0,bladder,bladder
+3453,0,bladder,bladder
+3454,0,bladder,bladder
+3455,0,bladder,bladder
+3456,0,bladder,bladder
+3457,0,bladder,bladder
+3458,0,bladder,bladder
+3459,0,bladder,bladder
+3460,0,bladder,bladder
+3461,0,,bladder
+3462,0,,bladder
+3463,0,,bladder
+3464,0,,bladder
+3465,0,,bladder
+3466,0,,bladder
+3467,0,,bladder
+3468,0,,bladder
+3469,0,,bladder
+3470,0,,bladder
+3471,0,,bladder
+3472,0,,bladder
+3473,0,,bladder
+3474,0,,bladder
+3475,0,,bladder
+3476,0,,bladder
+3477,0,,bladder
+3478,0,,bladder
+3479,0,,bladder
+3480,0,,bladder
+3481,0,,bladder
+3482,0,,bladder
+3483,0,,bladder
+3484,0,,bladder
+3485,0,,bladder
+3486,0,,bladder
+3487,0,,bladder
+3488,0,,bladder
+3489,0,,bladder
+3490,0,,bladder
+3491,0,,bladder
+3492,0,,bladder
+3493,0,,bladder
+3494,0,,bladder
+3495,0,,bladder
+3496,0,,bladder
+3497,0,,bladder
+3498,0,,bladder
+3499,0,,bladder
+3500,0,,bladder
+3501,0,,bladder
+3502,0,,bladder
+3503,0,,bladder
+3504,0,,bladder
+3505,0,,bladder
+3506,0,,bladder
+3507,0,,bladder
+3508,0,,bladder
+3509,0,,bladder
+3510,0,,bladder
+3511,0,,bladder
+3512,0,,bladder
+3513,0,,bladder
+3514,0,,bladder
+3515,0,,bladder
+3516,0,,bladder
+3517,0,,bladder
+3518,0,,bladder
+3519,0,,bladder
+3520,0,,bladder
+3521,0,,bladder
+3522,0,,bladder
+3523,0,,bladder
+3524,0,,bladder
+3525,0,,bladder
+3526,0,,bladder
+3527,0,,bladder
+3528,0,,bladder
+3529,0,,bladder
+3530,0,,bladder
+3531,0,,bladder
+3532,0,,bladder
+3533,0,,bladder
+3534,0,,bladder
+3535,0,,bladder
+3536,0,,bladder
+3537,0,,bladder
+3538,0,,bladder
+3539,0,,bladder
+3540,0,,bladder
+3541,0,,bladder
+3542,0,,bladder
+3543,0,,bladder
+3544,0,,bladder
+3545,0,,bladder
+3546,0,,bladder
+3547,0,,bladder
+3548,0,,bladder
+3549,0,,bladder
+3550,0,right diaphragm,right diaphragm
+3551,0,right diaphragm,right diaphragm
+3552,0,right diaphragm,right diaphragm
+3553,0,right diaphragm,right diaphragm
+3554,0,right diaphragm,right diaphragm
+3555,0,right diaphragm,right diaphragm
+3556,0,right diaphragm,right diaphragm
+3557,1,right diaphragm,right diaphragm
+3558,0,right diaphragm,right diaphragm
+3559,0,right diaphragm,right diaphragm
+3560,0,right diaphragm,right diaphragm
+3561,0,right diaphragm,right diaphragm
+3562,0,right diaphragm,right diaphragm
+3563,0,right diaphragm,right diaphragm
+3564,0,right diaphragm,right diaphragm
+3565,0,right diaphragm,right diaphragm
+3566,0,right diaphragm,right diaphragm
+3567,0,right diaphragm,right diaphragm
+3568,0,right diaphragm,right diaphragm
+3569,0,right diaphragm,right diaphragm
+3570,0,right diaphragm,right diaphragm
+3571,0,right diaphragm,right diaphragm
+3572,0,right diaphragm,right diaphragm
+3573,0,right diaphragm,right diaphragm
+3574,0,right diaphragm,right diaphragm
+3575,0,right diaphragm,right diaphragm
+3576,0,right diaphragm,right diaphragm
+3577,0,right diaphragm,right diaphragm
+3578,0,right diaphragm,right diaphragm
+3579,0,right diaphragm,right diaphragm
+3580,0,,right diaphragm
+3581,0,,right diaphragm
+3582,0,,right diaphragm
+3583,0,,right diaphragm
+3584,0,,right diaphragm
+3585,0,,right diaphragm
+3586,0,,right diaphragm
+3587,0,,right diaphragm
+3588,0,,right diaphragm
+3589,1,,
+3590,0,left diaphragm,left diaphragm
+3591,0,left diaphragm,left diaphragm
+3592,0,left diaphragm,left diaphragm
+3593,0,left diaphragm,left diaphragm
+3594,0,left diaphragm,left diaphragm
+3595,0,left diaphragm,left diaphragm
+3596,0,left diaphragm,left diaphragm
+3597,0,left diaphragm,left diaphragm
+3598,0,left diaphragm,left diaphragm
+3599,0,left diaphragm,left diaphragm
+3600,0,left diaphragm,left diaphragm
+3601,0,left diaphragm,left diaphragm
+3602,0,left diaphragm,left diaphragm
+3603,0,left diaphragm,left diaphragm
+3604,0,left diaphragm,left diaphragm
+3605,0,left diaphragm,left diaphragm
+3606,0,left diaphragm,left diaphragm
+3607,0,left diaphragm,left diaphragm
+3608,0,left diaphragm,left diaphragm
+3609,0,left diaphragm,left diaphragm
+3610,0,left diaphragm,left diaphragm
+3611,0,left diaphragm,left diaphragm
+3612,0,left diaphragm,left diaphragm
+3613,0,left diaphragm,left diaphragm
+3614,0,left diaphragm,left diaphragm
+3615,0,left diaphragm,left diaphragm
+3616,0,left diaphragm,left diaphragm
+3617,0,left diaphragm,left diaphragm
+3618,0,left diaphragm,left diaphragm
+3619,0,left diaphragm,left diaphragm
+3620,0,,left diaphragm
+3621,0,,left diaphragm
+3622,0,,left diaphragm
+3623,0,,left diaphragm
+3624,0,,left diaphragm
+3625,0,,left diaphragm
+3626,0,,left diaphragm
+3627,0,,left diaphragm
+3628,0,,left diaphragm
+3629,0,,left diaphragm
+3630,0,,left diaphragm
+3631,0,,left diaphragm
+3632,0,,left diaphragm
+3633,0,,left diaphragm
+3634,0,,left diaphragm
+3635,0,,left diaphragm
+3636,0,,left diaphragm
+3637,0,,left diaphragm
+3638,0,,left diaphragm
+3639,0,,left diaphragm
+3640,0,,left diaphragm
+3641,0,,left diaphragm
+3642,0,,left diaphragm
+3643,1,,
+3644,0,,
+3645,0,left diaphragm,left diaphragm
+3646,0,left diaphragm,left diaphragm
+3647,0,left diaphragm,left diaphragm
+3648,0,left diaphragm,left diaphragm
+3649,0,left diaphragm,left diaphragm
+3650,0,left diaphragm,left diaphragm
+3651,0,left diaphragm,left diaphragm
+3652,0,left diaphragm,left diaphragm
+3653,0,left diaphragm,left diaphragm
+3654,0,left diaphragm,left diaphragm
+3655,0,left diaphragm,left diaphragm
+3656,0,left diaphragm,left diaphragm
+3657,0,left diaphragm,left diaphragm
+3658,0,left diaphragm,left diaphragm
+3659,0,left diaphragm,left diaphragm
+3660,0,left diaphragm,left diaphragm
+3661,0,left diaphragm,left diaphragm
+3662,0,left diaphragm,left diaphragm
+3663,0,left diaphragm,left diaphragm
+3664,0,left diaphragm,left diaphragm
+3665,0,left diaphragm,left diaphragm
+3666,0,left diaphragm,left diaphragm
+3667,0,left diaphragm,left diaphragm
+3668,0,left diaphragm,left diaphragm
+3669,0,left diaphragm,left diaphragm
+3670,0,left diaphragm,left diaphragm
+3671,0,left diaphragm,left diaphragm
+3672,0,left diaphragm,left diaphragm
+3673,0,left diaphragm,left diaphragm
+3674,0,left diaphragm,left diaphragm
+3675,0,,left diaphragm
+3676,0,,left diaphragm
+3677,0,,left diaphragm
+3678,0,,left diaphragm
+3679,0,,left diaphragm
+3680,0,,left diaphragm
+3681,0,,left diaphragm
+3682,0,,left diaphragm
+3683,0,,left diaphragm
+3684,0,,left diaphragm
+3685,0,,left diaphragm
+3686,0,,left diaphragm
+3687,0,,left diaphragm
+3688,0,,left diaphragm
+3689,0,,left diaphragm
+3690,0,,left diaphragm
+3691,0,,left diaphragm
+3692,0,,left diaphragm
+3693,0,,left diaphragm
+3694,0,,left diaphragm
+3695,0,,left diaphragm
+3696,0,,left diaphragm
+3697,0,,left diaphragm
+3698,0,,left diaphragm
+3699,0,,left diaphragm
+3700,0,,left diaphragm
+3701,0,,left diaphragm
+3702,0,,left diaphragm
+3703,0,,left diaphragm
+3704,0,,left diaphragm
+3705,0,,left diaphragm
+3706,0,,left diaphragm
+3707,0,,left diaphragm
+3708,0,,left diaphragm
+3709,0,,left diaphragm
+3710,0,,left diaphragm
+3711,0,,left diaphragm
+3712,0,,left diaphragm
+3713,0,,left diaphragm
+3714,0,,left diaphragm
+3715,0,,left diaphragm
+3716,0,,left diaphragm
+3717,0,,left diaphragm
+3718,0,,left diaphragm
+3719,0,,left diaphragm
+3720,0,,left diaphragm
+3721,0,,left diaphragm
+3722,0,,left diaphragm
+3723,0,,left diaphragm
+3724,0,,left diaphragm
+3725,0,,left diaphragm
+3726,0,,left diaphragm
+3727,0,,left diaphragm
+3728,0,,left diaphragm
+3729,0,,left diaphragm
+3730,0,,left diaphragm
+3731,0,,left diaphragm
+3732,0,,left diaphragm
+3733,0,,left diaphragm
+3734,0,,left diaphragm
+3735,0,,left diaphragm
+3736,0,,left diaphragm
+3737,0,,left diaphragm
+3738,0,,left diaphragm
+3739,0,,left diaphragm
+3740,0,,left diaphragm
+3741,0,,left diaphragm
+3742,0,,left diaphragm
+3743,0,,left diaphragm
+3744,0,,left diaphragm
+3745,0,,left diaphragm
+3746,0,,left diaphragm
+3747,0,,left diaphragm
+3748,0,,left diaphragm
+3749,0,,left diaphragm
+3750,0,,left diaphragm
+3751,0,,left diaphragm
+3752,0,,left diaphragm
+3753,0,,left diaphragm
+3754,0,kidneys parasagittal view,kidneys parasagittal view
+3755,0,kidneys parasagittal view,kidneys parasagittal view
+3756,0,kidneys parasagittal view,kidneys parasagittal view
+3757,0,kidneys parasagittal view,kidneys parasagittal view
+3758,0,kidneys parasagittal view,kidneys parasagittal view
+3759,0,kidneys parasagittal view,kidneys parasagittal view
+3760,0,kidneys parasagittal view,kidneys parasagittal view
+3761,0,kidneys parasagittal view,kidneys parasagittal view
+3762,0,kidneys parasagittal view,kidneys parasagittal view
+3763,0,kidneys parasagittal view,kidneys parasagittal view
+3764,0,kidneys parasagittal view,kidneys parasagittal view
+3765,0,kidneys parasagittal view,kidneys parasagittal view
+3766,0,kidneys parasagittal view,kidneys parasagittal view
+3767,0,kidneys parasagittal view,kidneys parasagittal view
+3768,0,kidneys parasagittal view,kidneys parasagittal view
+3769,0,kidneys parasagittal view,kidneys parasagittal view
+3770,0,kidneys parasagittal view,kidneys parasagittal view
+3771,0,kidneys parasagittal view,kidneys parasagittal view
+3772,0,kidneys parasagittal view,kidneys parasagittal view
+3773,0,kidneys parasagittal view,kidneys parasagittal view
+3774,0,kidneys parasagittal view,kidneys parasagittal view
+3775,1,kidneys parasagittal view,
+3776,0,kidneys parasagittal view,kidneys parasagittal view
+3777,0,kidneys parasagittal view,kidneys parasagittal view
+3778,0,kidneys parasagittal view,kidneys parasagittal view
+3779,0,kidneys parasagittal view,kidneys parasagittal view
+3780,0,kidneys parasagittal view,kidneys parasagittal view
+3781,0,kidneys parasagittal view,kidneys parasagittal view
+3782,0,kidneys parasagittal view,kidneys parasagittal view
+3783,0,kidneys parasagittal view,kidneys parasagittal view
+3784,0,,kidneys parasagittal view
+3785,0,,kidneys parasagittal view
+3786,0,,kidneys parasagittal view
+3787,0,,kidneys parasagittal view
+3788,0,,kidneys parasagittal view
+3789,0,,kidneys parasagittal view
+3790,0,,kidneys parasagittal view
+3791,0,,kidneys parasagittal view
+3792,0,,kidneys parasagittal view
+3793,0,,kidneys parasagittal view
+3794,0,,kidneys parasagittal view
+3795,0,,kidneys parasagittal view
+3796,0,,kidneys parasagittal view
+3797,0,,kidneys parasagittal view
+3798,0,,kidneys parasagittal view
+3799,0,,kidneys parasagittal view
+3800,0,,kidneys parasagittal view
+3801,0,,kidneys parasagittal view
+3802,0,,kidneys parasagittal view
+3803,0,,kidneys parasagittal view
+3804,0,,kidneys parasagittal view
+3805,0,,kidneys parasagittal view
+3806,0,,kidneys parasagittal view
+3807,0,,kidneys parasagittal view
+3808,0,,kidneys parasagittal view
+3809,0,,kidneys parasagittal view
+3810,0,,kidneys parasagittal view
+3811,0,,kidneys parasagittal view
+3812,0,,kidneys parasagittal view
+3813,0,,kidneys parasagittal view
+3814,0,,kidneys parasagittal view
+3815,0,,kidneys parasagittal view
+3816,0,,kidneys parasagittal view
+3817,0,,kidneys parasagittal view
+3818,0,,kidneys parasagittal view
+3819,0,,kidneys parasagittal view
+3820,0,,kidneys parasagittal view
+3821,0,,kidneys parasagittal view
+3822,0,,kidneys parasagittal view
+3823,0,,kidneys parasagittal view
+3824,0,,kidneys parasagittal view
+3825,0,,kidneys parasagittal view
+3826,0,,kidneys parasagittal view
+3827,0,,kidneys parasagittal view
+3828,0,,kidneys parasagittal view
+3829,0,,kidneys parasagittal view
+3830,0,,kidneys parasagittal view
+3831,0,,kidneys parasagittal view
+3832,0,,kidneys parasagittal view
+3833,0,,kidneys parasagittal view
+3834,0,,kidneys parasagittal view
+3835,0,,kidneys parasagittal view
+3836,0,,kidneys parasagittal view
+3837,0,,kidneys parasagittal view
+3838,0,,kidneys parasagittal view
+3839,0,,kidneys parasagittal view
+3840,0,,kidneys parasagittal view
+3841,0,,kidneys parasagittal view
+3842,0,,kidneys parasagittal view
+3843,0,,kidneys parasagittal view
+3844,0,,kidneys parasagittal view
+3845,0,,kidneys parasagittal view
+3846,0,humerus,humerus
+3847,0,humerus,humerus
+3848,0,humerus,humerus
+3849,1,humerus,humerus
+3850,0,humerus,humerus
+3851,0,humerus,humerus
+3852,0,humerus,humerus
+3853,0,humerus,humerus
+3854,0,humerus,humerus
+3855,0,humerus,humerus
+3856,0,humerus,humerus
+3857,0,humerus,humerus
+3858,0,humerus,humerus
+3859,0,humerus,humerus
+3860,0,humerus,humerus
+3861,0,humerus,humerus
+3862,0,humerus,humerus
+3863,0,humerus,humerus
+3864,0,humerus,humerus
+3865,0,humerus,humerus
+3866,0,humerus,humerus
+3867,0,humerus,humerus
+3868,0,humerus,humerus
+3869,0,humerus,humerus
+3870,0,humerus,humerus
+3871,0,humerus,humerus
+3872,0,humerus,humerus
+3873,0,humerus,humerus
+3874,0,humerus,humerus
+3875,0,humerus,humerus
+3876,0,,humerus
+3877,0,,humerus
+3878,0,,humerus
+3879,0,,humerus
+3880,0,,humerus
+3881,0,,humerus
+3882,0,,humerus
+3883,0,,humerus
+3884,0,,humerus
+3885,1,,humerus
+3886,0,,humerus
+3887,0,,humerus
+3888,0,,humerus
+3889,1,,humerus
+3890,0,,humerus
+3891,0,,humerus
+3892,0,,humerus
+3893,0,,humerus
+3894,0,,humerus
+3895,0,,humerus
+3896,0,,humerus
+3897,0,,humerus
+3898,0,,humerus
+3899,0,,humerus
+3900,0,,humerus
+3901,0,,humerus
+3902,0,,humerus
+3903,0,,humerus
+3904,0,,humerus
+3905,0,,humerus
+3906,0,,humerus
+3907,0,,humerus
+3908,0,,humerus
+3909,0,,humerus
+3910,0,,humerus
+3911,0,,humerus
+3912,0,,humerus
+3913,0,,humerus
+3914,0,,humerus
+3915,0,,humerus
+3916,0,,humerus
+3917,0,,humerus
+3918,0,,humerus
+3919,0,,humerus
+3920,0,,humerus
+3921,0,,humerus
+3922,0,,humerus
+3923,0,,humerus
+3924,0,,humerus
+3925,0,,humerus
+3926,0,,humerus
+3927,0,,humerus
+3928,0,,humerus
+3929,0,,humerus
+3930,0,,humerus
+3931,0,,humerus
+3932,0,,humerus
+3933,0,,humerus
+3934,0,,humerus
+3935,0,,humerus
+3936,0,,humerus
+3937,0,,humerus
+3938,0,,humerus
+3939,1,,
+3940,0,,
+3941,0,,
+3942,0,,
+3943,0,,
+3944,0,,
+3945,0,,
+3946,0,,
+3947,0,,
+3948,0,,
+3949,0,,
+3950,0,,
+3951,0,,
+3952,0,,
+3953,0,,
+3954,0,,
+3955,0,,
+3956,0,,
+3957,0,,
+3958,0,,
+3959,0,,
+3960,0,,
+3961,0,,
+3962,0,,
+3963,0,,
+3964,0,,
+3965,0,,
+3966,0,,
+3967,0,,
+3968,0,,
+3969,0,,
+3970,0,,
+3971,0,,
+3972,0,,
+3973,0,,
+3974,0,,
+3975,0,,
+3976,0,,
+3977,0,,
+3978,0,,
+3979,0,,
+3980,0,,
+3981,0,,
+3982,0,,
+3983,0,,
+3984,0,,
+3985,0,,
+3986,0,,
+3987,0,,
+3988,0,,
+3989,0,,
+3990,0,,
+3991,0,,
+3992,0,,
+3993,0,,
+3994,0,,
+3995,0,,
+3996,0,,
+3997,0,,
+3998,0,,
+3999,0,,
+4000,0,,
+4001,0,,
+4002,0,,
+4003,0,,
+4004,0,,
+4005,0,,
+4006,0,,
+4007,0,,
+4008,0,,
+4009,0,,
+4010,0,,
+4011,0,,
+4012,0,,
+4013,0,,
+4014,0,,
+4015,0,,
+4016,0,,
+4017,0,,
+4018,0,,
+4019,0,,
+4020,0,,
+4021,0,,
+4022,0,,
+4023,0,,
+4024,0,,
+4025,0,feet,feet
+4026,0,feet,feet
+4027,0,feet,feet
+4028,0,feet,feet
+4029,0,feet,feet
+4030,0,feet,feet
+4031,0,feet,feet
+4032,0,feet,feet
+4033,1,feet,feet
+4034,0,feet,feet
+4035,0,feet,feet
+4036,0,feet,feet
+4037,0,feet,feet
+4038,0,feet,feet
+4039,0,feet,feet
+4040,0,feet,feet
+4041,0,,feet
+4042,0,,feet
+4043,0,,feet
+4044,0,,feet
+4045,0,,feet
+4046,0,,feet
+4047,0,,feet
+4048,0,,feet
+4049,0,,feet
+4050,0,,feet
+4051,0,,feet
+4052,0,,feet
+4053,0,,feet
+4054,0,,feet
+4055,0,,feet
+4056,0,,feet
+4057,0,,feet
+4058,0,,feet
+4059,0,,feet
+4060,0,,feet
+4061,0,,feet
+4062,0,,feet
+4063,0,,feet
+4064,0,,feet
+4065,0,,feet
+4066,0,,feet
+4067,1,,feet
+4068,0,,feet
+4069,0,,feet
+4070,0,,feet
+4071,0,,feet
+4072,0,,feet
+4073,0,,feet
+4074,0,,feet
+4075,0,,feet
+4076,0,,feet
+4077,0,,feet
+4078,0,,feet
+4079,0,,feet
+4080,0,,feet
+4081,0,,feet
+4082,0,,feet
+4083,0,,feet
+4084,0,,feet
+4085,0,,feet
+4086,0,,feet
+4087,0,,feet
+4088,0,,feet
+4089,0,,feet
+4090,0,,feet
+4091,0,,feet
+4092,0,,feet
+4093,0,,feet
+4094,0,,feet
+4095,0,,feet
+4096,0,,feet
+4097,0,,feet
+4098,0,,feet
+4099,0,,feet
+4100,0,,feet
+4101,0,,feet
+4102,0,,feet
+4103,0,,feet
+4104,0,,feet
+4105,0,,feet
+4106,0,,feet
+4107,0,,feet
+4108,0,,feet
+4109,0,,feet
+4110,0,,feet
+4111,0,,feet
+4112,0,,feet
+4113,0,,feet
+4114,0,,feet
+4115,0,,feet
+4116,0,,feet
+4117,0,,feet
+4118,0,,feet
+4119,0,,feet
+4120,0,,feet
+4121,0,,feet
+4122,0,,feet
+4123,0,,feet
+4124,0,,feet
+4125,0,,feet
+4126,0,,feet
+4127,0,,feet
+4128,0,,feet
+4129,0,,feet
+4130,0,,feet
+4131,0,,feet
+4132,0,,feet
+4133,0,,feet
+4134,0,,feet
+4135,0,,feet
+4136,0,,feet
+4137,0,,feet
+4138,0,,feet
+4139,0,,feet
+4140,0,,feet
+4141,0,,feet
+4142,0,,feet
+4143,0,,feet
+4144,0,,feet
+4145,0,,feet
+4146,0,,feet
+4147,0,,feet
+4148,0,,feet
+4149,0,,feet
+4150,0,,feet
+4151,0,,feet
+4152,0,,feet
+4153,0,,feet
+4154,0,,feet
+4155,0,,feet
+4156,0,,feet
+4157,0,,feet
+4158,0,,feet
+4159,0,,feet
+4160,0,,feet
+4161,0,,feet
+4162,0,,feet
+4163,0,,feet
+4164,0,,feet
+4165,0,,feet
+4166,0,,feet
+4167,0,,feet
+4168,0,,feet
+4169,0,,feet
+4170,0,,feet
+4171,0,,feet
+4172,0,,feet
+4173,0,,feet
+4174,0,,feet
+4175,0,,feet
+4176,0,,feet
+4177,1,,
+4178,0,,
+4179,0,lower limb,lower limb
+4180,0,lower limb,lower limb
+4181,0,lower limb,lower limb
+4182,0,lower limb,lower limb
+4183,0,lower limb,lower limb
+4184,0,lower limb,lower limb
+4185,0,lower limb,lower limb
+4186,0,lower limb,lower limb
+4187,0,lower limb,lower limb
+4188,0,lower limb,lower limb
+4189,0,lower limb,lower limb
+4190,0,lower limb,lower limb
+4191,0,lower limb,lower limb
+4192,0,lower limb,lower limb
+4193,0,lower limb,lower limb
+4194,0,lower limb,lower limb
+4195,0,lower limb,lower limb
+4196,0,lower limb,lower limb
+4197,0,lower limb,lower limb
+4198,0,lower limb,lower limb
+4199,0,lower limb,lower limb
+4200,0,lower limb,lower limb
+4201,0,lower limb,lower limb
+4202,0,lower limb,lower limb
+4203,0,lower limb,lower limb
+4204,0,lower limb,lower limb
+4205,0,lower limb,lower limb
+4206,0,lower limb,lower limb
+4207,0,lower limb,lower limb
+4208,0,lower limb,lower limb
+4209,0,,lower limb
+4210,0,,lower limb
+4211,0,,lower limb
+4212,0,,lower limb
+4213,0,,lower limb
+4214,0,,lower limb
+4215,0,,lower limb
+4216,0,,lower limb
+4217,0,,lower limb
+4218,0,,lower limb
+4219,0,,lower limb
+4220,0,,lower limb
+4221,0,,lower limb
+4222,0,,lower limb
+4223,0,,lower limb
+4224,0,,lower limb
+4225,0,,lower limb
+4226,0,,lower limb
+4227,0,,lower limb
+4228,0,,lower limb
+4229,0,,lower limb
+4230,0,,lower limb
+4231,0,,lower limb
+4232,0,,lower limb
+4233,0,,lower limb
+4234,0,,lower limb
+4235,0,,lower limb
+4236,0,,lower limb
+4237,0,,lower limb
+4238,0,,lower limb
+4239,0,,lower limb
+4240,0,,lower limb
+4241,0,,lower limb
+4242,0,,lower limb
+4243,0,,lower limb
+4244,0,,lower limb
+4245,0,,lower limb
+4246,0,,lower limb
+4247,0,,lower limb
+4248,0,,lower limb
+4249,0,,lower limb
+4250,0,,lower limb
+4251,1,lower limb,
+4252,0,lower limb,lower limb
+4253,0,lower limb,lower limb
+4254,0,lower limb,lower limb
+4255,0,lower limb,lower limb
+4256,0,lower limb,lower limb
+4257,0,lower limb,lower limb
+4258,0,lower limb,lower limb
+4259,0,lower limb,lower limb
+4260,0,lower limb,lower limb
+4261,0,lower limb,lower limb
+4262,0,lower limb,lower limb
+4263,0,lower limb,lower limb
+4264,0,lower limb,lower limb
+4265,0,lower limb,lower limb
+4266,0,lower limb,lower limb
+4267,0,lower limb,lower limb
+4268,0,lower limb,lower limb
+4269,0,lower limb,lower limb
+4270,0,lower limb,lower limb
+4271,0,lower limb,lower limb
+4272,0,lower limb,lower limb
+4273,0,lower limb,lower limb
+4274,0,lower limb,lower limb
+4275,0,lower limb,lower limb
+4276,0,lower limb,lower limb
+4277,0,lower limb,lower limb
+4278,0,lower limb,lower limb
+4279,0,lower limb,lower limb
+4280,0,lower limb,lower limb
+4281,0,,lower limb
+4282,0,,lower limb
+4283,0,,lower limb
+4284,0,,lower limb
+4285,0,,lower limb
+4286,0,,lower limb
+4287,0,,lower limb
+4288,0,,lower limb
+4289,0,,lower limb
+4290,0,,lower limb
+4291,0,,lower limb
+4292,0,,lower limb
+4293,0,,lower limb
+4294,0,,lower limb
+4295,0,feet,feet
+4296,0,feet,feet
+4297,1,feet,
+4298,0,feet,feet
+4299,0,feet,feet
+4300,0,feet,feet
+4301,0,feet,feet
+4302,0,feet,feet
+4303,0,feet,feet
+4304,0,feet,feet
+4305,0,feet,feet
+4306,0,feet,feet
+4307,0,,feet
+4308,0,feet,feet
+4309,0,,feet
+4310,0,,feet
+4311,0,feet,feet
+4312,0,feet,feet
+4313,0,,feet
+4314,0,,feet
+4315,0,,feet
+4316,0,,feet
+4317,0,,feet
+4318,0,,feet
+4319,0,feet,feet
+4320,0,feet,feet
+4321,0,,feet
+4322,0,,feet
+4323,0,,feet
+4324,0,,feet
+4325,0,,feet
+4326,0,,feet
+4327,0,,feet
+4328,0,,feet
+4329,0,,feet
+4330,0,,feet
+4331,0,,feet
+4332,0,,feet
+4333,0,,feet
+4334,0,,feet
+4335,0,,feet
+4336,0,,feet
+4337,0,,feet
+4338,0,,feet
+4339,0,,feet
+4340,0,,feet
+4341,0,,feet
+4342,0,,feet
+4343,0,foot,foot
+4344,0,foot,foot
+4345,0,foot,foot
+4346,0,foot,foot
+4347,0,foot,foot
+4348,0,foot,foot
+4349,0,foot,foot
+4350,0,foot,foot
+4351,0,,foot
+4352,0,,foot
+4353,0,foot,foot
+4354,0,foot,foot
+4355,0,,foot
+4356,0,,foot
+4357,0,,foot
+4358,0,,foot
+4359,0,,foot
+4360,0,,foot
+4361,0,,foot
+4362,0,,foot
+4363,0,,foot
+4364,0,,foot
+4365,0,,foot
+4366,0,,foot
+4367,0,foot,foot
+4368,0,foot,foot
+4369,0,foot,foot
+4370,0,foot,foot
+4371,0,,foot
+4372,0,,foot
+4373,0,,foot
+4374,0,,foot
+4375,0,,foot
+4376,0,,foot
+4377,0,,foot
+4378,0,,foot
+4379,0,,foot
+4380,0,,foot
+4381,1,,foot
+4382,0,,foot
+4383,0,,foot
+4384,0,,foot
+4385,0,,foot
+4386,0,,foot
+4387,0,,foot
+4388,0,,foot
+4389,0,,foot
+4390,0,,foot
+4391,0,,foot
+4392,0,,foot
+4393,0,,foot
+4394,0,,foot
+4395,0,,foot
+4396,0,,foot
+4397,0,,foot
+4398,0,,foot
+4399,0,,foot
+4400,0,,foot
+4401,0,,foot
+4402,0,,foot
+4403,0,,foot
+4404,0,,foot
+4405,0,,foot
+4406,0,,foot
+4407,0,,foot
+4408,0,,foot
+4409,0,,foot
+4410,0,,foot
+4411,0,,foot
+4412,0,,foot
+4413,0,,foot
+4414,0,,foot
+4415,0,,foot
+4416,0,,foot
+4417,0,,foot
+4418,0,,foot
+4419,0,,foot
+4420,0,,foot
+4421,0,,foot
+4422,0,,foot
+4423,0,,foot
+4424,0,,foot
+4425,0,,foot
+4426,0,,foot
+4427,0,,foot
+4428,0,,foot
+4429,0,,foot
+4430,0,,foot
+4431,0,,foot
+4432,0,,foot
+4433,0,,foot
+4434,0,,foot
+4435,0,,foot
+4436,0,,foot
+4437,0,,foot
+4438,0,,foot
+4439,0,,foot
+4440,0,,foot
+4441,0,,foot
+4442,0,,foot
+4443,1,,
+4444,0,,
+4445,0,,
+4446,0,,
+4447,0,upper limb,upper limb
+4448,0,upper limb,upper limb
+4449,0,upper limb,upper limb
+4450,0,upper limb,upper limb
+4451,0,upper limb,upper limb
+4452,0,upper limb,upper limb
+4453,0,upper limb,upper limb
+4454,0,upper limb,upper limb
+4455,0,upper limb,upper limb
+4456,0,upper limb,upper limb
+4457,0,upper limb,upper limb
+4458,0,upper limb,upper limb
+4459,0,upper limb,upper limb
+4460,0,upper limb,upper limb
+4461,0,upper limb,upper limb
+4462,0,upper limb,upper limb
+4463,0,upper limb,upper limb
+4464,0,upper limb,upper limb
+4465,0,upper limb,upper limb
+4466,0,upper limb,upper limb
+4467,0,upper limb,upper limb
+4468,0,upper limb,upper limb
+4469,0,upper limb,upper limb
+4470,0,upper limb,upper limb
+4471,0,upper limb,upper limb
+4472,0,upper limb,upper limb
+4473,0,upper limb,upper limb
+4474,0,upper limb,upper limb
+4475,0,upper limb,upper limb
+4476,0,upper limb,upper limb
+4477,0,,upper limb
+4478,0,,upper limb
+4479,0,,upper limb
+4480,0,,upper limb
+4481,0,,upper limb
+4482,0,,upper limb
+4483,1,,upper limb
+4484,0,,upper limb
+4485,0,,upper limb
+4486,0,,upper limb
+4487,0,,upper limb
+4488,0,upper limb,upper limb
+4489,0,upper limb,upper limb
+4490,0,upper limb,upper limb
+4491,0,upper limb,upper limb
+4492,0,upper limb,upper limb
+4493,0,upper limb,upper limb
+4494,0,upper limb,upper limb
+4495,0,upper limb,upper limb
+4496,0,upper limb,upper limb
+4497,0,upper limb,upper limb
+4498,0,upper limb,upper limb
+4499,0,upper limb,upper limb
+4500,0,upper limb,upper limb
+4501,0,upper limb,upper limb
+4502,0,upper limb,upper limb
+4503,0,upper limb,upper limb
+4504,0,upper limb,upper limb
+4505,0,upper limb,upper limb
+4506,0,upper limb,upper limb
+4507,1,upper limb,upper limb
+4508,0,upper limb,upper limb
+4509,0,upper limb,upper limb
+4510,0,upper limb,upper limb
+4511,0,upper limb,upper limb
+4512,0,upper limb,upper limb
+4513,0,upper limb,upper limb
+4514,0,upper limb,upper limb
+4515,0,upper limb,upper limb
+4516,0,upper limb,upper limb
+4517,0,upper limb,upper limb
+4518,0,,upper limb
+4519,0,,upper limb
+4520,0,,upper limb
+4521,0,,upper limb
+4522,0,,upper limb
+4523,0,,upper limb
+4524,0,,upper limb
+4525,0,,upper limb
+4526,0,,upper limb
+4527,0,,upper limb
+4528,0,,upper limb
+4529,0,,upper limb
+4530,0,,upper limb
+4531,0,,upper limb
+4532,0,,upper limb
+4533,0,,upper limb
+4534,0,,upper limb
+4535,0,,upper limb
+4536,0,,upper limb
+4537,0,,upper limb
+4538,0,,upper limb
+4539,0,,upper limb
+4540,0,,upper limb
+4541,0,,upper limb
+4542,0,,upper limb
+4543,0,,upper limb
+4544,0,,upper limb
+4545,0,,upper limb
+4546,0,,upper limb
+4547,0,,upper limb
+4548,0,,upper limb
+4549,0,,upper limb
+4550,0,,upper limb
+4551,0,,upper limb
+4552,0,,upper limb
+4553,0,,upper limb
+4554,0,,upper limb
+4555,0,,upper limb
+4556,0,,upper limb
+4557,0,,upper limb
+4558,0,,upper limb
+4559,0,,upper limb
+4560,0,,upper limb
+4561,0,,upper limb
+4562,0,,upper limb
+4563,0,,upper limb
+4564,0,,upper limb
+4565,1,,
+4566,0,,
+4567,0,upper limbs,upper limbs
+4568,0,upper limbs,upper limbs
+4569,0,upper limbs,upper limbs
+4570,0,upper limbs,upper limbs
+4571,0,upper limbs,upper limbs
+4572,0,upper limbs,upper limbs
+4573,0,upper limbs,upper limbs
+4574,0,upper limbs,upper limbs
+4575,0,upper limbs,upper limbs
+4576,0,upper limbs,upper limbs
+4577,0,upper limbs,upper limbs
+4578,0,upper limbs,upper limbs
+4579,0,upper limbs,upper limbs
+4580,0,upper limbs,upper limbs
+4581,0,upper limbs,upper limbs
+4582,0,upper limbs,upper limbs
+4583,0,upper limbs,upper limbs
+4584,0,upper limbs,upper limbs
+4585,0,upper limbs,upper limbs
+4586,0,upper limbs,upper limbs
+4587,0,upper limbs,upper limbs
+4588,0,upper limbs,upper limbs
+4589,0,upper limbs,upper limbs
+4590,0,upper limbs,upper limbs
+4591,0,upper limbs,upper limbs
+4592,0,upper limbs,upper limbs
+4593,0,upper limbs,upper limbs
+4594,0,upper limbs,upper limbs
+4595,0,upper limbs,upper limbs
+4596,0,upper limbs,upper limbs
+4597,0,,upper limbs
+4598,0,,upper limbs
+4599,0,,upper limbs
+4600,0,,upper limbs
+4601,0,,upper limbs
+4602,0,,upper limbs
+4603,0,,upper limbs
+4604,0,,upper limbs
+4605,1,,
+4606,0,,
+4607,0,,
+4608,0,,
+4609,0,,
+4610,0,,
+4611,0,,
+4612,0,,
+4613,0,,
+4614,0,,
+4615,0,,
+4616,0,,
+4617,0,,
+4618,0,,
+4619,0,,
+4620,0,,
+4621,0,,
+4622,0,,
+4623,0,,
+4624,0,,
+4625,0,,
+4626,0,,
+4627,0,,
+4628,0,,
+4629,0,,
+4630,0,,
+4631,0,,
+4632,0,,
+4633,0,,
+4634,0,,
+4635,0,,
+4636,0,,
+4637,0,,
+4638,0,,
+4639,0,,
+4640,0,,
+4641,0,,
+4642,0,,
+4643,0,,
+4644,0,,
+4645,0,,
+4646,0,,
+4647,0,,
+4648,0,,
+4649,0,,
+4650,0,,
+4651,0,,
+4652,0,,
+4653,0,,
+4654,0,,
+4655,0,,
+4656,0,,
+4657,0,,
+4658,0,,
+4659,0,,
+4660,0,,
+4661,0,,
+4662,0,,
+4663,0,,
+4664,0,,
+4665,0,,
+4666,0,,
+4667,0,,
+4668,0,,
+4669,0,,
+4670,0,,
+4671,0,,
+4672,0,,
+4673,0,,
+4674,0,,
+4675,0,,
+4676,0,,
+4677,0,hands,hands
+4678,0,hands,hands
+4679,0,hands,hands
+4680,0,hands,hands
+4681,0,hands,hands
+4682,0,hands,hands
+4683,0,hands,hands
+4684,0,hands,hands
+4685,0,hands,hands
+4686,0,hands,hands
+4687,0,hands,hands
+4688,0,hands,hands
+4689,0,hands,hands
+4690,0,hands,hands
+4691,0,hands,hands
+4692,0,hands,hands
+4693,1,hands,
+4694,0,hands,hands
+4695,0,hands,hands
+4696,0,hands,hands
+4697,0,hands,hands
+4698,0,hands,hands
+4699,0,,hands
+4700,0,,hands
+4701,0,,hands
+4702,0,,hands
+4703,0,,hands
+4704,0,,hands
+4705,0,hands,hands
+4706,0,hands,hands
+4707,0,,hands
+4708,0,,hands
+4709,0,,hands
+4710,0,,hands
+4711,0,,hands
+4712,0,,hands
+4713,0,,hands
+4714,0,,hands
+4715,0,,hands
+4716,0,,hands
+4717,0,,hands
+4718,0,,hands
+4719,0,,hands
+4720,0,,hands
+4721,0,,hands
+4722,0,,hands
+4723,0,,hands
+4724,0,,hands
+4725,0,,hands
+4726,0,,hands
+4727,0,,hands
+4728,0,,hands
+4729,0,,hands
+4730,0,,hands
+4731,0,,hands
+4732,0,,hands
+4733,0,,hands
+4734,0,,hands
+4735,0,,hands
+4736,0,,hands
+4737,0,,hands
+4738,0,,hands
+4739,0,,hands
+4740,0,,hands
+4741,0,,hands
+4742,0,,hands
+4743,0,hand,hand
+4744,0,hand,hand
+4745,0,hand,hand
+4746,0,hand,hand
+4747,0,hand,hand
+4748,0,hand,hand
+4749,0,hand,hand
+4750,0,hand,hand
+4751,0,hand,hand
+4752,0,hand,hand
+4753,0,hand,hand
+4754,0,hand,hand
+4755,0,hand,hand
+4756,0,hand,hand
+4757,0,hand,hand
+4758,0,hand,hand
+4759,0,hand,hand
+4760,0,hand,hand
+4761,0,hand,hand
+4762,0,hand,hand
+4763,0,hand,hand
+4764,0,hand,hand
+4765,0,hand,hand
+4766,0,hand,hand
+4767,0,,hand
+4768,0,,hand
+4769,0,,hand
+4770,0,,hand
+4771,0,,hand
+4772,0,,hand
+4773,1,,
+4774,0,,
+4775,0,,
+4776,0,,
+4777,0,,
+4778,0,,
+4779,0,,
+4780,0,,
+4781,0,,
+4782,0,,
+4783,0,,
+4784,0,,
+4785,0,,
+4786,0,,
+4787,0,,
+4788,0,,
+4789,0,,
+4790,0,,
+4791,0,,
+4792,0,,
+4793,0,,
+4794,0,,
+4795,0,,
+4796,0,,
+4797,0,,
+4798,0,,
+4799,0,,
+4800,0,,
+4801,0,,
+4802,0,,
+4803,0,,
+4804,0,,
+4805,0,,
+4806,0,,
+4807,0,,
+4808,0,,
+4809,0,,
+4810,0,,
+4811,0,,
+4812,0,,
+4813,0,,
+4814,0,,
+4815,0,,
+4816,0,,
+4817,0,,
+4818,0,,
+4819,0,,
+4820,0,,
+4821,0,,
+4822,0,,
+4823,0,,
+4824,0,,
+4825,0,,
+4826,0,,
+4827,0,,
+4828,0,,
+4829,0,,
+4830,0,,
+4831,0,,
+4832,0,,
+4833,0,,
+4834,0,,
+4835,0,upper lip,upper lip
+4836,0,upper lip,upper lip
+4837,0,upper lip,upper lip
+4838,0,upper lip,upper lip
+4839,0,upper lip,upper lip
+4840,0,upper lip,upper lip
+4841,0,upper lip,upper lip
+4842,0,upper lip,upper lip
+4843,0,upper lip,upper lip
+4844,0,upper lip,upper lip
+4845,0,upper lip,upper lip
+4846,0,upper lip,upper lip
+4847,1,upper lip,upper lip
+4848,0,upper lip,upper lip
+4849,0,upper lip,upper lip
+4850,0,upper lip,upper lip
+4851,0,upper lip,upper lip
+4852,0,upper lip,upper lip
+4853,0,upper lip,upper lip
+4854,0,upper lip,upper lip
+4855,0,upper lip,upper lip
+4856,0,upper lip,upper lip
+4857,0,upper lip,upper lip
+4858,0,upper lip,upper lip
+4859,0,upper lip,upper lip
+4860,0,upper lip,upper lip
+4861,0,upper lip,upper lip
+4862,0,upper lip,upper lip
+4863,0,upper lip,upper lip
+4864,0,upper lip,upper lip
+4865,0,,upper lip
+4866,0,,upper lip
+4867,0,,upper lip
+4868,0,upper lip,upper lip
+4869,1,upper lip,
+4870,0,upper lip,upper lip
+4871,0,upper lip,upper lip
+4872,0,upper lip,upper lip
+4873,0,upper lip,upper lip
+4874,0,upper lip,upper lip
+4875,0,upper lip,upper lip
+4876,0,upper lip,upper lip
+4877,0,upper lip,upper lip
+4878,0,upper lip,upper lip
+4879,0,upper lip,upper lip
+4880,0,upper lip,upper lip
+4881,0,upper lip,upper lip
+4882,0,,upper lip
+4883,0,,upper lip
+4884,0,,upper lip
+4885,0,,upper lip
+4886,0,,upper lip
+4887,0,,upper lip
+4888,0,,upper lip
+4889,0,,upper lip
+4890,0,,upper lip
+4891,0,orbits,orbits
+4892,0,orbits,orbits
+4893,0,orbits,orbits
+4894,0,orbits,orbits
+4895,1,orbits,orbits
+4896,0,orbits,orbits
+4897,0,orbits,orbits
+4898,0,orbits,orbits
+4899,0,orbits,orbits
+4900,0,orbits,orbits
+4901,0,orbits,orbits
+4902,0,orbits,orbits
+4903,0,orbits,orbits
+4904,0,orbits,orbits
+4905,0,orbits,orbits
+4906,0,orbits,orbits
+4907,0,orbits,orbits
+4908,0,orbits,orbits
+4909,0,orbits,orbits
+4910,0,orbits,orbits
+4911,0,orbits,orbits
+4912,0,,orbits
+4913,0,,orbits
+4914,0,,orbits
+4915,0,,orbits
+4916,0,,orbits
+4917,0,,orbits
+4918,0,,orbits
+4919,0,,orbits
+4920,0,,orbits
+4921,0,,orbits
+4922,0,,orbits
+4923,0,,orbits
+4924,0,,orbits
+4925,0,,orbits
+4926,0,,orbits
+4927,0,,orbits
+4928,0,,orbits
+4929,0,,orbits
+4930,0,,orbits
+4931,0,,orbits
+4932,0,,orbits
+4933,0,,orbits
+4934,0,,orbits
+4935,0,,orbits
+4936,0,,orbits
+4937,0,,orbits
+4938,0,,orbits
+4939,0,,orbits
+4940,0,,orbits
+4941,0,,orbits
+4942,0,,orbits
+4943,0,,orbits
+4944,0,,orbits
+4945,0,,orbits
+4946,0,,orbits
+4947,0,,orbits
+4948,0,,orbits
+4949,0,,orbits
+4950,0,,orbits
+4951,0,,orbits
+4952,0,,orbits
+4953,0,,orbits
+4954,0,,orbits
+4955,0,,orbits
+4956,0,,orbits
+4957,0,,orbits
+4958,0,,orbits
+4959,0,,orbits
+4960,0,,orbits
+4961,0,,orbits
+4962,0,,orbits
+4963,0,,orbits
+4964,0,,orbits
+4965,0,,orbits
+4966,0,,orbits
+4967,0,,orbits
+4968,0,,orbits
+4969,0,,orbits
+4970,0,,orbits
+4971,0,,orbits
+4972,0,,orbits
+4973,0,,orbits
+4974,0,,orbits
+4975,0,,orbits
+4976,0,,orbits
+4977,1,,
+4978,0,,
+4979,0,,
+4980,0,,
+4981,0,profile,profile
+4982,0,profile,profile
+4983,0,profile,profile
+4984,0,profile,profile
+4985,0,profile,profile
+4986,0,profile,profile
+4987,0,profile,profile
+4988,0,profile,profile
+4989,0,profile,profile
+4990,0,profile,profile
+4991,0,profile,profile
+4992,0,profile,profile
+4993,0,profile,profile
+4994,0,profile,profile
+4995,0,profile,profile
+4996,0,profile,profile
+4997,0,profile,profile
+4998,0,profile,profile
+4999,0,profile,profile
+5000,0,profile,profile
+5001,1,profile,profile
+5002,0,profile,profile
+5003,0,profile,profile
+5004,0,profile,profile
+5005,0,profile,profile
+5006,0,profile,profile
+5007,0,profile,profile
+5008,0,profile,profile
+5009,0,profile,profile
+5010,0,profile,profile
+5011,0,,profile
+5012,0,,profile
+5013,0,,profile
+5014,0,,profile
+5015,0,,profile
+5016,0,,profile
+5017,0,,profile
+5018,0,,profile
+5019,0,,profile
+5020,0,,profile
+5021,0,,profile
+5022,0,,profile
+5023,0,,profile
+5024,0,,profile
+5025,0,,profile
+5026,0,,profile
+5027,0,,profile
+5028,0,,profile
+5029,0,,profile
+5030,0,,profile
+5031,0,,profile
+5032,0,,profile
+5033,0,,profile
+5034,0,,profile
+5035,0,,profile
+5036,0,,profile
+5037,0,,profile
+5038,0,,profile
+5039,0,profile,profile
+5040,0,profile,profile
+5041,0,profile,profile
+5042,0,profile,profile
+5043,0,profile,profile
+5044,0,profile,profile
+5045,0,profile,profile
+5046,0,profile,profile
+5047,0,profile,profile
+5048,0,profile,profile
+5049,0,profile,profile
+5050,0,profile,profile
+5051,0,profile,profile
+5052,0,profile,profile
+5053,0,profile,profile
+5054,0,profile,profile
+5055,0,profile,profile
+5056,0,profile,profile
+5057,0,profile,profile
+5058,0,profile,profile
+5059,0,profile,profile
+5060,0,profile,profile
+5061,0,profile,profile
+5062,0,profile,profile
+5063,0,profile,profile
+5064,0,profile,profile
+5065,0,profile,profile
+5066,0,profile,profile
+5067,0,profile,profile
+5068,0,profile,profile
+5069,0,,profile
+5070,0,,profile
+5071,0,,profile
+5072,0,,profile
+5073,0,,profile
+5074,0,,profile
+5075,0,,profile
+5076,0,,profile
+5077,0,,profile
+5078,0,,profile
+5079,0,,profile
+5080,0,,profile
+5081,0,,profile
+5082,0,,profile
+5083,0,,profile
+5084,0,,profile
+5085,1,,profile
+5086,0,,profile
+5087,0,,profile
+5088,0,,profile
+5089,0,,profile
+5090,0,,profile
+5091,0,,profile
+5092,0,,profile
+5093,0,,profile
+5094,0,,profile
+5095,0,,profile
+5096,0,,profile
+5097,0,,profile
+5098,0,,profile
+5099,0,,profile
+5100,0,,profile
+5101,0,,profile
+5102,0,,profile
+5103,0,,profile
+5104,0,,profile
+5105,0,,profile
+5106,0,,profile
+5107,0,,profile
+5108,0,,profile
+5109,0,,profile
+5110,0,,profile
+5111,0,,profile
+5112,0,,profile
+5113,0,,profile
+5114,0,,profile
+5115,0,,profile
+5116,0,,profile
+5117,0,,profile
+5118,0,,profile
+5119,0,,profile
+5120,0,,profile
+5121,0,,profile
+5122,0,,profile
+5123,0,,profile
+5124,0,,profile
+5125,0,,profile
+5126,0,,profile
+5127,0,,profile
+5128,0,,profile
+5129,0,,profile
+5130,0,,profile
+5131,0,,profile
+5132,0,,profile
+5133,0,,profile
+5134,0,,profile
+5135,0,,profile
+5136,0,,profile
+5137,0,,profile
+5138,0,,profile
+5139,0,,profile
+5140,0,,profile
+5141,0,,profile
+5142,0,,profile
+5143,0,,profile
+5144,0,,profile
+5145,0,,profile
+5146,0,,profile
+5147,0,,profile
+5148,0,,profile
+5149,0,,profile
+5150,0,,profile
+5151,0,,profile
+5152,0,,profile
+5153,0,,profile
+5154,0,,profile
+5155,0,,profile
+5156,0,,profile
+5157,0,,profile
+5158,0,,profile
+5159,0,,profile
+5160,0,,profile
+5161,0,,profile
+5162,0,,profile
+5163,0,,profile
+5164,0,,profile
+5165,0,,profile
+5166,0,,profile
+5167,0,,profile
+5168,0,,profile
+5169,0,,profile
+5170,0,,profile
+5171,0,,profile
+5172,0,,profile
+5173,0,,profile
+5174,0,,profile
+5175,0,,profile
+5176,0,,profile
+5177,0,,profile
+5178,0,,profile
+5179,0,,profile
+5180,0,,profile
+5181,0,,profile
+5182,0,,profile
+5183,0,,profile
+5184,0,,profile
+5185,0,,profile
+5186,0,,profile
+5187,0,,profile
+5188,0,,profile
+5189,0,,profile
+5190,0,,profile
+5191,0,,profile
+5192,0,,profile
+5193,0,,profile
+5194,0,,profile
+5195,0,,profile
+5196,0,,profile
+5197,0,,profile
+5198,0,,profile
+5199,0,,profile
+5200,0,,profile
+5201,0,,profile
+5202,0,,profile
+5203,0,,profile
+5204,0,,profile
+5205,0,,profile
+5206,0,,profile
+5207,0,,profile
+5208,0,,profile
+5209,0,,profile
+5210,0,,profile
+5211,0,,profile
+5212,0,,profile
+5213,0,,profile
+5214,0,,profile
+5215,0,,profile
+5216,0,,profile
+5217,0,,profile
+5218,0,,profile
+5219,0,,profile
+5220,0,,profile
+5221,0,,profile
+5222,0,,profile
+5223,0,,profile
+5224,0,,profile
+5225,0,,profile
+5226,0,,profile
+5227,0,,profile
+5228,0,,profile
+5229,0,,profile
+5230,0,,profile
+5231,0,,profile
+5232,0,,profile
+5233,0,,profile
+5234,0,,profile
+5235,0,,profile
+5236,0,,profile
+5237,1,,
+5238,0,,
+5239,0,,
+5240,0,,
+5241,0,,
+5242,0,,
+5243,0,,
+5244,0,,
+5245,0,,
+5246,0,,
+5247,0,,
+5248,0,,
+5249,0,,
+5250,0,,
+5251,0,,
+5252,0,,
+5253,0,,
+5254,0,,
+5255,0,,
+5256,0,,
+5257,0,,
+5258,0,,
+5259,0,,
+5260,0,,
+5261,0,,
+5262,0,,
+5263,0,orbits,orbits
+5264,0,orbits,orbits
+5265,0,orbits,orbits
+5266,0,orbits,orbits
+5267,0,orbits,orbits
+5268,0,orbits,orbits
+5269,1,orbits,orbits
+5270,0,orbits,orbits
+5271,0,orbits,orbits
+5272,0,orbits,orbits
+5273,0,orbits,orbits
+5274,0,orbits,orbits
+5275,0,orbits,orbits
+5276,0,orbits,orbits
+5277,0,orbits,orbits
+5278,0,orbits,orbits
+5279,0,orbits,orbits
+5280,0,orbits,orbits
+5281,0,orbits,orbits
+5282,0,orbits,orbits
+5283,0,orbits,orbits
+5284,0,orbits,orbits
+5285,0,orbits,orbits
+5286,0,orbits,orbits
+5287,0,orbits,orbits
+5288,0,orbits,orbits
+5289,0,orbits,orbits
+5290,0,orbits,orbits
+5291,0,orbits,orbits
+5292,0,orbits,orbits
+5293,0,,orbits
+5294,0,,orbits
+5295,0,,orbits
+5296,0,,orbits
+5297,0,,orbits
+5298,0,,orbits
+5299,0,,orbits
+5300,0,orbits,orbits
+5301,0,orbits,orbits
+5302,0,orbits,orbits
+5303,1,orbits,orbits
+5304,0,orbits,orbits
+5305,0,orbits,orbits
+5306,0,orbits,orbits
+5307,0,orbits,orbits
+5308,0,orbits,orbits
+5309,0,orbits,orbits
+5310,0,orbits,orbits
+5311,0,orbits,orbits
+5312,0,orbits,orbits
+5313,0,orbits,orbits
+5314,0,orbits,orbits
+5315,0,orbits,orbits
+5316,0,orbits,orbits
+5317,0,orbits,orbits
+5318,0,orbits,orbits
+5319,0,orbits,orbits
+5320,0,orbits,orbits
+5321,0,orbits,orbits
+5322,0,orbits,orbits
+5323,0,orbits,orbits
+5324,0,orbits,orbits
+5325,0,orbits,orbits
+5326,0,orbits,orbits
+5327,0,orbits,orbits
+5328,0,orbits,orbits
+5329,0,orbits,orbits
+5330,0,,orbits
+5331,0,,orbits
+5332,0,,orbits
+5333,0,,orbits
+5334,0,,orbits
+5335,0,,orbits
+5336,0,,orbits
+5337,0,,orbits
+5338,0,,orbits
+5339,0,,orbits
+5340,0,,orbits
+5341,0,,orbits
+5342,0,,orbits
+5343,0,,orbits
+5344,0,,orbits
+5345,0,,orbits
+5346,0,,orbits
+5347,0,,orbits
+5348,0,,orbits
+5349,0,,orbits
+5350,0,,orbits
+5351,0,,orbits
+5352,0,,orbits
+5353,0,,orbits
+5354,0,,orbits
+5355,0,,orbits
+5356,0,,orbits
+5357,0,,orbits
+5358,0,,orbits
+5359,0,,orbits
+5360,0,,orbits
+5361,0,,orbits
+5362,0,,orbits
+5363,0,,orbits
+5364,0,,orbits
+5365,0,,orbits
+5366,0,,orbits
+5367,0,,orbits
+5368,0,,orbits
+5369,0,,orbits
+5370,0,,orbits
+5371,0,,orbits
+5372,0,,orbits
+5373,0,,orbits
+5374,0,,orbits
+5375,0,,orbits
+5376,0,,orbits
+5377,0,,orbits
+5378,0,,orbits
+5379,0,,orbits
+5380,0,,orbits
+5381,0,,orbits
+5382,0,,orbits
+5383,0,,orbits
+5384,0,,orbits
+5385,0,,orbits
+5386,0,,orbits
+5387,0,,orbits
+5388,0,,orbits
+5389,0,,orbits
+5390,0,,orbits
+5391,0,,orbits
+5392,0,,orbits
+5393,0,,orbits
+5394,0,,orbits
+5395,0,,orbits
+5396,0,,orbits
+5397,0,,orbits
+5398,0,,orbits
+5399,0,,orbits
+5400,0,,orbits
+5401,0,,orbits
+5402,0,,orbits
+5403,0,,orbits
+5404,0,,orbits
+5405,0,,orbits
+5406,0,,orbits
+5407,0,,orbits
+5408,0,,orbits
+5409,0,,orbits
+5410,0,,orbits
+5411,0,,orbits
+5412,0,,orbits
+5413,0,,orbits
+5414,0,,orbits
+5415,0,,orbits
+5416,0,,orbits
+5417,0,,orbits
+5418,0,,orbits
+5419,0,,orbits
+5420,0,,orbits
+5421,0,,orbits
+5422,0,,orbits
+5423,0,,orbits
+5424,0,,orbits
+5425,0,,orbits
+5426,0,,orbits
+5427,0,,orbits
+5428,0,,orbits
+5429,0,,orbits
+5430,0,,orbits
+5431,0,,orbits
+5432,0,,orbits
+5433,0,,orbits
+5434,0,,orbits
+5435,0,,orbits
+5436,0,,orbits
+5437,0,,orbits
+5438,0,,orbits
+5439,0,,orbits
+5440,0,,orbits
+5441,0,,orbits
+5442,0,,orbits
+5443,0,,orbits
+5444,0,,orbits
+5445,0,,orbits
+5446,0,,orbits
+5447,0,,orbits
+5448,0,,orbits
+5449,0,,orbits
+5450,0,,orbits
+5451,0,,orbits
+5452,0,,orbits
+5453,0,,orbits
+5454,0,,orbits
+5455,0,,orbits
+5456,0,,orbits
+5457,0,,orbits
+5458,0,,orbits
+5459,0,,orbits
+5460,0,,orbits
+5461,0,,orbits
+5462,0,,orbits
+5463,0,,orbits
+5464,0,,orbits
+5465,0,,orbits
+5466,0,,orbits
+5467,0,,orbits
+5468,0,,orbits
+5469,0,,orbits
+5470,0,,orbits
+5471,0,,orbits
+5472,0,,orbits
+5473,0,,orbits
+5474,0,,orbits
+5475,0,,orbits
+5476,0,,orbits
+5477,0,,orbits
+5478,0,,orbits
+5479,0,,orbits
+5480,0,,orbits
+5481,0,,orbits
+5482,0,,orbits
+5483,0,,orbits
+5484,0,,orbits
+5485,0,,orbits
+5486,0,,orbits
+5487,0,,orbits
+5488,0,,orbits
+5489,0,,orbits
+5490,0,,orbits
+5491,0,,orbits
+5492,0,,orbits
+5493,0,,orbits
+5494,0,,orbits
+5495,0,,orbits
+5496,0,,orbits
+5497,0,,orbits
+5498,0,,orbits
+5499,0,,orbits
+5500,0,,orbits
+5501,0,,orbits
+5502,0,,orbits
+5503,0,,orbits
+5504,0,,orbits
+5505,0,,orbits
+5506,0,,orbits
+5507,0,,orbits
+5508,0,,orbits
+5509,0,,orbits
+5510,0,,orbits
+5511,0,,orbits
+5512,0,,orbits
+5513,1,,orbits
+5514,0,,orbits
+5515,0,,orbits
+5516,0,,orbits
+5517,0,,orbits
+5518,0,,orbits
+5519,0,,orbits
+5520,0,,orbits
+5521,0,,orbits
+5522,0,,orbits
+5523,0,,orbits
+5524,0,,orbits
+5525,0,,orbits
+5526,0,,orbits
+5527,0,,orbits
+5528,0,,orbits
+5529,0,,orbits
+5530,0,,orbits
+5531,0,,orbits
+5532,0,,orbits
+5533,0,,orbits
+5534,0,,orbits
+5535,0,,orbits
+5536,0,,orbits
+5537,0,,orbits
+5538,0,,orbits
+5539,0,,orbits
+5540,0,,orbits
+5541,0,,orbits
+5542,0,,orbits
+5543,0,,orbits
+5544,0,,orbits
+5545,0,,orbits
+5546,0,,orbits
+5547,0,,orbits
+5548,0,,orbits
+5549,0,,orbits
+5550,0,,orbits
+5551,0,,orbits
+5552,0,,orbits
+5553,0,,orbits
+5554,0,,orbits
+5555,0,,orbits
+5556,0,,orbits
+5557,0,,orbits
+5558,0,,orbits
+5559,0,,orbits
+5560,0,,orbits
+5561,0,,orbits
+5562,0,,orbits
+5563,0,,orbits
+5564,0,,orbits
+5565,0,,orbits
+5566,0,,orbits
+5567,0,,orbits
+5568,0,,orbits
+5569,0,,orbits
+5570,0,,orbits
+5571,0,,orbits
+5572,0,,orbits
+5573,0,,orbits
+5574,0,,orbits
+5575,0,,orbits
+5576,0,,orbits
+5577,0,,orbits
+5578,0,,orbits
+5579,0,,orbits
+5580,0,,orbits
+5581,0,,orbits
+5582,0,,orbits
+5583,0,,orbits
+5584,0,,orbits
+5585,0,,orbits
+5586,0,,orbits
+5587,0,,orbits
+5588,0,,orbits
+5589,0,,orbits
+5590,0,,orbits
+5591,0,,orbits
+5592,0,,orbits
+5593,0,,orbits
+5594,0,,orbits
+5595,0,,orbits
+5596,0,,orbits
+5597,0,,orbits
+5598,0,,orbits
+5599,0,,orbits
+5600,0,,orbits
+5601,0,,orbits
+5602,0,,orbits
+5603,0,,orbits
+5604,0,,orbits
+5605,0,,orbits
+5606,0,,orbits
+5607,0,,orbits
+5608,0,,orbits
+5609,0,,orbits
+5610,0,,orbits
+5611,0,,orbits
+5612,0,,orbits
+5613,0,,orbits
+5614,0,,orbits
+5615,0,,orbits
+5616,0,,orbits
+5617,0,,orbits
+5618,0,,orbits
+5619,0,,orbits
+5620,0,,orbits
+5621,0,,orbits
+5622,0,,orbits
+5623,0,,orbits
+5624,0,,orbits
+5625,0,,orbits
+5626,0,,orbits
+5627,0,,orbits
+5628,0,,orbits
+5629,0,,orbits
+5630,0,,orbits
+5631,0,,orbits
+5632,0,,orbits
+5633,0,,orbits
+5634,0,,orbits
+5635,0,,orbits
+5636,0,,orbits
+5637,0,,orbits
+5638,0,,orbits
+5639,0,,orbits
+5640,0,,orbits
+5641,0,,orbits
+5642,0,,orbits
+5643,0,,orbits
+5644,0,,orbits
+5645,0,,orbits
+5646,0,,orbits
+5647,0,,orbits
+5648,0,,orbits
+5649,0,,orbits
+5650,0,,orbits
+5651,0,,orbits
+5652,0,,orbits
+5653,0,,orbits
+5654,0,,orbits
+5655,0,,orbits
+5656,0,,orbits
+5657,0,,orbits
+5658,0,,orbits
+5659,0,,orbits
+5660,0,,orbits
+5661,0,,orbits
+5662,0,,orbits
+5663,0,,orbits
+5664,0,,orbits
+5665,0,,orbits
+5666,0,,orbits
+5667,0,,orbits
+5668,0,,orbits
+5669,0,,orbits
+5670,0,,orbits
+5671,0,,orbits
+5672,0,,orbits
+5673,0,,orbits
+5674,0,,orbits
+5675,0,,orbits
+5676,0,,orbits
+5677,0,,orbits
+5678,0,,orbits
+5679,0,,orbits
+5680,0,,orbits
+5681,0,,orbits
+5682,0,,orbits
+5683,0,,orbits
+5684,0,,orbits
+5685,0,,orbits
+5686,0,,orbits
+5687,0,,orbits
+5688,0,,orbits
+5689,0,,orbits
+5690,0,,orbits
+5691,0,,orbits
+5692,0,,orbits
+5693,0,,orbits
+5694,0,,orbits
+5695,0,,orbits
+5696,0,,orbits
+5697,0,,orbits
+5698,0,,orbits
+5699,0,,orbits
+5700,0,,orbits
+5701,0,,orbits
+5702,0,,orbits
+5703,0,,orbits
+5704,0,,orbits
+5705,0,,orbits
+5706,0,,orbits
+5707,1,,
+5708,0,4 chambers heart,4 chambers heart
+5709,0,4 chambers heart,4 chambers heart
+5710,0,4 chambers heart,4 chambers heart
+5711,0,4 chambers view,4 chambers view
+5712,0,4 chambers view,4 chambers view
+5713,0,4 chambers view,4 chambers view
+5714,0,4 chambers view,4 chambers view
+5715,0,4 chambers view,4 chambers view
+5716,0,4 chambers view,4 chambers view
+5717,0,4 chambers view,4 chambers view
+5718,0,4 chambers view,4 chambers view
+5719,0,4 chambers view,4 chambers view
+5720,0,4 chambers view,4 chambers view
+5721,0,4 chambers view,4 chambers view
+5722,0,4 chambers view,4 chambers view
+5723,0,4 chambers view,4 chambers view
+5724,0,4 chambers view,4 chambers view
+5725,0,4 chambers view,4 chambers view
+5726,0,4 chambers view,4 chambers view
+5727,0,4 chambers view,4 chambers view
+5728,0,4 chambers view,4 chambers view
+5729,0,4 chambers view,4 chambers view
+5730,0,4 chambers view,4 chambers view
+5731,0,4 chambers view,4 chambers view
+5732,0,4 chambers view,4 chambers view
+5733,0,4 chambers view,4 chambers view
+5734,0,three vessels view,three vessels view
+5735,1,three vessels view,three vessels view
+5736,0,three vessels view,three vessels view
+5737,0,three vessels view,three vessels view
+5738,0,three vessels view,three vessels view
+5739,0,three vessels view,three vessels view
+5740,0,three vessels view,three vessels view
+5741,0,three vessels view,three vessels view
+5742,0,three vessels view,three vessels view
+5743,0,three vessels view,three vessels view
+5744,0,three vessels view,three vessels view
+5745,0,three vessels view,three vessels view
+5746,0,three vessels view,three vessels view
+5747,0,three vessels view,three vessels view
+5748,0,three vessels view,three vessels view
+5749,1,three vessels view,three vessels view
+5750,1,three vessels view,three vessels view
+5751,1,three vessels view,three vessels view
+5752,1,three vessels view,three vessels view
+5753,1,three vessels view,three vessels view
+5754,1,three vessels view,three vessels view
+5755,1,three vessels view,three vessels view
+5756,1,three vessels view,three vessels view
+5757,0,three vessels view,three vessels view
+5758,0,three vessels view,three vessels view
+5759,1,three vessels view,three vessels view
+5760,1,three vessels view,three vessels view
+5761,1,three vessels view,three vessels view
+5762,1,three vessels view,three vessels view
+5763,1,three vessels view,three vessels view
+5764,1,,three vessels view
+5765,1,,three vessels view
+5766,1,,three vessels view
+5767,1,,three vessels view
+5768,1,,three vessels view
+5769,1,,three vessels view
+5770,1,,three vessels view
+5771,0,,three vessels view
+5772,0,,three vessels view
+5773,0,,three vessels view
+5774,0,,three vessels view
+5775,1,,three vessels view
+5776,1,,three vessels view
+5777,0,,three vessels view
+5778,0,,three vessels view
+5779,0,,three vessels view
+5780,0,,three vessels view
+5781,0,,three vessels view
+5782,0,,three vessels view
+5783,0,,three vessels view
+5784,0,,three vessels view
+5785,1,,
+5786,0,,
+5787,0,,
+5788,0,4 chambers view doppler,4 chambers view doppler
+5789,0,4 chambers view doppler,4 chambers view doppler
+5790,0,4 chambers view doppler,4 chambers view doppler
+5791,0,4 chambers view doppler,4 chambers view doppler
+5792,0,4 chambers view doppler,4 chambers view doppler
+5793,0,4 chambers view doppler,4 chambers view doppler
+5794,0,4 chambers view doppler,4 chambers view doppler
+5795,0,4 chambers view doppler,4 chambers view doppler
+5796,0,4 chambers view doppler,4 chambers view doppler
+5797,0,4 chambers view doppler,4 chambers view doppler
+5798,0,4 chambers view doppler,4 chambers view doppler
+5799,0,4 chambers view doppler,4 chambers view doppler
+5800,0,4 chambers view doppler,4 chambers view doppler
+5801,0,4 chambers view doppler,4 chambers view doppler
+5802,0,4 chambers view doppler,4 chambers view doppler
+5803,0,4 chambers view doppler,4 chambers view doppler
+5804,0,4 chambers view doppler,4 chambers view doppler
+5805,0,4 chambers view doppler,4 chambers view doppler
+5806,0,4 chambers view doppler,4 chambers view doppler
+5807,0,4 chambers view doppler,4 chambers view doppler
+5808,0,4 chambers view doppler,4 chambers view doppler
+5809,0,4 chambers view doppler,4 chambers view doppler
+5810,0,4 chambers view doppler,4 chambers view doppler
+5811,0,4 chambers view doppler,4 chambers view doppler
+5812,0,4 chambers view doppler,4 chambers view doppler
+5813,0,4 chambers view doppler,4 chambers view doppler
+5814,0,4 chambers view doppler,4 chambers view doppler
+5815,0,4 chambers view doppler,4 chambers view doppler
+5816,0,4 chambers view doppler,4 chambers view doppler
+5817,0,4 chambers view doppler,4 chambers view doppler
+5818,0,,4 chambers view doppler
+5819,0,,4 chambers view doppler
+5820,0,,4 chambers view doppler
+5821,0,,4 chambers view doppler
+5822,0,,4 chambers view doppler
+5823,0,,4 chambers view doppler
+5824,0,,4 chambers view doppler
+5825,0,,4 chambers view doppler
+5826,0,,4 chambers view doppler
+5827,0,,4 chambers view doppler
+5828,0,,4 chambers view doppler
+5829,0,,4 chambers view doppler
+5830,0,,4 chambers view doppler
+5831,1,,4 chambers view doppler
+5832,0,,4 chambers view doppler
+5833,0,,4 chambers view doppler
+5834,0,,4 chambers view doppler
+5835,0,,4 chambers view doppler
+5836,0,,4 chambers view doppler
+5837,0,,4 chambers view doppler
+5838,0,,4 chambers view doppler
+5839,0,,4 chambers view doppler
+5840,0,,4 chambers view doppler
+5841,0,,4 chambers view doppler
+5842,0,,4 chambers view doppler
+5843,0,,4 chambers view doppler
+5844,0,,4 chambers view doppler
+5845,0,,4 chambers view doppler
+5846,0,,4 chambers view doppler
+5847,0,,4 chambers view doppler
+5848,0,,4 chambers view doppler
+5849,0,,4 chambers view doppler
+5850,0,,4 chambers view doppler
+5851,0,,4 chambers view doppler
+5852,0,,4 chambers view doppler
+5853,0,,4 chambers view doppler
+5854,0,,4 chambers view doppler
+5855,0,,4 chambers view doppler
+5856,0,,4 chambers view doppler
+5857,0,,4 chambers view doppler
+5858,0,,4 chambers view doppler
+5859,0,,4 chambers view doppler
+5860,0,,4 chambers view doppler
+5861,0,,4 chambers view doppler
+5862,0,,4 chambers view doppler
+5863,0,,4 chambers view doppler
+5864,0,,4 chambers view doppler
+5865,0,,4 chambers view doppler
+5866,0,,4 chambers view doppler
+5867,0,,4 chambers view doppler
+5868,0,,4 chambers view doppler
+5869,0,,4 chambers view doppler
+5870,0,,4 chambers view doppler
+5871,0,,4 chambers view doppler
+5872,0,,4 chambers view doppler
+5873,0,,4 chambers view doppler
+5874,0,,4 chambers view doppler
+5875,0,,4 chambers view doppler
+5876,0,,4 chambers view doppler
+5877,0,,4 chambers view doppler
+5878,0,,4 chambers view doppler
+5879,0,,4 chambers view doppler
+5880,0,,4 chambers view doppler
+5881,0,,4 chambers view doppler
+5882,0,,4 chambers view doppler
+5883,0,,4 chambers view doppler
+5884,0,,4 chambers view doppler
+5885,0,,4 chambers view doppler
+5886,0,,4 chambers view doppler
+5887,0,,4 chambers view doppler
+5888,0,,4 chambers view doppler
+5889,0,,4 chambers view doppler
+5890,0,,4 chambers view doppler
+5891,0,,4 chambers view doppler
+5892,0,,4 chambers view doppler
+5893,0,,4 chambers view doppler
+5894,0,,4 chambers view doppler
+5895,0,,4 chambers view doppler
+5896,0,,4 chambers view doppler
+5897,0,,4 chambers view doppler
+5898,0,,4 chambers view doppler
+5899,0,,4 chambers view doppler
+5900,0,,4 chambers view doppler
+5901,0,,4 chambers view doppler
+5902,0,,4 chambers view doppler
+5903,0,,4 chambers view doppler
+5904,0,,4 chambers view doppler
+5905,1,,4 chambers view doppler
+5906,0,,4 chambers view doppler
+5907,0,,4 chambers view doppler
+5908,0,,4 chambers view doppler
+5909,0,,4 chambers view doppler
+5910,0,,4 chambers view doppler
+5911,0,,4 chambers view doppler
+5912,0,,4 chambers view doppler
+5913,0,,4 chambers view doppler
+5914,0,,4 chambers view doppler
+5915,0,,4 chambers view doppler
+5916,0,,4 chambers view doppler
+5917,0,,4 chambers view doppler
+5918,0,,4 chambers view doppler
+5919,0,,4 chambers view doppler
+5920,0,,4 chambers view doppler
+5921,0,,4 chambers view doppler
+5922,0,,4 chambers view doppler
+5923,0,,4 chambers view doppler
+5924,0,,4 chambers view doppler
+5925,0,,4 chambers view doppler
+5926,0,,4 chambers view doppler
+5927,0,,4 chambers view doppler
+5928,0,,4 chambers view doppler
+5929,0,,4 chambers view doppler
+5930,0,,4 chambers view doppler
+5931,0,,4 chambers view doppler
+5932,0,,4 chambers view doppler
+5933,0,,4 chambers view doppler
+5934,0,,4 chambers view doppler
+5935,0,,4 chambers view doppler
+5936,0,,4 chambers view doppler
+5937,0,,4 chambers view doppler
+5938,0,,4 chambers view doppler
+5939,0,,4 chambers view doppler
+5940,0,,4 chambers view doppler
+5941,0,,4 chambers view doppler
+5942,0,,4 chambers view doppler
+5943,0,,4 chambers view doppler
+5944,0,,4 chambers view doppler
+5945,0,,4 chambers view doppler
+5946,0,,4 chambers view doppler
+5947,0,,4 chambers view doppler
+5948,0,,4 chambers view doppler
+5949,0,,4 chambers view doppler
+5950,0,,4 chambers view doppler
+5951,0,,4 chambers view doppler
+5952,0,,4 chambers view doppler
+5953,0,,4 chambers view doppler
+5954,0,,4 chambers view doppler
+5955,0,,4 chambers view doppler
+5956,0,,4 chambers view doppler
+5957,0,,4 chambers view doppler
+5958,0,,4 chambers view doppler
+5959,0,,4 chambers view doppler
+5960,0,,4 chambers view doppler
+5961,0,,4 chambers view doppler
+5962,0,,4 chambers view doppler
+5963,0,,4 chambers view doppler
+5964,0,,4 chambers view doppler
+5965,0,,4 chambers view doppler
+5966,0,,4 chambers view doppler
+5967,0,,4 chambers view doppler
+5968,0,,4 chambers view doppler
+5969,0,,4 chambers view doppler
+5970,0,,4 chambers view doppler
+5971,0,,4 chambers view doppler
+5972,0,,4 chambers view doppler
+5973,0,,4 chambers view doppler
+5974,0,,4 chambers view doppler
+5975,0,,4 chambers view doppler
+5976,0,,4 chambers view doppler
+5977,0,,4 chambers view doppler
+5978,0,,4 chambers view doppler
+5979,0,,4 chambers view doppler
+5980,0,,4 chambers view doppler
+5981,0,,4 chambers view doppler
+5982,0,,4 chambers view doppler
+5983,0,,4 chambers view doppler
+5984,0,,4 chambers view doppler
+5985,0,,4 chambers view doppler
+5986,0,,4 chambers view doppler
+5987,0,,4 chambers view doppler
+5988,0,,4 chambers view doppler
+5989,0,,4 chambers view doppler
+5990,0,,4 chambers view doppler
+5991,0,,4 chambers view doppler
+5992,0,,4 chambers view doppler
+5993,0,,4 chambers view doppler
+5994,0,,4 chambers view doppler
+5995,0,,4 chambers view doppler
+5996,0,,4 chambers view doppler
+5997,1,,4 chambers view doppler
+5998,1,,4 chambers view doppler
+5999,1,,4 chambers view doppler
+6000,1,,4 chambers view doppler
+6001,0,,4 chambers view doppler
+6002,0,,4 chambers view doppler
+6003,0,,4 chambers view doppler
+6004,0,,4 chambers view doppler
+6005,1,,4 chambers view doppler
+6006,1,,4 chambers view doppler
+6007,1,,4 chambers view doppler
+6008,1,,
+6009,0,,
+6010,0,,
+6011,0,,
+6012,0,,
+6013,0,,
+6014,0,,
+6015,0,,
+6016,0,,
+6017,0,cord,cord
+6018,0,cord,cord
+6019,0,cord,cord
+6020,0,cord,cord
+6021,1,cord,cord
+6022,0,cord,cord
+6023,0,cord,cord
+6024,0,cord,cord
+6025,0,cord,cord
+6026,0,cord,cord
+6027,0,cord,cord
+6028,0,cord,cord
+6029,0,cord,cord
+6030,0,cord,cord
+6031,0,cord,cord
+6032,0,cord,cord
+6033,0,cord,cord
+6034,0,cord,cord
+6035,0,cord,cord
+6036,0,cord,cord
+6037,0,cord,cord
+6038,0,cord,cord
+6039,0,cord,cord
+6040,0,cord,cord
+6041,0,cord,cord
+6042,0,cord,cord
+6043,0,cord,cord
+6044,0,cord,cord
+6045,0,cord,cord
+6046,0,cord,cord
+6047,0,,cord
+6048,0,,cord
+6049,0,,cord
+6050,0,,cord
+6051,0,,cord
+6052,0,,cord
+6053,0,,cord
+6054,0,,cord
+6055,0,,cord
+6056,0,,cord
+6057,0,,cord
+6058,0,,cord
+6059,0,,cord
+6060,0,,cord
+6061,0,,cord
+6062,0,,cord
+6063,0,,cord
+6064,0,,cord
+6065,0,,cord
+6066,0,,cord
+6067,0,,cord
+6068,0,,cord
+6069,0,,cord
+6070,0,,cord
+6071,0,,cord
+6072,0,,cord
+6073,0,,cord
+6074,0,,cord
+6075,0,,cord
+6076,0,,cord
+6077,0,,cord
+6078,0,,cord
+6079,0,,cord
+6080,0,,cord
+6081,0,,cord
+6082,0,,cord
+6083,0,,cord
+6084,0,,cord
+6085,0,,cord
+6086,0,,cord
+6087,0,,cord
+6088,0,,cord
+6089,0,,cord
+6090,0,,cord
+6091,0,,cord
+6092,0,,cord
+6093,0,,cord
+6094,0,,cord
+6095,0,,cord
+6096,0,,cord
+6097,0,,cord
+6098,0,,cord
+6099,0,,cord
+6100,0,,cord
+6101,0,,cord
+6102,0,,cord
+6103,0,,cord
+6104,0,,cord
+6105,0,,cord
+6106,0,,cord
+6107,0,,cord
+6108,0,,cord
+6109,0,,cord
+6110,0,,cord
+6111,0,,cord
+6112,0,,cord
+6113,0,,cord
+6114,0,,cord
+6115,0,,cord
+6116,0,,cord
+6117,0,,cord
+6118,0,,cord
+6119,0,,cord
+6120,0,,cord
+6121,0,,cord
+6122,0,,cord
+6123,0,,cord
+6124,0,,cord
+6125,0,,cord
+6126,0,,cord
+6127,0,,cord
+6128,0,,cord
+6129,0,,cord
+6130,0,,cord
+6131,0,,cord
+6132,0,,cord
+6133,0,,cord
+6134,0,,cord
+6135,0,,cord
+6136,0,,cord
+6137,0,,cord
+6138,0,,cord
+6139,0,,cord
+6140,0,,cord
+6141,0,,cord
+6142,0,,cord
+6143,0,,cord
+6144,0,,cord
+6145,0,,cord
+6146,0,,cord
+6147,0,,cord
+6148,0,,cord
+6149,1,,
+6150,0,,
+6151,0,,
+6152,0,,
+6153,0,,
+6154,0,,
+6155,0,,
+6156,0,,
+6157,0,,
+6158,0,,
+6159,0,,
+6160,0,,
+6161,0,,
+6162,0,,
+6163,0,,
+6164,0,,
+6165,0,,
+6166,0,,
+6167,0,,
+6168,0,,
+6169,0,,
+6170,0,,
+6171,0,,
+6172,0,,
+6173,0,,
+6174,0,,
+6175,0,,
+6176,0,,
+6177,0,,
+6178,0,,
+6179,0,,
+6180,0,,
+6181,0,,
+6182,0,,
+6183,0,,
+6184,0,,
+6185,0,,
+6186,0,,
+6187,0,,
+6188,0,,
+6189,0,,
+6190,0,,
+6191,0,,
+6192,0,,
+6193,0,,
+6194,0,,
+6195,0,,
+6196,0,,
+6197,0,,
+6198,0,,
+6199,0,,
+6200,0,,
+6201,0,,
+6202,0,,
+6203,0,,
+6204,0,placenta cervix distance,placenta cervix distance
+6205,0,placenta cervix distance,placenta cervix distance
+6206,0,placenta cervix distance,placenta cervix distance
+6207,0,placenta cervix distance,placenta cervix distance
+6208,0,placenta cervix distance,placenta cervix distance
+6209,0,placenta cervix distance,placenta cervix distance
+6210,0,placenta cervix distance,placenta cervix distance
+6211,0,placenta cervix distance,placenta cervix distance
+6212,0,placenta cervix distance,placenta cervix distance
+6213,0,placenta cervix distance,placenta cervix distance
+6214,0,placenta cervix distance,placenta cervix distance
+6215,0,placenta cervix distance,placenta cervix distance
+6216,0,placenta cervix distance,placenta cervix distance
+6217,0,placenta cervix distance,placenta cervix distance
+6218,0,placenta cervix distance,placenta cervix distance
+6219,0,placenta cervix distance,placenta cervix distance
+6220,0,placenta cervix distance,placenta cervix distance
+6221,0,placenta cervix distance,placenta cervix distance
+6222,0,placenta cervix distance,placenta cervix distance
+6223,0,placenta cervix distance,placenta cervix distance
+6224,0,placenta cervix distance,placenta cervix distance
+6225,0,placenta cervix distance,placenta cervix distance
+6226,0,placenta cervix distance,placenta cervix distance
+6227,1,placenta cervix distance,placenta cervix distance
+6228,0,placenta cervix distance,placenta cervix distance
+6229,0,placenta cervix distance,placenta cervix distance
+6230,0,placenta cervix distance,placenta cervix distance
+6231,0,placenta cervix distance,placenta cervix distance
+6232,0,placenta cervix distance,placenta cervix distance
+6233,0,placenta cervix distance,placenta cervix distance
+6234,0,,placenta cervix distance
+6235,0,,placenta cervix distance
+6236,0,,placenta cervix distance
+6237,0,,placenta cervix distance
+6238,0,,placenta cervix distance
+6239,0,,placenta cervix distance
+6240,0,,placenta cervix distance
+6241,0,,placenta cervix distance
+6242,0,,placenta cervix distance
+6243,0,,placenta cervix distance
+6244,0,,placenta cervix distance
+6245,0,,placenta cervix distance
+6246,0,,placenta cervix distance
+6247,0,,placenta cervix distance
+6248,0,,placenta cervix distance
+6249,0,,placenta cervix distance
+6250,0,,placenta cervix distance
+6251,0,,placenta cervix distance
+6252,0,,placenta cervix distance
+6253,0,,placenta cervix distance
+6254,0,,placenta cervix distance
+6255,0,,placenta cervix distance
+6256,0,,placenta cervix distance
+6257,0,,placenta cervix distance
+6258,0,,placenta cervix distance
+6259,0,,placenta cervix distance
+6260,0,,placenta cervix distance
+6261,0,,placenta cervix distance
+6262,0,,placenta cervix distance
+6263,0,,placenta cervix distance
+6264,0,,placenta cervix distance
+6265,0,,placenta cervix distance
+6266,0,,placenta cervix distance
+6267,0,,placenta cervix distance
+6268,0,,placenta cervix distance
+6269,0,,placenta cervix distance
+6270,0,,placenta cervix distance
+6271,0,,placenta cervix distance
+6272,0,,placenta cervix distance
+6273,0,,placenta cervix distance
+6274,0,,placenta cervix distance
+6275,0,,placenta cervix distance
+6276,0,,placenta cervix distance
+6277,0,,placenta cervix distance
+6278,0,,placenta cervix distance
+6279,0,,placenta cervix distance
+6280,0,,placenta cervix distance
+6281,0,,placenta cervix distance
+6282,0,,placenta cervix distance
+6283,0,,placenta cervix distance
+6284,0,,placenta cervix distance
+6285,0,,placenta cervix distance
+6286,0,,placenta cervix distance
+6287,0,,placenta cervix distance
+6288,0,,placenta cervix distance
+6289,0,,placenta cervix distance
+6290,0,,placenta cervix distance
+6291,0,,placenta cervix distance
+6292,0,,placenta cervix distance
+6293,0,,placenta cervix distance
+6294,0,,placenta cervix distance
+6295,0,,placenta cervix distance
+6296,0,,placenta cervix distance
+6297,0,,placenta cervix distance
+6298,0,,placenta cervix distance
+6299,0,,placenta cervix distance
+6300,0,,placenta cervix distance
+6301,0,,placenta cervix distance
+6302,0,,placenta cervix distance
+6303,0,,placenta cervix distance
+6304,0,,placenta cervix distance
+6305,0,,placenta cervix distance
+6306,0,,placenta cervix distance
+6307,0,,placenta cervix distance
+6308,0,,placenta cervix distance
+6309,0,,placenta cervix distance
+6310,0,,placenta cervix distance
+6311,0,,placenta cervix distance
+6312,0,,placenta cervix distance
+6313,0,,placenta cervix distance
+6314,0,,placenta cervix distance
+6315,0,,placenta cervix distance
+6316,0,,placenta cervix distance
+6317,0,,placenta cervix distance
+6318,0,,placenta cervix distance
+6319,0,,placenta cervix distance
+6320,0,,placenta cervix distance
+6321,0,,placenta cervix distance
+6322,0,,placenta cervix distance
+6323,0,,placenta cervix distance
+6324,0,,placenta cervix distance
+6325,0,,placenta cervix distance
+6326,0,,placenta cervix distance
+6327,0,,placenta cervix distance
+6328,0,,placenta cervix distance
+6329,0,,placenta cervix distance
+6330,0,,placenta cervix distance
+6331,0,,placenta cervix distance
+6332,0,,placenta cervix distance
+6333,0,,placenta cervix distance
+6334,0,,placenta cervix distance
+6335,0,,placenta cervix distance
+6336,0,,placenta cervix distance
+6337,0,,placenta cervix distance
+6338,0,,placenta cervix distance
+6339,0,,placenta cervix distance
+6340,0,,placenta cervix distance
+6341,0,,placenta cervix distance
+6342,0,,placenta cervix distance
+6343,0,,placenta cervix distance
+6344,0,,placenta cervix distance
+6345,0,,placenta cervix distance
+6346,0,,placenta cervix distance
+6347,0,,placenta cervix distance
+6348,0,,placenta cervix distance
+6349,0,,placenta cervix distance
+6350,0,,placenta cervix distance
+6351,0,,placenta cervix distance
+6352,0,,placenta cervix distance
+6353,0,,placenta cervix distance
+6354,0,,placenta cervix distance
+6355,0,,placenta cervix distance
+6356,0,,placenta cervix distance
+6357,0,,placenta cervix distance
+6358,0,,placenta cervix distance
+6359,0,,placenta cervix distance
+6360,0,,placenta cervix distance
+6361,1,,placenta cervix distance
+6362,1,,placenta cervix distance
+6363,1,,placenta cervix distance
+6364,1,,placenta cervix distance
+6365,1,,placenta cervix distance
+6366,1,,placenta cervix distance
+6367,1,,placenta cervix distance
+6368,1,,placenta cervix distance
+6369,1,,placenta cervix distance
+6370,1,,placenta cervix distance
+6371,1,,placenta cervix distance
+6372,1,,placenta cervix distance
+6373,1,,placenta cervix distance
+6374,1,,placenta cervix distance
+6375,1,,placenta cervix distance
+6376,1,,placenta cervix distance
+6377,1,,placenta cervix distance
+6378,1,,placenta cervix distance
+6379,1,,placenta cervix distance
+6380,1,,placenta cervix distance
+6381,1,,
+6382,1,right uterine artery,right uterine artery
+6383,1,right uterine artery,right uterine artery
+6384,1,right uterine artery,right uterine artery
+6385,1,right uterine artery,right uterine artery
+6386,1,right uterine artery,right uterine artery
+6387,1,right uterine artery,right uterine artery
+6388,1,right uterine artery,right uterine artery
+6389,1,right uterine artery,right uterine artery
+6390,1,right uterine artery,right uterine artery
+6391,1,right uterine artery,right uterine artery
+6392,1,right uterine artery,right uterine artery
+6393,1,right uterine artery,right uterine artery
+6394,1,right uterine artery,right uterine artery
+6395,1,right uterine artery,right uterine artery
+6396,1,right uterine artery,right uterine artery
+6397,1,right uterine artery,right uterine artery
+6398,1,right uterine artery,right uterine artery
+6399,1,right uterine artery,right uterine artery
+6400,1,right uterine artery,right uterine artery
+6401,1,right uterine artery,right uterine artery
+6402,1,right uterine artery,right uterine artery
+6403,1,right uterine artery,right uterine artery
+6404,1,right uterine artery,right uterine artery
+6405,1,right uterine artery,right uterine artery
+6406,1,right uterine artery,right uterine artery
+6407,1,right uterine artery,right uterine artery
+6408,1,right uterine artery,right uterine artery
+6409,1,right uterine artery,right uterine artery
+6410,1,right uterine artery,right uterine artery
+6411,1,right uterine artery,right uterine artery
+6412,1,,right uterine artery
+6413,1,,right uterine artery
+6414,1,,right uterine artery
+6415,1,,right uterine artery
+6416,1,,right uterine artery
+6417,1,,right uterine artery
+6418,1,,right uterine artery
+6419,1,,right uterine artery
+6420,1,,right uterine artery
+6421,1,,right uterine artery
+6422,1,,right uterine artery
+6423,1,,right uterine artery
+6424,1,,right uterine artery
+6425,1,,right uterine artery
+6426,1,,right uterine artery
+6427,1,,right uterine artery
+6428,1,,right uterine artery
+6429,1,,right uterine artery
+6430,1,,right uterine artery
+6431,1,,right uterine artery
+6432,1,,right uterine artery
+6433,1,,right uterine artery
+6434,1,,right uterine artery
+6435,1,,right uterine artery
+6436,1,,right uterine artery
+6437,1,,right uterine artery
+6438,1,,right uterine artery
+6439,1,,right uterine artery
+6440,1,,right uterine artery
+6441,1,,right uterine artery
+6442,1,,right uterine artery
+6443,1,,right uterine artery
+6444,1,,right uterine artery
+6445,1,,right uterine artery
+6446,1,,right uterine artery
+6447,1,,right uterine artery
+6448,1,,right uterine artery
+6449,1,,right uterine artery
+6450,1,,right uterine artery
+6451,1,,right uterine artery
+6452,1,,right uterine artery
+6453,1,,right uterine artery
+6454,1,,right uterine artery
+6455,1,,right uterine artery
+6456,1,,right uterine artery
+6457,1,,right uterine artery
+6458,1,,right uterine artery
+6459,1,,right uterine artery
+6460,1,,right uterine artery
+6461,1,,right uterine artery
+6462,1,,right uterine artery
+6463,1,,right uterine artery
+6464,1,,right uterine artery
+6465,1,,right uterine artery
+6466,1,,right uterine artery
+6467,1,,right uterine artery
+6468,1,,right uterine artery
+6469,1,,right uterine artery
+6470,1,,right uterine artery
+6471,0,,right uterine artery
+6472,0,,right uterine artery
+6473,1,,right uterine artery
+6474,1,,right uterine artery
+6475,1,,right uterine artery
+6476,1,,right uterine artery
+6477,1,,right uterine artery
+6478,1,,right uterine artery
+6479,1,,right uterine artery
+6480,1,,right uterine artery
+6481,1,,right uterine artery
+6482,1,,right uterine artery
+6483,1,,right uterine artery
+6484,1,,right uterine artery
+6485,1,,right uterine artery
+6486,1,,right uterine artery
+6487,1,,right uterine artery
+6488,1,,right uterine artery
+6489,1,,right uterine artery
+6490,1,,right uterine artery
+6491,1,,right uterine artery
+6492,1,,right uterine artery
+6493,1,,right uterine artery
+6494,1,,right uterine artery
+6495,1,,right uterine artery
+6496,1,,right uterine artery
+6497,1,,right uterine artery
+6498,1,,right uterine artery
+6499,1,,right uterine artery
+6500,1,,right uterine artery
+6501,1,,right uterine artery
+6502,1,,right uterine artery
+6503,1,,right uterine artery
+6504,1,,right uterine artery
+6505,1,,right uterine artery
+6506,1,,right uterine artery
+6507,1,,right uterine artery
+6508,1,,right uterine artery
+6509,1,,right uterine artery
+6510,1,,right uterine artery
+6511,0,,right uterine artery
+6512,0,,right uterine artery
+6513,0,,right uterine artery
+6514,0,,right uterine artery
+6515,1,,right uterine artery
+6516,1,,right uterine artery
+6517,1,,right uterine artery
+6518,1,,right uterine artery
+6519,1,,right uterine artery
+6520,1,,right uterine artery
+6521,1,,right uterine artery
+6522,1,,right uterine artery
+6523,1,,right uterine artery
+6524,1,,right uterine artery
+6525,1,,right uterine artery
+6526,1,,right uterine artery
+6527,1,,right uterine artery
+6528,1,,right uterine artery
+6529,1,,right uterine artery
+6530,1,,right uterine artery
+6531,1,,right uterine artery
+6532,1,,right uterine artery
+6533,1,,right uterine artery
+6534,1,,right uterine artery
+6535,1,,right uterine artery
+6536,1,,right uterine artery
+6537,1,,right uterine artery
+6538,1,,right uterine artery
+6539,1,,right uterine artery
+6540,1,,right uterine artery
+6541,1,,right uterine artery
+6542,1,,right uterine artery
+6543,1,,right uterine artery
+6544,1,,right uterine artery
+6545,1,,right uterine artery
+6546,1,,right uterine artery
+6547,1,,right uterine artery
+6548,1,,right uterine artery
+6549,1,,right uterine artery
+6550,1,,right uterine artery
+6551,1,,right uterine artery
+6552,1,,right uterine artery
+6553,1,,right uterine artery
+6554,1,,right uterine artery
+6555,0,,right uterine artery
+6556,0,,right uterine artery
+6557,0,,right uterine artery
+6558,0,,right uterine artery
+6559,1,,right uterine artery
+6560,1,,right uterine artery
+6561,1,,right uterine artery
+6562,1,,right uterine artery
+6563,1,,right uterine artery
+6564,1,,right uterine artery
+6565,1,,right uterine artery
+6566,1,,right uterine artery
+6567,1,,right uterine artery
+6568,1,,right uterine artery
+6569,1,,right uterine artery
+6570,1,,right uterine artery
+6571,1,,right uterine artery
+6572,1,,right uterine artery
+6573,1,,right uterine artery
+6574,1,,right uterine artery
+6575,1,,right uterine artery
+6576,1,,right uterine artery
+6577,1,,right uterine artery
+6578,1,,right uterine artery
+6579,1,,right uterine artery
+6580,1,,right uterine artery
+6581,1,,right uterine artery
+6582,1,,right uterine artery
+6583,1,,right uterine artery
+6584,1,,right uterine artery
+6585,1,,right uterine artery
+6586,1,,right uterine artery
+6587,1,,right uterine artery
+6588,1,,right uterine artery
+6589,1,,right uterine artery
+6590,1,,right uterine artery
+6591,1,,right uterine artery
+6592,1,,right uterine artery
+6593,1,,right uterine artery
+6594,1,,right uterine artery
+6595,1,,right uterine artery
+6596,1,,right uterine artery
+6597,1,,right uterine artery
+6598,1,,right uterine artery
+6599,1,,right uterine artery
+6600,1,,right uterine artery
+6601,1,,right uterine artery
+6602,1,,right uterine artery
+6603,1,,right uterine artery
+6604,1,,right uterine artery
+6605,1,,right uterine artery
+6606,1,,right uterine artery
+6607,1,,right uterine artery
+6608,1,,right uterine artery
+6609,1,,right uterine artery
+6610,1,,right uterine artery
+6611,1,,right uterine artery
+6612,1,,right uterine artery
+6613,1,,right uterine artery
+6614,1,,
+6615,0,,
+6616,0,,
+6617,0,,
+6618,0,,
+6619,0,,
+6620,0,,
+6621,0,,
+6622,0,,
+6623,0,,
+6624,0,,
+6625,0,,
+6626,0,,
+6627,0,,
+6628,0,,
+6629,0,,
+6630,0,,
+6631,0,,
+6632,0,,
+6633,0,,
+6634,0,,
+6635,0,,
+6636,0,,
+6637,0,,
+6638,0,,
+6639,0,,
+6640,0,,
+6641,0,,
+6642,0,,
+6643,0,,
+6644,0,,
+6645,0,,
+6646,0,,
+6647,0,,
+6648,0,,
+6649,0,,
+6650,0,,
+6651,0,,
+6652,0,left uterine artery,left uterine artery
+6653,0,left uterine artery,left uterine artery
+6654,0,left uterine artery,left uterine artery
+6655,0,left uterine artery,left uterine artery
+6656,0,left uterine artery,left uterine artery
+6657,0,left uterine artery,left uterine artery
+6658,0,left uterine artery,left uterine artery
+6659,0,left uterine artery,left uterine artery
+6660,0,left uterine artery,left uterine artery
+6661,0,left uterine artery,left uterine artery
+6662,0,left uterine artery,left uterine artery
+6663,0,left uterine artery,left uterine artery
+6664,0,left uterine artery,left uterine artery
+6665,0,left uterine artery,left uterine artery
+6666,0,left uterine artery,left uterine artery
+6667,0,left uterine artery,left uterine artery
+6668,0,left uterine artery,left uterine artery
+6669,0,left uterine artery,left uterine artery
+6670,0,left uterine artery,left uterine artery
+6671,0,left uterine artery,left uterine artery
+6672,0,left uterine artery,left uterine artery
+6673,0,left uterine artery,left uterine artery
+6674,0,left uterine artery,left uterine artery
+6675,0,left uterine artery,left uterine artery
+6676,0,left uterine artery,left uterine artery
+6677,0,left uterine artery,left uterine artery
+6678,0,left uterine artery,left uterine artery
+6679,0,left uterine artery,left uterine artery
+6680,0,left uterine artery,left uterine artery
+6681,0,left uterine artery,left uterine artery
+6682,0,,left uterine artery
+6683,0,,left uterine artery
+6684,0,,left uterine artery
+6685,0,,left uterine artery
+6686,0,,left uterine artery
+6687,0,,left uterine artery
+6688,0,,left uterine artery
+6689,0,,left uterine artery
+6690,0,,left uterine artery
+6691,0,,left uterine artery
+6692,0,,left uterine artery
+6693,0,,left uterine artery
+6694,0,,left uterine artery
+6695,0,,left uterine artery
+6696,0,,left uterine artery
+6697,0,,left uterine artery
+6698,0,,left uterine artery
+6699,0,,left uterine artery
+6700,0,,left uterine artery
+6701,0,,left uterine artery
+6702,0,,left uterine artery
+6703,1,,
+6704,0,,
+6705,0,,
+6706,0,,
+6707,0,,
+6708,0,,
+6709,0,,
+6710,0,,
+6711,0,,
+6712,0,,
+6713,0,,
+6714,0,,
+6715,0,,
+6716,0,,
+6717,0,,
+6718,0,,
+6719,0,,
+6720,0,,
+6721,0,,
+6722,0,,
+6723,0,,
+6724,0,,
+6725,0,,
+6726,0,,
+6727,0,,
+6728,0,,
+6729,0,,
+6730,0,,
+6731,0,,
+6732,0,,
+6733,0,,
+6734,0,,
+6735,0,,
+6736,0,,
+6737,0,,
+6738,0,,
+6739,0,,
+6740,0,,
+6741,0,,
+6742,0,,
+6743,0,,
+6744,0,,
+6745,0,,
+6746,0,,
+6747,0,,
+6748,0,,
+6749,0,,
+6750,0,,
+6751,0,,
+6752,0,,
+6753,0,,
+6754,0,,
+6755,0,,
+6756,0,,
+6757,0,,
+6758,0,,
+6759,0,,
+6760,0,,
+6761,0,,
+6762,0,,
+6763,0,,
+6764,0,,
+6765,0,,
+6766,0,,
+6767,0,,
+6768,0,,
+6769,0,,
+6770,0,,
+6771,0,,
+6772,0,,
+6773,0,,
+6774,0,,
+6775,0,,
+6776,0,,
+6777,0,,
+6778,0,,
+6779,0,,
+6780,0,,
+6781,0,,
+6782,0,,
+6783,0,,
+6784,0,,
+6785,0,,
+6786,0,,
+6787,0,,
+6788,0,,
+6789,0,,
+6790,0,,
+6791,0,,
+6792,0,,
+6793,0,,
+6794,0,,
+6795,0,,
+6796,0,,
+6797,0,,
+6798,0,,
+6799,0,,
+6800,0,,
+6801,0,,
+6802,0,,
+6803,0,,
+6804,0,,
+6805,0,,
+6806,0,,
+6807,0,,
+6808,0,,
+6809,0,,
+6810,0,,
+6811,0,,
+6812,0,,
+6813,0,,
+6814,0,,
+6815,0,,
+6816,0,,
+6817,0,,
+6818,0,,
+6819,0,,
+6820,0,,
+6821,0,,
+6822,0,,
+6823,0,,
+6824,0,,
+6825,0,heart activity,heart activity
+6826,0,heart activity,heart activity
+6827,0,heart activity,heart activity
+6828,0,heart activity,heart activity
+6829,0,heart activity,heart activity
+6830,0,heart activity,heart activity
+6831,0,heart activity,heart activity
+6832,0,heart activity,heart activity
+6833,0,heart activity,heart activity
+6834,0,heart activity,heart activity
+6835,0,heart activity,heart activity
+6836,0,heart activity,heart activity
+6837,0,heart activity,heart activity
+6838,0,heart activity,heart activity
+6839,0,heart activity,heart activity
+6840,0,heart activity,heart activity
+6841,0,heart activity,heart activity
+6842,0,heart activity,heart activity
+6843,0,heart activity,heart activity
+6844,0,heart activity,heart activity
+6845,0,heart activity,heart activity
+6846,0,heart activity,heart activity
+6847,0,heart activity,heart activity
+6848,0,heart activity,heart activity
+6849,0,heart activity,heart activity
+6850,0,heart activity,heart activity
+6851,0,heart activity,heart activity
+6852,0,heart activity,heart activity
+6853,0,heart activity,heart activity
+6854,0,heart activity,heart activity
+6855,0,,heart activity
+6856,0,,heart activity
+6857,0,,heart activity
+6858,0,,heart activity
+6859,0,,heart activity
+6860,0,,heart activity
+6861,0,,heart activity
+6862,0,,heart activity
+6863,0,,heart activity
+6864,0,,heart activity
