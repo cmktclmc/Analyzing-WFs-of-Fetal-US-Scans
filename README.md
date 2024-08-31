@@ -23,5 +23,4 @@ To address this issue, this project utilizes the pre-trained deep learning model
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/cmktclmc/fetal-ultrasound-workflow-analysis.git
-   cd fetal-ultrasound-workflow-analysis
+   git clone https://github.com/cmktclmc/fetal-ultrasound-workflow-analysis.git](https://github.com/cmktclmc/Analyzing-WFs-of-Fetal-US-Scans/
